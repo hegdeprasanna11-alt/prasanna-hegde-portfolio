@@ -1,1 +1,91 @@
-{"data":"aW1wb3J0IHsgTWFpbCwgTGlua2VkaW4sIEdpdGh1YiwgSGVhcnQgfSBmcm9tICdsdWNpZGUtcmVhY3QnOwoKY29uc3QgcXVpY2tMaW5rcyA9IFsKICB7IGhyZWY6ICcjYWJvdXQnLCBsYWJlbDogJ0Fib3V0JyB9LAogIHsgaHJlZjogJyNmZWF0dXJlZC1wcm9qZWN0cycsIGxhYmVsOiAnRmVhdHVyZWQgUHJvamVjdHMnIH0sCiAgeyBocmVmOiAnI21vcmUtcHJvamVjdHMnLCBsYWJlbDogJ0FsbCBQcm9qZWN0cycgfSwKICB7IGhyZWY6ICcjY2FyZWVyJywgbGFiZWw6ICdDYXJlZXInIH0sCiAgeyBocmVmOiAnI2NvbnRhY3QnLCBsYWJlbDogJ0NvbnRhY3QnIH0sCl07Cgpjb25zdCBzb2NpYWxMaW5rcyA9IFsKICB7IGljb246IExpbmtlZGluLCBocmVmOiAnaHR0cHM6Ly9saW5rZWRpbi5jb20vaW4vcHJhc2FubmFoZWdkZScsIGxhYmVsOiAnTGlua2VkSW4nIH0sCiAgeyBpY29uOiBNYWlsLCBocmVmOiAnbWFpbHRvOmhlZ2RlcHJhc2FubmExMUBnbWFpbC5jb20nLCBsYWJlbDogJ0VtYWlsJyB9LAogIHsgaWNvbjogR2l0aHViLCBocmVmOiAnaHR0cHM6Ly9naXRodWIuY29tL3ByYXNhbm5haGVnZGUnLCBsYWJlbDogJ0dpdEh1YicgfSwKXTsKCmV4cG9ydCBjb25zdCBGb290ZXIgPSAoKSA9PiB7CiAgY29uc3Qgc2Nyb2xsVG9TZWN0aW9uID0gKGhyZWY6IHN0cmluZykgPT4gewogICAgY29uc3QgZWxlbWVudCA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoaHJlZik7CiAgICBpZiAoZWxlbWVudCkgewogICAgICBjb25zdCBvZmZzZXQgPSA4MDsKICAgICAgY29uc3QgZWxlbWVudFBvc2l0aW9uID0gZWxlbWVudC5nZXRCb3VuZGluZ0NsaWVudFJlY3QoKS50b3A7CiAgICAgIGNvbnN0IG9mZnNldFBvc2l0aW9uID0gZWxlbWVudFBvc2l0aW9uICsgd2luZG93LnBhZ2VZT2Zmc2V0IC0gb2Zmc2V0OwogICAgICB3aW5kb3cuc2Nyb2xsVG8oeyB0b3A6IG9mZnNldFBvc2l0aW9uLCBiZWhhdmlvcjogJ3Ntb290aCcgfSk7CiAgICB9CiAgfTsKCiAgcmV0dXJuICgKICAgIDxmb290ZXIgY2xhc3NOYW1lPSJiZy1uYXZ5LWRhcmsgdGV4dC13aGl0ZS85MCI+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJtYXgtdy03eGwgbXgtYXV0byBweC00IHNtOnB4LTYgbGc6cHgtOCBweS0xMiBtZDpweS0xNiI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ3JpZC1jb2xzLTEgbWQ6Z3JpZC1jb2xzLTMgZ2FwLTggbWQ6Z2FwLTEyIj4KICAgICAgICAgIHsvKiBDb3B5cmlnaHQgKi99CiAgICAgICAgICA8ZGl2PgogICAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJmb250LWRpc3BsYXkgZm9udC1ib2xkIHRleHQteGwgbWItNCI+UHJhc2FubmEgSGVnZGU8L2gzPgogICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtd2hpdGUvNjAgdGV4dC1zbSBsZWFkaW5nLXJlbGF4ZWQiPgogICAgICAgICAgICAgIFByb2R1Y3QgU3RyYXRlZ3kgJiBJbm5vdmF0aW9uIExlYWQgc3BlY2lhbGl6aW5nIGluIEFJL01MLCBEaWdpdGFsIElkZW50aXR5LCBhbmQgRmludGVjaC4gQnVpbGRpbmcgaW1wYWN0ZnVsIHByb2R1Y3RzIHRoYXQgdHJhbnNmb3JtIGluZHVzdHJpZXMuCiAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXdoaXRlLzQwIHRleHQtc20gbXQtNCI+CiAgICAgICAgICAgICAgwqkge25ldyBEYXRlKCkuZ2V0RnVsbFllYXIoKX0gUHJhc2FubmEgSGVnZGUuIEFsbCByaWdodHMgcmVzZXJ2ZWQuCiAgICAgICAgICAgIDwvcD4KICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgIHsvKiBRdWljayBMaW5rcyAqL30KICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgIDxoNCBjbGFzc05hbWU9ImZvbnQtZGlzcGxheSBmb250LXNlbWlib2xkIHRleHQtbGcgbWItNCI+UXVpY2sgTGlua3M8L2g0PgogICAgICAgICAgICA8bmF2IGFyaWEtbGFiZWw9IkZvb3RlciBuYXZpZ2F0aW9uIj4KICAgICAgICAgICAgICA8dWwgY2xhc3NOYW1lPSJzcGFjZS15LTIiPgogICAgICAgICAgICAgICAge3F1aWNrTGlua3MubWFwKChsaW5rKSA9PiAoCiAgICAgICAgICAgICAgICAgIDxsaSBrZXk9e2xpbmsuaHJlZn0+CiAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gc2Nyb2xsVG9TZWN0aW9uKGxpbmsuaHJlZil9CiAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9InRleHQtd2hpdGUvNjAgaG92ZXI6dGV4dC13aGl0ZSB0cmFuc2l0aW9uLWNvbG9ycyB0ZXh0LXNtIgogICAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICAgIHtsaW5rLmxhYmVsfQogICAgICAgICAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgKSl9CiAgICAgICAgICAgICAgPC91bD4KICAgICAgICAgICAgPC9uYXY+CiAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICB7LyogU29jaWFsIExpbmtzICovfQogICAgICAgICAgPGRpdj4KICAgICAgICAgICAgPGg0IGNsYXNzTmFtZT0iZm9udC1kaXNwbGF5IGZvbnQtc2VtaWJvbGQgdGV4dC1sZyBtYi00Ij5Db25uZWN0PC9oND4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZ2FwLTQiPgogICAgICAgICAgICAgIHtzb2NpYWxMaW5rcy5tYXAoKHNvY2lhbCkgPT4gKAogICAgICAgICAgICAgICAgPGEKICAgICAgICAgICAgICAgICAga2V5PXtzb2NpYWwubGFiZWx9CiAgICAgICAgICAgICAgICAgIGhyZWY9e3NvY2lhbC5ocmVmfQogICAgICAgICAgICAgICAgICB0YXJnZXQ9e3NvY2lhbC5ocmVmLnN0YXJ0c1dpdGgoJ2h0dHAnKSA/ICdfYmxhbmsnIDogdW5kZWZpbmVkfQogICAgICAgICAgICAgICAgICByZWw9e3NvY2lhbC5ocmVmLnN0YXJ0c1dpdGgoJ2h0dHAnKSA/ICdub29wZW5lciBub3JlZmVycmVyJyA6IHVuZGVmaW5lZH0KICAgICAgICAgICAgICAgICAgYXJpYS1sYWJlbD17c29jaWFsLmxhYmVsfQogICAgICAgICAgICAgICAgICBjbGFzc05hbWU9InctMTAgaC0xMCByb3VuZGVkLWZ1bGwgYmctd2hpdGUvMTAgaG92ZXI6YmctdGVhbCBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciB0cmFuc2l0aW9uLWNvbG9ycyIKICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgPHNvY2lhbC5pY29uIGNsYXNzTmFtZT0iaC01IHctNSIgLz4KICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KCiAgICAgICAgey8qIEJvdHRvbSBiYXIgKi99CiAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTEyIHB0LTggYm9yZGVyLXQgYm9yZGVyLXdoaXRlLzEwIHRleHQtY2VudGVyIj4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC13aGl0ZS80MCB0ZXh0LXNtIGZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIGdhcC0xIj4KICAgICAgICAgICAgQnVpbHQgd2l0aCA8SGVhcnQgY2xhc3NOYW1lPSJoLTQgdy00IHRleHQtcmVkLTQwMCIgLz4gdXNpbmcgTG92YWJsZQogICAgICAgICAgPC9wPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvZm9vdGVyPgogICk7Cn07Cg=="}
+import { Mail, Linkedin, Github, Heart } from 'lucide-react';
+
+const quickLinks = [
+  { href: '#about', label: 'About' },
+  { href: '#featured-projects', label: 'Featured Projects' },
+  { href: '#more-projects', label: 'All Projects' },
+  { href: '#career', label: 'Career' },
+  { href: '#contact', label: 'Contact' },
+];
+
+const socialLinks = [
+  { icon: Linkedin, href: 'https://linkedin.com/in/prasannahegde', label: 'LinkedIn' },
+  { icon: Mail, href: 'mailto:hegdeprasanna11@gmail.com', label: 'Email' },
+  { icon: Github, href: 'https://github.com/prasannahegde', label: 'GitHub' },
+];
+
+export const Footer = () => {
+  const scrollToSection = (href: string) => {
+    const element = document.querySelector(href);
+    if (element) {
+      const offset = 80;
+      const elementPosition = element.getBoundingClientRect().top;
+      const offsetPosition = elementPosition + window.pageYOffset - offset;
+      window.scrollTo({ top: offsetPosition, behavior: 'smooth' });
+    }
+  };
+
+  return (
+    <footer className="bg-navy-dark text-white/90">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 md:py-16">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-12">
+          {/* Copyright */}
+          <div>
+            <h3 className="font-display font-bold text-xl mb-4">Prasanna Hegde</h3>
+            <p className="text-white/60 text-sm leading-relaxed">
+              Product Strategy & Innovation Lead specializing in AI/ML, Digital Identity, and Fintech. Building impactful products that transform industries.
+            </p>
+            <p className="text-white/40 text-sm mt-4">
+              © {new Date().getFullYear()} Prasanna Hegde. All rights reserved.
+            </p>
+          </div>
+
+          {/* Quick Links */}
+          <div>
+            <h4 className="font-display font-semibold text-lg mb-4">Quick Links</h4>
+            <nav aria-label="Footer navigation">
+              <ul className="space-y-2">
+                {quickLinks.map((link) => (
+                  <li key={link.href}>
+                    <button
+                      onClick={() => scrollToSection(link.href)}
+                      className="text-white/60 hover:text-white transition-colors text-sm"
+                    >
+                      {link.label}
+                    </button>
+                  </li>
+                ))}
+              </ul>
+            </nav>
+          </div>
+
+          {/* Social Links */}
+          <div>
+            <h4 className="font-display font-semibold text-lg mb-4">Connect</h4>
+            <div className="flex gap-4">
+              {socialLinks.map((social) => (
+                <a
+                  key={social.label}
+                  href={social.href}
+                  target={social.href.startsWith('http') ? '_blank' : undefined}
+                  rel={social.href.startsWith('http') ? 'noopener noreferrer' : undefined}
+                  aria-label={social.label}
+                  className="w-10 h-10 rounded-full bg-white/10 hover:bg-teal flex items-center justify-center transition-colors"
+                >
+                  <social.icon className="h-5 w-5" />
+                </a>
+              ))}
+            </div>
+          </div>
+        </div>
+
+        {/* Bottom bar */}
+        <div className="mt-12 pt-8 border-t border-white/10 text-center">
+          <p className="text-white/40 text-sm flex items-center justify-center gap-1">
+            Built with <Heart className="h-4 w-4 text-red-400" /> using Lovable
+          </p>
+        </div>
+      </div>
+    </footer>
+  );
+};

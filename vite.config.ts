@@ -1,1 +1,21 @@
-{"data":"aW1wb3J0IHsgZGVmaW5lQ29uZmlnIH0gZnJvbSAidml0ZSI7CmltcG9ydCByZWFjdCBmcm9tICJAdml0ZWpzL3BsdWdpbi1yZWFjdC1zd2MiOwppbXBvcnQgcGF0aCBmcm9tICJwYXRoIjsKaW1wb3J0IHsgY29tcG9uZW50VGFnZ2VyIH0gZnJvbSAibG92YWJsZS10YWdnZXIiOwoKLy8gaHR0cHM6Ly92aXRlanMuZGV2L2NvbmZpZy8KZXhwb3J0IGRlZmF1bHQgZGVmaW5lQ29uZmlnKCh7IG1vZGUgfSkgPT4gKHsKICBzZXJ2ZXI6IHsKICAgIGhvc3Q6ICI6OiIsCiAgICBwb3J0OiA4MDgwLAogICAgaG1yOiB7CiAgICAgIG92ZXJsYXk6IGZhbHNlLAogICAgfSwKICB9LAogIHBsdWdpbnM6IFtyZWFjdCgpLCBtb2RlID09PSAiZGV2ZWxvcG1lbnQiICYmIGNvbXBvbmVudFRhZ2dlcigpXS5maWx0ZXIoQm9vbGVhbiksCiAgcmVzb2x2ZTogewogICAgYWxpYXM6IHsKICAgICAgIkAiOiBwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAiLi9zcmMiKSwKICAgIH0sCiAgfSwKfSkpOwo="}
+import { defineConfig } from "vite";
+import react from "@vitejs/plugin-react-swc";
+import path from "path";
+import { componentTagger } from "lovable-tagger";
+
+// https://vitejs.dev/config/
+export default defineConfig(({ mode }) => ({
+  server: {
+    host: "::",
+    port: 8080,
+    hmr: {
+      overlay: false,
+    },
+  },
+  plugins: [react(), mode === "development" && componentTagger()].filter(Boolean),
+  resolve: {
+    alias: {
+      "@": path.resolve(__dirname, "./src"),
+    },
+  },
+}));

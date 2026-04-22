@@ -1,1 +1,185 @@
-{"data":"aW1wb3J0IHsgdXNlUmVmLCB1c2VFZmZlY3QgfSBmcm9tICdyZWFjdCc7CmltcG9ydCB7IG1vdGlvbiB9IGZyb20gJ2ZyYW1lci1tb3Rpb24nOwppbXBvcnQgeyBNYXBQaW4sIEFycm93RG93biB9IGZyb20gJ2x1Y2lkZS1yZWFjdCc7CmltcG9ydCB7IEJ1dHRvbiB9IGZyb20gJ0AvY29tcG9uZW50cy91aS9idXR0b24nOwppbXBvcnQgeyB1c2VJbnRlcnNlY3Rpb25PYnNlcnZlciwgdXNlQ291bnRVcCB9IGZyb20gJ0AvaG9va3MvdXNlQ291bnRVcCc7CgppbnRlcmZhY2UgU3RhdFByb3BzIHsKICB2YWx1ZTogbnVtYmVyOwogIHN1ZmZpeDogc3RyaW5nOwogIGxhYmVsOiBzdHJpbmc7Cn0KCmNvbnN0IFN0YXRDb3VudGVyID0gKHsgdmFsdWUsIHN1ZmZpeCwgbGFiZWwgfTogU3RhdFByb3BzKSA9PiB7CiAgY29uc3QgcmVmID0gdXNlUmVmPEhUTUxEaXZFbGVtZW50PihudWxsKTsKICBjb25zdCB7IGhhc0ludGVyc2VjdGVkIH0gPSB1c2VJbnRlcnNlY3Rpb25PYnNlcnZlcihyZWYpOwogIGNvbnN0IHsgY291bnQsIHN0YXJ0QW5pbWF0aW9uIH0gPSB1c2VDb3VudFVwKHsgZW5kOiB2YWx1ZSwgZHVyYXRpb246IDIwMDAgfSk7CgogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICBpZiAoaGFzSW50ZXJzZWN0ZWQpIHsKICAgICAgc3RhcnRBbmltYXRpb24oKTsKICAgIH0KICB9LCBbaGFzSW50ZXJzZWN0ZWQsIHN0YXJ0QW5pbWF0aW9uXSk7CgogIHJldHVybiAoCiAgICA8bW90aW9uLmRpdgogICAgICByZWY9e3JlZn0KICAgICAgaW5pdGlhbD17eyBvcGFjaXR5OiAwLCB5OiAyMCB9fQogICAgICB3aGlsZUluVmlldz17eyBvcGFjaXR5OiAxLCB5OiAwIH19CiAgICAgIHZpZXdwb3J0PXt7IG9uY2U6IHRydWUgfX0KICAgICAgdHJhbnNpdGlvbj17eyBkdXJhdGlvbjogMC41IH19CiAgICAgIGNsYXNzTmFtZT0idGV4dC1jZW50ZXIgcC00IgogICAgPgogICAgICA8ZGl2IGNsYXNzTmFtZT0iZm9udC1kaXNwbGF5IGZvbnQtYm9sZCB0ZXh0LTN4bCBtZDp0ZXh0LTR4bCBsZzp0ZXh0LTV4bCB0ZXh0LWZvcmVncm91bmQiPgogICAgICAgIHtjb3VudH0KICAgICAgICB7c3VmZml4fQogICAgICA8L2Rpdj4KICAgICAgPGRpdiBjbGFzc05hbWU9InRleHQtc20gbWQ6dGV4dC1iYXNlIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCBtdC0yIj57bGFiZWx9PC9kaXY+CiAgICA8L21vdGlvbi5kaXY+CiAgKTsKfTsKCmNvbnN0IHN0YXRzID0gWwogIHsgdmFsdWU6IDEwMCwgc3VmZml4OiAnKycsIGxhYmVsOiAnT3JnYW5pemF0aW9ucyBPbmJvYXJkZWQnIH0sCiAgeyB2YWx1ZTogMjUwLCBzdWZmaXg6ICdLKycsIGxhYmVsOiAnQVBJIFRyYW5zYWN0aW9ucyBQcm9jZXNzZWQnIH0sCiAgeyB2YWx1ZTogMi4xLCBzdWZmaXg6ICdNKycsIGxhYmVsOiAnUmV2ZW51ZSBHZW5lcmF0ZWQnIH0sCiAgeyB2YWx1ZTogMTgsIHN1ZmZpeDogJysnLCBsYWJlbDogJ1llYXJzIFByb2R1Y3QgTGVhZGVyc2hpcCcgfSwKXTsKCmV4cG9ydCBjb25zdCBIZXJvU2VjdGlvbiA9ICgpID0+IHsKICBjb25zdCBzY3JvbGxUb1Byb2plY3RzID0gKCkgPT4gewogICAgY29uc3QgZWxlbWVudCA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdmZWF0dXJlZC1wcm9qZWN0cycpOwogICAgaWYgKGVsZW1lbnQpIHsKICAgICAgY29uc3Qgb2Zmc2V0ID0gODA7CiAgICAgIGNvbnN0IGVsZW1lbnRQb3NpdGlvbiA9IGVsZW1lbnQuZ2V0Qm91bmRpbmdDbGllbnRSZWN0KCkudG9wOwogICAgICBjb25zdCBvZmZzZXRQb3NpdGlvbiA9IGVsZW1lbnRQb3NpdGlvbiArIHdpbmRvdy5wYWdlWU9mZnNldCAtIG9mZnNldDsKICAgICAgd2luZG93LnNjcm9sbFRvKHsgdG9wOiBvZmZzZXRQb3NpdGlvbiwgYmVoYXZpb3I6ICdzbW9vdGgnIH0pOwogICAgfQogIH07CgogIHJldHVybiAoCiAgICA8c2VjdGlvbgogICAgICBjbGFzc05hbWU9InJlbGF0aXZlIG1pbi1oLXNjcmVlbiBmbGV4IGZsZXgtY29sIGp1c3RpZnktY2VudGVyIG92ZXJmbG93LWhpZGRlbiIKICAgICAgc3R5bGU9e3sKICAgICAgICBiYWNrZ3JvdW5kOiAndmFyKC0tZ3JhZGllbnQtaGVybyknLAogICAgICB9fQogICAgPgogICAgICB7LyogQmFja2dyb3VuZCBkZWNvcmF0aW9uICovfQogICAgICA8ZGl2IGNsYXNzTmFtZT0iYWJzb2x1dGUgaW5zZXQtMCBvdmVyZmxvdy1oaWRkZW4gcG9pbnRlci1ldmVudHMtbm9uZSI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIHRvcC0xLzQgLXJpZ2h0LTEvNCB3LTk2IGgtOTYgYmctdGVhbC8xMCByb3VuZGVkLWZ1bGwgYmx1ci0zeGwgYW5pbWF0ZS1mbG9hdCIgLz4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYWJzb2x1dGUgYm90dG9tLTEvNCAtbGVmdC0xLzQgdy04MCBoLTgwIGJnLXB1cnBsZS1haS8xMCByb3VuZGVkLWZ1bGwgYmx1ci0zeGwgYW5pbWF0ZS1mbG9hdCIgc3R5bGU9e3sgYW5pbWF0aW9uRGVsYXk6ICctM3MnIH19IC8+CiAgICAgIDwvZGl2PgoKICAgICAgPGRpdiBjbGFzc05hbWU9InJlbGF0aXZlIHotMTAgbWF4LXctN3hsIG14LWF1dG8gcHgtNCBzbTpweC02IGxnOnB4LTggcHktMjQgbWQ6cHktMzIiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJncmlkIGxnOmdyaWQtY29scy0yIGdhcC0xMiBsZzpnYXAtMTYgaXRlbXMtY2VudGVyIj4KICAgICAgICAgIHsvKiBDb250ZW50ICovfQogICAgICAgICAgPG1vdGlvbi5kaXYKICAgICAgICAgICAgaW5pdGlhbD17eyBvcGFjaXR5OiAwLCB5OiAzMCB9fQogICAgICAgICAgICBhbmltYXRlPXt7IG9wYWNpdHk6IDEsIHk6IDAgfX0KICAgICAgICAgICAgdHJhbnNpdGlvbj17eyBkdXJhdGlvbjogMC44LCBlYXNlOiAnZWFzZU91dCcgfX0KICAgICAgICAgICAgY2xhc3NOYW1lPSJ0ZXh0LWNlbnRlciBsZzp0ZXh0LWxlZnQiCiAgICAgICAgICA+CiAgICAgICAgICAgIDxtb3Rpb24uZGl2CiAgICAgICAgICAgICAgaW5pdGlhbD17eyBvcGFjaXR5OiAwLCBzY2FsZTogMC45IH19CiAgICAgICAgICAgICAgYW5pbWF0ZT17eyBvcGFjaXR5OiAxLCBzY2FsZTogMSB9fQogICAgICAgICAgICAgIHRyYW5zaXRpb249e3sgZGVsYXk6IDAuMiwgZHVyYXRpb246IDAuNSB9fQogICAgICAgICAgICAgIGNsYXNzTmFtZT0iaW5saW5lLWZsZXggaXRlbXMtY2VudGVyIGdhcC0yIHB4LTQgcHktMiBiZy13aGl0ZS8xMCBiYWNrZHJvcC1ibHVyLXNtIHJvdW5kZWQtZnVsbCB0ZXh0LXdoaXRlLzkwIHRleHQtc20gbWItNiIKICAgICAgICAgICAgPgogICAgICAgICAgICAgIDxNYXBQaW4gY2xhc3NOYW1lPSJoLTQgdy00IiAvPgogICAgICAgICAgICAgIDxzcGFuPkJlbmdhbHVydSwgSW5kaWE8L3NwYW4+CiAgICAgICAgICAgIDwvbW90aW9uLmRpdj4KCiAgICAgICAgICAgIDxoMSBjbGFzc05hbWU9ImZvbnQtZGlzcGxheSBmb250LWJvbGQgdGV4dC00eGwgbWQ6dGV4dC01eGwgbGc6dGV4dC02eGwgdGV4dC13aGl0ZSBsZWFkaW5nLXRpZ2h0IG1iLTYiPgogICAgICAgICAgICAgIFByb2R1Y3QgU3RyYXRlZ3kgJiBJbm5vdmF0aW9uIExlYWR7JyAnfQogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iYmxvY2sgbXQtMiI+CiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImdyYWRpZW50LXRleHQiPkRpZ2l0YWwgSWRlbnRpdHksIEFJICYgQjJCIFNhYVM8L3NwYW4+CiAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICA8L2gxPgoKICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LWxnIG1kOnRleHQteGwgdGV4dC13aGl0ZS84MCBsZWFkaW5nLXJlbGF4ZWQgbWItOCBtYXgtdy0yeGwgbGc6bWF4LXctbm9uZSI+CiAgICAgICAgICAgICAgQnVpbGRpbmcgSW5kaWEncyBkaWdpdGFsIGlkZW50aXR5IGluZnJhc3RydWN0dXJlIGF0IFVJREFJIHwgMTgrIHllYXJzIHRyYW5zZm9ybWluZyBpbnNpZ2h0cyBpbnRvIHRocml2aW5nIHByb2R1Y3RzIGFjcm9zcyAw4oaSMSBzdGFydHVwcyBhbmQgbmF0aW9uYWwtc2NhbGUgcGxhdGZvcm1zCiAgICAgICAgICAgIDwvcD4KCiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGZsZXgtY29sIHNtOmZsZXgtcm93IGdhcC00IGp1c3RpZnktY2VudGVyIGxnOmp1c3RpZnktc3RhcnQiPgogICAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICAgIHNpemU9ImxnIgogICAgICAgICAgICAgICAgb25DbGljaz17c2Nyb2xsVG9Qcm9qZWN0c30KICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iYmctdGVhbCB0ZXh0LXdoaXRlIGhvdmVyOmJnLXRlYWwtbGlnaHQgaG92ZXI6c2NhbGUtMTA1IHRyYW5zaXRpb24tYWxsIGR1cmF0aW9uLTMwMCB0ZXh0LWxnIHB4LTggcHktNiIKICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICBWaWV3IEZlYXR1cmVkIFdvcmsKICAgICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgICBzaXplPSJsZyIKICAgICAgICAgICAgICAgIHZhcmlhbnQ9Im91dGxpbmUiCiAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImJvcmRlci13aGl0ZS8zMCB0ZXh0LXdoaXRlIGhvdmVyOmJnLXdoaXRlLzEwIHRleHQtbGcgcHgtOCBweS02IgogICAgICAgICAgICAgICAgYXNDaGlsZAogICAgICAgICAgICAgID4KICAgICAgICAgICAgICA8YSBocmVmPSIvUHJhc2FubmFfSGVnZGVfUmVzdW1lLnBkZiIgZG93bmxvYWQ9IlByYXNhbm5hX0hlZ2RlX1Jlc3VtZS5wZGYiPgogICAgICAgICAgICAgIERvd25sb2FkIFJlc3VtZQogICAgICAgICAgICAgPC9hPgoKICAgICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L21vdGlvbi5kaXY+CgogICAgICAgICAgey8qIFByb2ZpbGUgSW1hZ2UgKi99CiAgICAgICAgICA8bW90aW9uLmRpdgogICAgICAgICAgICBpbml0aWFsPXt7IG9wYWNpdHk6IDAsIHNjYWxlOiAwLjggfX0KICAgICAgICAgICAgYW5pbWF0ZT17eyBvcGFjaXR5OiAxLCBzY2FsZTogMSB9fQogICAgICAgICAgICB0cmFuc2l0aW9uPXt7IGRlbGF5OiAwLjQsIGR1cmF0aW9uOiAwLjgsIGVhc2U6ICdlYXNlT3V0JyB9fQogICAgICAgICAgICBjbGFzc05hbWU9ImZsZXgganVzdGlmeS1jZW50ZXIgbGc6anVzdGlmeS1lbmQiCiAgICAgICAgICA+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJyZWxhdGl2ZSI+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InctNDggaC00OCBtZDp3LTY0IG1kOmgtNjQgbGc6dy04MCBsZzpoLTgwIHJvdW5kZWQtZnVsbCBib3JkZXItNCBib3JkZXItdGVhbCBzaGFkb3cteGwgb3ZlcmZsb3ctaGlkZGVuIj4KICA8aW1nIAogICAgc3JjPSIvcHJvZmlsZS5qcGciIAogICAgYWx0PSJQcmFzYW5uYSBIZWdkZSIgCiAgICBjbGFzc05hbWU9InctZnVsbCBoLWZ1bGwgb2JqZWN0LWNvdmVyIgogIC8+CjwvZGl2PgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSAtYm90dG9tLTQgLXJpZ2h0LTQgdy0xNiBoLTE2IG1kOnctMjAgbWQ6aC0yMCByb3VuZGVkLWZ1bGwgYmctdGVhbCBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBzaGFkb3ctbGciPgogICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LTJ4bCBtZDp0ZXh0LTN4bCI+8J+Rizwvc3Bhbj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L21vdGlvbi5kaXY+CiAgICAgICAgPC9kaXY+CgogICAgICAgIHsvKiBTdGF0cyAqL30KICAgICAgICA8bW90aW9uLmRpdgogICAgICAgICAgaW5pdGlhbD17eyBvcGFjaXR5OiAwLCB5OiA0MCB9fQogICAgICAgICAgYW5pbWF0ZT17eyBvcGFjaXR5OiAxLCB5OiAwIH19CiAgICAgICAgICB0cmFuc2l0aW9uPXt7IGRlbGF5OiAwLjYsIGR1cmF0aW9uOiAwLjggfX0KICAgICAgICAgIGNsYXNzTmFtZT0ibXQtMTYgbWQ6bXQtMjQiCiAgICAgICAgPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ3JpZC1jb2xzLTIgbGc6Z3JpZC1jb2xzLTQgZ2FwLTQgbWQ6Z2FwLTggYmctd2hpdGUvNSBiYWNrZHJvcC1ibHVyLXNtIHJvdW5kZWQtMnhsIHAtNiBtZDpwLTgiPgogICAgICAgICAgICB7c3RhdHMubWFwKChzdGF0LCBpbmRleCkgPT4gKAogICAgICAgICAgICAgIDxkaXYga2V5PXtpbmRleH0gY2xhc3NOYW1lPSJ0ZXh0LWNlbnRlciI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZm9udC1kaXNwbGF5IGZvbnQtYm9sZCB0ZXh0LTJ4bCBtZDp0ZXh0LTN4bCBsZzp0ZXh0LTR4bCB0ZXh0LXdoaXRlIj4KICAgICAgICAgICAgICAgICAge3N0YXQudmFsdWUgPCAxMCA/IGAkJHtzdGF0LnZhbHVlfWAgOiBzdGF0LnZhbHVlfQogICAgICAgICAgICAgICAgICB7c3RhdC5zdWZmaXh9CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0ZXh0LXhzIG1kOnRleHQtc20gdGV4dC13aGl0ZS83MCBtdC0xIj57c3RhdC5sYWJlbH08L2Rpdj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgKSl9CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L21vdGlvbi5kaXY+CiAgICAgIDwvZGl2PgoKICAgICAgey8qIFNjcm9sbCBpbmRpY2F0b3IgKi99CiAgICAgIDxtb3Rpb24uZGl2CiAgICAgICAgaW5pdGlhbD17eyBvcGFjaXR5OiAwIH19CiAgICAgICAgYW5pbWF0ZT17eyBvcGFjaXR5OiAxIH19CiAgICAgICAgdHJhbnNpdGlvbj17eyBkZWxheTogMSwgZHVyYXRpb246IDAuNSB9fQogICAgICAgIGNsYXNzTmFtZT0iYWJzb2x1dGUgYm90dG9tLTggbGVmdC0xLzIgLXRyYW5zbGF0ZS14LTEvMiIKICAgICAgPgogICAgICAgIDxtb3Rpb24uZGl2CiAgICAgICAgICBhbmltYXRlPXt7IHk6IFswLCAxMCwgMF0gfX0KICAgICAgICAgIHRyYW5zaXRpb249e3sgZHVyYXRpb246IDIsIHJlcGVhdDogSW5maW5pdHksIGVhc2U6ICdlYXNlSW5PdXQnIH19CiAgICAgICAgICBjbGFzc05hbWU9InRleHQtd2hpdGUvNTAiCiAgICAgICAgPgogICAgICAgICAgPEFycm93RG93biBjbGFzc05hbWU9ImgtNiB3LTYiIC8+CiAgICAgICAgPC9tb3Rpb24uZGl2PgogICAgICA8L21vdGlvbi5kaXY+CiAgICA8L3NlY3Rpb24+CiAgKTsKfTsK"}
+import { useRef, useEffect } from 'react';
+import { motion } from 'framer-motion';
+import { MapPin, ArrowDown } from 'lucide-react';
+import { Button } from '@/components/ui/button';
+import { useIntersectionObserver, useCountUp } from '@/hooks/useCountUp';
+
+interface StatProps {
+  value: number;
+  suffix: string;
+  label: string;
+}
+
+const StatCounter = ({ value, suffix, label }: StatProps) => {
+  const ref = useRef<HTMLDivElement>(null);
+  const { hasIntersected } = useIntersectionObserver(ref);
+  const { count, startAnimation } = useCountUp({ end: value, duration: 2000 });
+
+  useEffect(() => {
+    if (hasIntersected) {
+      startAnimation();
+    }
+  }, [hasIntersected, startAnimation]);
+
+  return (
+    <motion.div
+      ref={ref}
+      initial={{ opacity: 0, y: 20 }}
+      whileInView={{ opacity: 1, y: 0 }}
+      viewport={{ once: true }}
+      transition={{ duration: 0.5 }}
+      className="text-center p-4"
+    >
+      <div className="font-display font-bold text-3xl md:text-4xl lg:text-5xl text-foreground">
+        {count}
+        {suffix}
+      </div>
+      <div className="text-sm md:text-base text-muted-foreground mt-2">{label}</div>
+    </motion.div>
+  );
+};
+
+const stats = [
+  { value: 100, suffix: '+', label: 'Organizations Onboarded' },
+  { value: 250, suffix: 'K+', label: 'API Transactions Processed' },
+  { value: 2.1, suffix: 'M+', label: 'Revenue Generated' },
+  { value: 18, suffix: '+', label: 'Years Product Leadership' },
+];
+
+export const HeroSection = () => {
+  const scrollToProjects = () => {
+    const element = document.getElementById('featured-projects');
+    if (element) {
+      const offset = 80;
+      const elementPosition = element.getBoundingClientRect().top;
+      const offsetPosition = elementPosition + window.pageYOffset - offset;
+      window.scrollTo({ top: offsetPosition, behavior: 'smooth' });
+    }
+  };
+
+  return (
+    <section
+      className="relative min-h-screen flex flex-col justify-center overflow-hidden"
+      style={{
+        background: 'var(--gradient-hero)',
+      }}
+    >
+      {/* Background decoration */}
+      <div className="absolute inset-0 overflow-hidden pointer-events-none">
+        <div className="absolute top-1/4 -right-1/4 w-96 h-96 bg-teal/10 rounded-full blur-3xl animate-float" />
+        <div className="absolute bottom-1/4 -left-1/4 w-80 h-80 bg-purple-ai/10 rounded-full blur-3xl animate-float" style={{ animationDelay: '-3s' }} />
+      </div>
+
+      <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24 md:py-32">
+        <div className="grid lg:grid-cols-2 gap-12 lg:gap-16 items-center">
+          {/* Content */}
+          <motion.div
+            initial={{ opacity: 0, y: 30 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.8, ease: 'easeOut' }}
+            className="text-center lg:text-left"
+          >
+            <motion.div
+              initial={{ opacity: 0, scale: 0.9 }}
+              animate={{ opacity: 1, scale: 1 }}
+              transition={{ delay: 0.2, duration: 0.5 }}
+              className="inline-flex items-center gap-2 px-4 py-2 bg-white/10 backdrop-blur-sm rounded-full text-white/90 text-sm mb-6"
+            >
+              <MapPin className="h-4 w-4" />
+              <span>Bengaluru, India</span>
+            </motion.div>
+
+            <h1 className="font-display font-bold text-4xl md:text-5xl lg:text-6xl text-white leading-tight mb-6">
+              Product Strategy & Innovation Lead{' '}
+              <span className="block mt-2">
+                <span className="gradient-text">Digital Identity, AI & B2B SaaS</span>
+              </span>
+            </h1>
+
+            <p className="text-lg md:text-xl text-white/80 leading-relaxed mb-8 max-w-2xl lg:max-w-none">
+              Building India's digital identity infrastructure at UIDAI | 18+ years transforming insights into thriving products across 0→1 startups and national-scale platforms
+            </p>
+
+            <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
+              <Button
+                size="lg"
+                onClick={scrollToProjects}
+                className="bg-teal text-white hover:bg-teal-light hover:scale-105 transition-all duration-300 text-lg px-8 py-6"
+              >
+                View Featured Work
+              </Button>
+              <Button
+                size="lg"
+                variant="outline"
+                className="border-white/30 text-white hover:bg-white/10 text-lg px-8 py-6"
+                asChild
+              >
+              <a href="/Prasanna_Hegde_Resume.pdf" download="Prasanna_Hegde_Resume.pdf">
+              Download Resume
+             </a>
+
+              </Button>
+            </div>
+          </motion.div>
+
+          {/* Profile Image */}
+          <motion.div
+            initial={{ opacity: 0, scale: 0.8 }}
+            animate={{ opacity: 1, scale: 1 }}
+            transition={{ delay: 0.4, duration: 0.8, ease: 'easeOut' }}
+            className="flex justify-center lg:justify-end"
+          >
+            <div className="relative">
+              <div className="w-48 h-48 md:w-64 md:h-64 lg:w-80 lg:h-80 rounded-full border-4 border-teal shadow-xl overflow-hidden">
+  <img 
+    src="/profile.jpg" 
+    alt="Prasanna Hegde" 
+    className="w-full h-full object-cover"
+  />
+</div>
+              <div className="absolute -bottom-4 -right-4 w-16 h-16 md:w-20 md:h-20 rounded-full bg-teal flex items-center justify-center shadow-lg">
+                <span className="text-2xl md:text-3xl">👋</span>
+              </div>
+            </div>
+          </motion.div>
+        </div>
+
+        {/* Stats */}
+        <motion.div
+          initial={{ opacity: 0, y: 40 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay: 0.6, duration: 0.8 }}
+          className="mt-16 md:mt-24"
+        >
+          <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 md:gap-8 bg-white/5 backdrop-blur-sm rounded-2xl p-6 md:p-8">
+            {stats.map((stat, index) => (
+              <div key={index} className="text-center">
+                <div className="font-display font-bold text-2xl md:text-3xl lg:text-4xl text-white">
+                  {stat.value < 10 ? `$${stat.value}` : stat.value}
+                  {stat.suffix}
+                </div>
+                <div className="text-xs md:text-sm text-white/70 mt-1">{stat.label}</div>
+              </div>
+            ))}
+          </div>
+        </motion.div>
+      </div>
+
+      {/* Scroll indicator */}
+      <motion.div
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        transition={{ delay: 1, duration: 0.5 }}
+        className="absolute bottom-8 left-1/2 -translate-x-1/2"
+      >
+        <motion.div
+          animate={{ y: [0, 10, 0] }}
+          transition={{ duration: 2, repeat: Infinity, ease: 'easeInOut' }}
+          className="text-white/50"
+        >
+          <ArrowDown className="h-6 w-6" />
+        </motion.div>
+      </motion.div>
+    </section>
+  );
+};

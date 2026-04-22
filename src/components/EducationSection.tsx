@@ -1,1 +1,109 @@
-{"data":"aW1wb3J0IHsgbW90aW9uIH0gZnJvbSAnZnJhbWVyLW1vdGlvbic7CmltcG9ydCB7IEdyYWR1YXRpb25DYXAsIEF3YXJkIH0gZnJvbSAnbHVjaWRlLXJlYWN0JzsKaW1wb3J0IHsgZWR1Y2F0aW9uTGlzdCwgY2VydGlmaWNhdGlvbnMgfSBmcm9tICdAL2RhdGEvY2FyZWVyJzsKCmNvbnN0IGNvbnRhaW5lclZhcmlhbnRzID0gewogIGhpZGRlbjogeyBvcGFjaXR5OiAwIH0sCiAgdmlzaWJsZTogewogICAgb3BhY2l0eTogMSwKICAgIHRyYW5zaXRpb246IHsKICAgICAgc3RhZ2dlckNoaWxkcmVuOiAwLjEsCiAgICB9LAogIH0sCn07Cgpjb25zdCBpdGVtVmFyaWFudHMgPSB7CiAgaGlkZGVuOiB7IG9wYWNpdHk6IDAsIHk6IDIwIH0sCiAgdmlzaWJsZTogewogICAgb3BhY2l0eTogMSwKICAgIHk6IDAsCiAgICB0cmFuc2l0aW9uOiB7IGR1cmF0aW9uOiAwLjUgfSwKICB9LAp9OwoKZXhwb3J0IGNvbnN0IEVkdWNhdGlvblNlY3Rpb24gPSAoKSA9PiB7CiAgcmV0dXJuICgKICAgIDxzZWN0aW9uIGlkPSJlZHVjYXRpb24iIGNsYXNzTmFtZT0ic2VjdGlvbi1jb250YWluZXIgYmctbXV0ZWQvMzAiPgogICAgICA8ZGl2IGNsYXNzTmFtZT0ic2VjdGlvbi1oZWFkZXIiPgogICAgICAgIDxtb3Rpb24uaDIKICAgICAgICAgIGluaXRpYWw9e3sgb3BhY2l0eTogMCwgeTogMjAgfX0KICAgICAgICAgIHdoaWxlSW5WaWV3PXt7IG9wYWNpdHk6IDEsIHk6IDAgfX0KICAgICAgICAgIHZpZXdwb3J0PXt7IG9uY2U6IHRydWUgfX0KICAgICAgICAgIGNsYXNzTmFtZT0ic2VjdGlvbi10aXRsZSIKICAgICAgICA+CiAgICAgICAgICBFZHVjYXRpb24gJiBDcmVkZW50aWFscwogICAgICAgIDwvbW90aW9uLmgyPgogICAgICA8L2Rpdj4KCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJncmlkIGxnOmdyaWQtY29scy0yIGdhcC04IGxnOmdhcC0xMiBtYXgtdy02eGwgbXgtYXV0byI+CiAgICAgICAgey8qIEVkdWNhdGlvbiAqL30KICAgICAgICA8bW90aW9uLmRpdgogICAgICAgICAgdmFyaWFudHM9e2NvbnRhaW5lclZhcmlhbnRzfQogICAgICAgICAgaW5pdGlhbD0iaGlkZGVuIgogICAgICAgICAgd2hpbGVJblZpZXc9InZpc2libGUiCiAgICAgICAgICB2aWV3cG9ydD17eyBvbmNlOiB0cnVlIH19CiAgICAgICAgPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0zIG1iLTYiPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idy0xMCBoLTEwIHJvdW5kZWQtbGcgYmctbmF2eS8xMCBkYXJrOmJnLWJsdWUtNDAwLzEwIGZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIj4KICAgICAgICAgICAgICA8R3JhZHVhdGlvbkNhcCBjbGFzc05hbWU9ImgtNSB3LTUgdGV4dC1uYXZ5IGRhcms6dGV4dC1ibHVlLTQwMCIgLz4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxoMyBjbGFzc05hbWU9ImZvbnQtZGlzcGxheSBmb250LXNlbWlib2xkIHRleHQteGwgdGV4dC1mb3JlZ3JvdW5kIj5FZHVjYXRpb248L2gzPgogICAgICAgICAgPC9kaXY+CgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktNCI+CiAgICAgICAgICAgIHtlZHVjYXRpb25MaXN0Lm1hcCgoZWR1KSA9PiAoCiAgICAgICAgICAgICAgPG1vdGlvbi5kaXYKICAgICAgICAgICAgICAgIGtleT17ZWR1LmlkfQogICAgICAgICAgICAgICAgdmFyaWFudHM9e2l0ZW1WYXJpYW50c30KICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iY2FyZC1ob3ZlciBiZy1jYXJkIHJvdW5kZWQteGwgYm9yZGVyIGJvcmRlci1ib3JkZXIgcC01IHNoYWRvdy1zb2Z0IgogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGp1c3RpZnktYmV0d2VlbiBpdGVtcy1zdGFydCBnYXAtNCBtYi0yIj4KICAgICAgICAgICAgICAgICAgPGg0IGNsYXNzTmFtZT0iZm9udC1kaXNwbGF5IGZvbnQtc2VtaWJvbGQgdGV4dC1mb3JlZ3JvdW5kIj57ZWR1Lmluc3RpdHV0aW9ufTwvaDQ+CiAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LW11dGVkLWZvcmVncm91bmQgd2hpdGVzcGFjZS1ub3dyYXAiPntlZHUucGVyaW9kfTwvc3Bhbj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LWFjY2VudCBmb250LW1lZGl1bSB0ZXh0LXNtIG1iLTIiPntlZHUuZGVncmVlfTwvcD4KICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LW11dGVkLWZvcmVncm91bmQiPntlZHUuZm9jdXN9PC9wPgogICAgICAgICAgICAgIDwvbW90aW9uLmRpdj4KICAgICAgICAgICAgKSl9CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L21vdGlvbi5kaXY+CgogICAgICAgIHsvKiBDZXJ0aWZpY2F0aW9ucyAqL30KICAgICAgICA8bW90aW9uLmRpdgogICAgICAgICAgdmFyaWFudHM9e2NvbnRhaW5lclZhcmlhbnRzfQogICAgICAgICAgaW5pdGlhbD0iaGlkZGVuIgogICAgICAgICAgd2hpbGVJblZpZXc9InZpc2libGUiCiAgICAgICAgICB2aWV3cG9ydD17eyBvbmNlOiB0cnVlIH19CiAgICAgICAgPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0zIG1iLTYiPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idy0xMCBoLTEwIHJvdW5kZWQtbGcgYmctcHVycGxlLWFpLzEwIGZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIj4KICAgICAgICAgICAgICA8QXdhcmQgY2xhc3NOYW1lPSJoLTUgdy01IHRleHQtcHVycGxlLWFpIiAvPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGgzIGNsYXNzTmFtZT0iZm9udC1kaXNwbGF5IGZvbnQtc2VtaWJvbGQgdGV4dC14bCB0ZXh0LWZvcmVncm91bmQiPkNlcnRpZmljYXRpb25zPC9oMz4KICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTQiPgogICAgICAgICAgICB7Y2VydGlmaWNhdGlvbnMubWFwKChjZXJ0KSA9PiAoCiAgICAgICAgICAgICAgPG1vdGlvbi5kaXYKICAgICAgICAgICAgICAgIGtleT17Y2VydC5pZH0KICAgICAgICAgICAgICAgIHZhcmlhbnRzPXtpdGVtVmFyaWFudHN9CiAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImNhcmQtaG92ZXIgYmctY2FyZCByb3VuZGVkLXhsIGJvcmRlciBib3JkZXItYm9yZGVyIHAtNSBzaGFkb3ctc29mdCIKICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1zdGFydCBqdXN0aWZ5LWJldHdlZW4gZ2FwLTMiPgogICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgIDxoNCBjbGFzc05hbWU9ImZvbnQtZGlzcGxheSBmb250LXNlbWlib2xkIHRleHQtZm9yZWdyb3VuZCBtYi0xIj57Y2VydC5uYW1lfTwvaDQ+CiAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtYWNjZW50IGZvbnQtbWVkaXVtIG1iLTIiPntjZXJ0LnByb3ZpZGVyfTwvcD4KICAgICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj57Y2VydC5mb2N1c308L3A+CiAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idy0xMiBoLTEyIHJvdW5kZWQtbGcgYmctbXV0ZWQgZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgZmxleC1zaHJpbmstMCI+CiAgICAgICAgICAgICAgICAgICAgPEF3YXJkIGNsYXNzTmFtZT0iaC02IHctNiB0ZXh0LW11dGVkLWZvcmVncm91bmQiIC8+CiAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC9tb3Rpb24uZGl2PgogICAgICAgICAgICApKX0KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvbW90aW9uLmRpdj4KICAgICAgPC9kaXY+CiAgICA8L3NlY3Rpb24+CiAgKTsKfTsK"}
+import { motion } from 'framer-motion';
+import { GraduationCap, Award } from 'lucide-react';
+import { educationList, certifications } from '@/data/career';
+
+const containerVariants = {
+  hidden: { opacity: 0 },
+  visible: {
+    opacity: 1,
+    transition: {
+      staggerChildren: 0.1,
+    },
+  },
+};
+
+const itemVariants = {
+  hidden: { opacity: 0, y: 20 },
+  visible: {
+    opacity: 1,
+    y: 0,
+    transition: { duration: 0.5 },
+  },
+};
+
+export const EducationSection = () => {
+  return (
+    <section id="education" className="section-container bg-muted/30">
+      <div className="section-header">
+        <motion.h2
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          className="section-title"
+        >
+          Education & Credentials
+        </motion.h2>
+      </div>
+
+      <div className="grid lg:grid-cols-2 gap-8 lg:gap-12 max-w-6xl mx-auto">
+        {/* Education */}
+        <motion.div
+          variants={containerVariants}
+          initial="hidden"
+          whileInView="visible"
+          viewport={{ once: true }}
+        >
+          <div className="flex items-center gap-3 mb-6">
+            <div className="w-10 h-10 rounded-lg bg-navy/10 dark:bg-blue-400/10 flex items-center justify-center">
+              <GraduationCap className="h-5 w-5 text-navy dark:text-blue-400" />
+            </div>
+            <h3 className="font-display font-semibold text-xl text-foreground">Education</h3>
+          </div>
+
+          <div className="space-y-4">
+            {educationList.map((edu) => (
+              <motion.div
+                key={edu.id}
+                variants={itemVariants}
+                className="card-hover bg-card rounded-xl border border-border p-5 shadow-soft"
+              >
+                <div className="flex justify-between items-start gap-4 mb-2">
+                  <h4 className="font-display font-semibold text-foreground">{edu.institution}</h4>
+                  <span className="text-sm text-muted-foreground whitespace-nowrap">{edu.period}</span>
+                </div>
+                <p className="text-accent font-medium text-sm mb-2">{edu.degree}</p>
+                <p className="text-sm text-muted-foreground">{edu.focus}</p>
+              </motion.div>
+            ))}
+          </div>
+        </motion.div>
+
+        {/* Certifications */}
+        <motion.div
+          variants={containerVariants}
+          initial="hidden"
+          whileInView="visible"
+          viewport={{ once: true }}
+        >
+          <div className="flex items-center gap-3 mb-6">
+            <div className="w-10 h-10 rounded-lg bg-purple-ai/10 flex items-center justify-center">
+              <Award className="h-5 w-5 text-purple-ai" />
+            </div>
+            <h3 className="font-display font-semibold text-xl text-foreground">Certifications</h3>
+          </div>
+
+          <div className="space-y-4">
+            {certifications.map((cert) => (
+              <motion.div
+                key={cert.id}
+                variants={itemVariants}
+                className="card-hover bg-card rounded-xl border border-border p-5 shadow-soft"
+              >
+                <div className="flex items-start justify-between gap-3">
+                  <div>
+                    <h4 className="font-display font-semibold text-foreground mb-1">{cert.name}</h4>
+                    <p className="text-sm text-accent font-medium mb-2">{cert.provider}</p>
+                    <p className="text-sm text-muted-foreground">{cert.focus}</p>
+                  </div>
+                  <div className="w-12 h-12 rounded-lg bg-muted flex items-center justify-center flex-shrink-0">
+                    <Award className="h-6 w-6 text-muted-foreground" />
+                  </div>
+                </div>
+              </motion.div>
+            ))}
+          </div>
+        </motion.div>
+      </div>
+    </section>
+  );
+};

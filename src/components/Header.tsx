@@ -1,1 +1,191 @@
-{"data":"aW1wb3J0IHsgdXNlU3RhdGUsIHVzZUVmZmVjdCB9IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHsgbW90aW9uLCBBbmltYXRlUHJlc2VuY2UgfSBmcm9tICdmcmFtZXItbW90aW9uJzsKaW1wb3J0IHsgTWVudSwgWCwgU3VuLCBNb29uLCBEb3dubG9hZCB9IGZyb20gJ2x1Y2lkZS1yZWFjdCc7CmltcG9ydCB7IEJ1dHRvbiB9IGZyb20gJ0AvY29tcG9uZW50cy91aS9idXR0b24nOwppbXBvcnQgeyB1c2VUaGVtZSB9IGZyb20gJ0AvaG9va3MvdXNlVGhlbWUnOwoKY29uc3QgbmF2TGlua3MgPSBbCiAgeyBocmVmOiAnI2Fib3V0JywgbGFiZWw6ICdBYm91dCcgfSwKICB7IGhyZWY6ICcjZmVhdHVyZWQtcHJvamVjdHMnLCBsYWJlbDogJ0ZlYXR1cmVkIFByb2plY3RzJyB9LAogIHsgaHJlZjogJyNtb3JlLXByb2plY3RzJywgbGFiZWw6ICdBbGwgUHJvamVjdHMnIH0sCiAgeyBocmVmOiAnI21ldGhvZG9sb2d5JywgbGFiZWw6ICdNZXRob2RvbG9neScgfSwKICB7IGhyZWY6ICcjY2FyZWVyJywgbGFiZWw6ICdDYXJlZXInIH0sCiAgeyBocmVmOiAnI2NvbnRhY3QnLCBsYWJlbDogJ0NvbnRhY3QnIH0sCl07CgpleHBvcnQgY29uc3QgSGVhZGVyID0gKCkgPT4gewogIGNvbnN0IFtpc1Njcm9sbGVkLCBzZXRJc1Njcm9sbGVkXSA9IHVzZVN0YXRlKGZhbHNlKTsKICBjb25zdCBbaXNNb2JpbGVNZW51T3Blbiwgc2V0SXNNb2JpbGVNZW51T3Blbl0gPSB1c2VTdGF0ZShmYWxzZSk7CiAgY29uc3QgeyB0aGVtZSwgdG9nZ2xlVGhlbWUgfSA9IHVzZVRoZW1lKCk7CgogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICBjb25zdCBoYW5kbGVTY3JvbGwgPSAoKSA9PiB7CiAgICAgIHNldElzU2Nyb2xsZWQod2luZG93LnNjcm9sbFkgPiAxMDApOwogICAgfTsKICAgIHdpbmRvdy5hZGRFdmVudExpc3RlbmVyKCdzY3JvbGwnLCBoYW5kbGVTY3JvbGwpOwogICAgcmV0dXJuICgpID0+IHdpbmRvdy5yZW1vdmVFdmVudExpc3RlbmVyKCdzY3JvbGwnLCBoYW5kbGVTY3JvbGwpOwogIH0sIFtdKTsKCiAgY29uc3Qgc2Nyb2xsVG9TZWN0aW9uID0gKGhyZWY6IHN0cmluZykgPT4gewogICAgY29uc3QgZWxlbWVudCA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoaHJlZik7CiAgICBpZiAoZWxlbWVudCkgewogICAgICBjb25zdCBvZmZzZXQgPSA4MDsKICAgICAgY29uc3QgZWxlbWVudFBvc2l0aW9uID0gZWxlbWVudC5nZXRCb3VuZGluZ0NsaWVudFJlY3QoKS50b3A7CiAgICAgIGNvbnN0IG9mZnNldFBvc2l0aW9uID0gZWxlbWVudFBvc2l0aW9uICsgd2luZG93LnBhZ2VZT2Zmc2V0IC0gb2Zmc2V0OwogICAgICB3aW5kb3cuc2Nyb2xsVG8oeyB0b3A6IG9mZnNldFBvc2l0aW9uLCBiZWhhdmlvcjogJ3Ntb290aCcgfSk7CiAgICB9CiAgICBzZXRJc01vYmlsZU1lbnVPcGVuKGZhbHNlKTsKICB9OwoKICByZXR1cm4gKAogICAgPD4KICAgICAgPGEgaHJlZj0iI21haW4tY29udGVudCIgY2xhc3NOYW1lPSJza2lwLWxpbmsiPgogICAgICAgIFNraXAgdG8gbWFpbiBjb250ZW50CiAgICAgIDwvYT4KICAgICAgPGhlYWRlcgogICAgICAgIGNsYXNzTmFtZT17YGZpeGVkIHRvcC0wIGxlZnQtMCByaWdodC0wIHotNTAgdHJhbnNpdGlvbi1hbGwgZHVyYXRpb24tMzAwICR7CiAgICAgICAgICBpc1Njcm9sbGVkCiAgICAgICAgICAgID8gJ2JnLWJhY2tncm91bmQvOTUgYmFja2Ryb3AtYmx1ci1tZCBzaGFkb3ctbWVkaXVtIGJvcmRlci1iIGJvcmRlci1ib3JkZXInCiAgICAgICAgICAgIDogJ2JnLXRyYW5zcGFyZW50JwogICAgICAgIH1gfQogICAgICA+CiAgICAgICAgPG5hdiBjbGFzc05hbWU9Im1heC13LTd4bCBteC1hdXRvIHB4LTQgc206cHgtNiBsZzpweC04IiBhcmlhLWxhYmVsPSJNYWluIG5hdmlnYXRpb24iPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktYmV0d2VlbiBoLTE2IG1kOmgtMjAiPgogICAgICAgICAgICB7LyogTG9nbyAqL30KICAgICAgICAgICAgPGEKICAgICAgICAgICAgICBocmVmPSIjIgogICAgICAgICAgICAgIGNsYXNzTmFtZT0iZm9udC1kaXNwbGF5IGZvbnQtYm9sZCB0ZXh0LXhsIG1kOnRleHQtMnhsIHRleHQtZm9yZWdyb3VuZCBob3Zlcjp0ZXh0LWFjY2VudCB0cmFuc2l0aW9uLWNvbG9ycyIKICAgICAgICAgICAgICBvbkNsaWNrPXsoZSkgPT4gewogICAgICAgICAgICAgICAgZS5wcmV2ZW50RGVmYXVsdCgpOwogICAgICAgICAgICAgICAgd2luZG93LnNjcm9sbFRvKHsgdG9wOiAwLCBiZWhhdmlvcjogJ3Ntb290aCcgfSk7CiAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgPgogICAgICAgICAgICAgIFByYXNhbm5hIEhlZ2RlCiAgICAgICAgICAgIDwvYT4KCiAgICAgICAgICAgIHsvKiBEZXNrdG9wIE5hdmlnYXRpb24gKi99CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJoaWRkZW4gbGc6ZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTEiPgogICAgICAgICAgICAgIHtuYXZMaW5rcy5tYXAoKGxpbmspID0+ICgKICAgICAgICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAgICAgICAga2V5PXtsaW5rLmhyZWZ9CiAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHNjcm9sbFRvU2VjdGlvbihsaW5rLmhyZWYpfQogICAgICAgICAgICAgICAgICBjbGFzc05hbWU9InB4LTQgcHktMiB0ZXh0LXNtIGZvbnQtbWVkaXVtIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCBob3Zlcjp0ZXh0LWZvcmVncm91bmQgdHJhbnNpdGlvbi1jb2xvcnMgbGluay11bmRlcmxpbmUiCiAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgIHtsaW5rLmxhYmVsfQogICAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgICAgKSl9CiAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgey8qIFJpZ2h0IHNpZGUgYWN0aW9ucyAqL30KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIG1kOmdhcC00Ij4KICAgICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgICB2YXJpYW50PSJnaG9zdCIKICAgICAgICAgICAgICAgIHNpemU9Imljb24iCiAgICAgICAgICAgICAgICBvbkNsaWNrPXt0b2dnbGVUaGVtZX0KICAgICAgICAgICAgICAgIGFyaWEtbGFiZWw9e2BTd2l0Y2ggdG8gJHt0aGVtZSA9PT0gJ2xpZ2h0JyA/ICdkYXJrJyA6ICdsaWdodCd9IG1vZGVgfQogICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJyb3VuZGVkLWZ1bGwiCiAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgPEFuaW1hdGVQcmVzZW5jZSBtb2RlPSJ3YWl0IiBpbml0aWFsPXtmYWxzZX0+CiAgICAgICAgICAgICAgICAgIDxtb3Rpb24uZGl2CiAgICAgICAgICAgICAgICAgICAga2V5PXt0aGVtZX0KICAgICAgICAgICAgICAgICAgICBpbml0aWFsPXt7IHk6IC0yMCwgb3BhY2l0eTogMCB9fQogICAgICAgICAgICAgICAgICAgIGFuaW1hdGU9e3sgeTogMCwgb3BhY2l0eTogMSB9fQogICAgICAgICAgICAgICAgICAgIGV4aXQ9e3sgeTogMjAsIG9wYWNpdHk6IDAgfX0KICAgICAgICAgICAgICAgICAgICB0cmFuc2l0aW9uPXt7IGR1cmF0aW9uOiAwLjIgfX0KICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgIHt0aGVtZSA9PT0gJ2xpZ2h0JyA/IDxNb29uIGNsYXNzTmFtZT0iaC01IHctNSIgLz4gOiA8U3VuIGNsYXNzTmFtZT0iaC01IHctNSIgLz59CiAgICAgICAgICAgICAgICAgIDwvbW90aW9uLmRpdj4KICAgICAgICAgICAgICAgIDwvQW5pbWF0ZVByZXNlbmNlPgogICAgICAgICAgICAgIDwvQnV0dG9uPgoKICAgICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgICB2YXJpYW50PSJvdXRsaW5lIgogICAgICAgICAgICAgICAgc2l6ZT0ic20iCiAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImhpZGRlbiBtZDpmbGV4IGdhcC0yIGJvcmRlci1hY2NlbnQgdGV4dC1hY2NlbnQgaG92ZXI6YmctYWNjZW50IGhvdmVyOnRleHQtYWNjZW50LWZvcmVncm91bmQiCiAgICAgICAgICAgICAgICBhc0NoaWxkCiAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgPGEgaHJlZj0iL3Jlc3VtZS5wZGYiIGRvd25sb2FkPgogICAgICAgICAgICAgICAgICA8RG93bmxvYWQgY2xhc3NOYW1lPSJoLTQgdy00IiAvPgogICAgICAgICAgICAgICAgICBEb3dubG9hZCBSZXN1bWUKICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICA8L0J1dHRvbj4KCiAgICAgICAgICAgICAgey8qIE1vYmlsZSBtZW51IGJ1dHRvbiAqL30KICAgICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgICB2YXJpYW50PSJnaG9zdCIKICAgICAgICAgICAgICAgIHNpemU9Imljb24iCiAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImxnOmhpZGRlbiIKICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHNldElzTW9iaWxlTWVudU9wZW4odHJ1ZSl9CiAgICAgICAgICAgICAgICBhcmlhLWxhYmVsPSJPcGVuIG1lbnUiCiAgICAgICAgICAgICAgICBhcmlhLWV4cGFuZGVkPXtpc01vYmlsZU1lbnVPcGVufQogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIDxNZW51IGNsYXNzTmFtZT0iaC02IHctNiIgLz4KICAgICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L25hdj4KICAgICAgPC9oZWFkZXI+CgogICAgICB7LyogTW9iaWxlIE1lbnUgKi99CiAgICAgIDxBbmltYXRlUHJlc2VuY2U+CiAgICAgICAge2lzTW9iaWxlTWVudU9wZW4gJiYgKAogICAgICAgICAgPD4KICAgICAgICAgICAgPG1vdGlvbi5kaXYKICAgICAgICAgICAgICBpbml0aWFsPXt7IG9wYWNpdHk6IDAgfX0KICAgICAgICAgICAgICBhbmltYXRlPXt7IG9wYWNpdHk6IDEgfX0KICAgICAgICAgICAgICBleGl0PXt7IG9wYWNpdHk6IDAgfX0KICAgICAgICAgICAgICBjbGFzc05hbWU9ImZpeGVkIGluc2V0LTAgYmctZm9yZWdyb3VuZC8yMCBiYWNrZHJvcC1ibHVyLXNtIHotNTAgbGc6aGlkZGVuIgogICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHNldElzTW9iaWxlTWVudU9wZW4oZmFsc2UpfQogICAgICAgICAgICAvPgogICAgICAgICAgICA8bW90aW9uLmRpdgogICAgICAgICAgICAgIGluaXRpYWw9e3sgeDogJzEwMCUnIH19CiAgICAgICAgICAgICAgYW5pbWF0ZT17eyB4OiAwIH19CiAgICAgICAgICAgICAgZXhpdD17eyB4OiAnMTAwJScgfX0KICAgICAgICAgICAgICB0cmFuc2l0aW9uPXt7IHR5cGU6ICdzcHJpbmcnLCBkYW1waW5nOiAyNSwgc3RpZmZuZXNzOiAyMDAgfX0KICAgICAgICAgICAgICBjbGFzc05hbWU9ImZpeGVkIHRvcC0wIHJpZ2h0LTAgYm90dG9tLTAgdy04MCBtYXgtdy1bODV2d10gYmctYmFja2dyb3VuZCBib3JkZXItbCBib3JkZXItYm9yZGVyIHotNTAgbGc6aGlkZGVuIgogICAgICAgICAgICA+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZmxleC1jb2wgaC1mdWxsIj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWJldHdlZW4gcC00IGJvcmRlci1iIGJvcmRlci1ib3JkZXIiPgogICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImZvbnQtZGlzcGxheSBmb250LWJvbGQgdGV4dC1sZyI+TWVudTwvc3Bhbj4KICAgICAgICAgICAgICAgICAgPEJ1dHRvbgogICAgICAgICAgICAgICAgICAgIHZhcmlhbnQ9Imdob3N0IgogICAgICAgICAgICAgICAgICAgIHNpemU9Imljb24iCiAgICAgICAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gc2V0SXNNb2JpbGVNZW51T3BlbihmYWxzZSl9CiAgICAgICAgICAgICAgICAgICAgYXJpYS1sYWJlbD0iQ2xvc2UgbWVudSIKICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgIDxYIGNsYXNzTmFtZT0iaC02IHctNiIgLz4KICAgICAgICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxuYXYgY2xhc3NOYW1lPSJmbGV4LTEgcC00IiBhcmlhLWxhYmVsPSJNb2JpbGUgbmF2aWdhdGlvbiI+CiAgICAgICAgICAgICAgICAgIDx1bCBjbGFzc05hbWU9InNwYWNlLXktMiI+CiAgICAgICAgICAgICAgICAgICAge25hdkxpbmtzLm1hcCgobGluaykgPT4gKAogICAgICAgICAgICAgICAgICAgICAgPGxpIGtleT17bGluay5ocmVmfT4KICAgICAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHNjcm9sbFRvU2VjdGlvbihsaW5rLmhyZWYpfQogICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0idy1mdWxsIHRleHQtbGVmdCBweC00IHB5LTMgdGV4dC1sZyBmb250LW1lZGl1bSB0ZXh0LWZvcmVncm91bmQgaG92ZXI6YmctbXV0ZWQgcm91bmRlZC1sZyB0cmFuc2l0aW9uLWNvbG9ycyIKICAgICAgICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgICAgICAgIHtsaW5rLmxhYmVsfQogICAgICAgICAgICAgICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICAgICAgKSl9CiAgICAgICAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICAgICAgICA8L25hdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJwLTQgYm9yZGVyLXQgYm9yZGVyLWJvcmRlciI+CiAgICAgICAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9InctZnVsbCBnYXAtMiBiZy1hY2NlbnQgdGV4dC1hY2NlbnQtZm9yZWdyb3VuZCBob3ZlcjpiZy1hY2NlbnQvOTAiCiAgICAgICAgICAgICAgICAgICAgYXNDaGlsZAogICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL3Jlc3VtZS5wZGYiIGRvd25sb2FkPgogICAgICAgICAgICAgICAgICAgICAgPERvd25sb2FkIGNsYXNzTmFtZT0iaC00IHctNCIgLz4KICAgICAgICAgICAgICAgICAgICAgIERvd25sb2FkIFJlc3VtZQogICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9tb3Rpb24uZGl2PgogICAgICAgICAgPC8+CiAgICAgICAgKX0KICAgICAgPC9BbmltYXRlUHJlc2VuY2U+CiAgICA8Lz4KICApOwp9Owo="}
+import { useState, useEffect } from 'react';
+import { motion, AnimatePresence } from 'framer-motion';
+import { Menu, X, Sun, Moon, Download } from 'lucide-react';
+import { Button } from '@/components/ui/button';
+import { useTheme } from '@/hooks/useTheme';
+
+const navLinks = [
+  { href: '#about', label: 'About' },
+  { href: '#featured-projects', label: 'Featured Projects' },
+  { href: '#more-projects', label: 'All Projects' },
+  { href: '#methodology', label: 'Methodology' },
+  { href: '#career', label: 'Career' },
+  { href: '#contact', label: 'Contact' },
+];
+
+export const Header = () => {
+  const [isScrolled, setIsScrolled] = useState(false);
+  const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  const { theme, toggleTheme } = useTheme();
+
+  useEffect(() => {
+    const handleScroll = () => {
+      setIsScrolled(window.scrollY > 100);
+    };
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
+
+  const scrollToSection = (href: string) => {
+    const element = document.querySelector(href);
+    if (element) {
+      const offset = 80;
+      const elementPosition = element.getBoundingClientRect().top;
+      const offsetPosition = elementPosition + window.pageYOffset - offset;
+      window.scrollTo({ top: offsetPosition, behavior: 'smooth' });
+    }
+    setIsMobileMenuOpen(false);
+  };
+
+  return (
+    <>
+      <a href="#main-content" className="skip-link">
+        Skip to main content
+      </a>
+      <header
+        className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
+          isScrolled
+            ? 'bg-background/95 backdrop-blur-md shadow-medium border-b border-border'
+            : 'bg-transparent'
+        }`}
+      >
+        <nav className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8" aria-label="Main navigation">
+          <div className="flex items-center justify-between h-16 md:h-20">
+            {/* Logo */}
+            <a
+              href="#"
+              className="font-display font-bold text-xl md:text-2xl text-foreground hover:text-accent transition-colors"
+              onClick={(e) => {
+                e.preventDefault();
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+              }}
+            >
+              Prasanna Hegde
+            </a>
+
+            {/* Desktop Navigation */}
+            <div className="hidden lg:flex items-center gap-1">
+              {navLinks.map((link) => (
+                <button
+                  key={link.href}
+                  onClick={() => scrollToSection(link.href)}
+                  className="px-4 py-2 text-sm font-medium text-muted-foreground hover:text-foreground transition-colors link-underline"
+                >
+                  {link.label}
+                </button>
+              ))}
+            </div>
+
+            {/* Right side actions */}
+            <div className="flex items-center gap-2 md:gap-4">
+              <Button
+                variant="ghost"
+                size="icon"
+                onClick={toggleTheme}
+                aria-label={`Switch to ${theme === 'light' ? 'dark' : 'light'} mode`}
+                className="rounded-full"
+              >
+                <AnimatePresence mode="wait" initial={false}>
+                  <motion.div
+                    key={theme}
+                    initial={{ y: -20, opacity: 0 }}
+                    animate={{ y: 0, opacity: 1 }}
+                    exit={{ y: 20, opacity: 0 }}
+                    transition={{ duration: 0.2 }}
+                  >
+                    {theme === 'light' ? <Moon className="h-5 w-5" /> : <Sun className="h-5 w-5" />}
+                  </motion.div>
+                </AnimatePresence>
+              </Button>
+
+              <Button
+                variant="outline"
+                size="sm"
+                className="hidden md:flex gap-2 border-accent text-accent hover:bg-accent hover:text-accent-foreground"
+                asChild
+              >
+                <a href="/resume.pdf" download>
+                  <Download className="h-4 w-4" />
+                  Download Resume
+                </a>
+              </Button>
+
+              {/* Mobile menu button */}
+              <Button
+                variant="ghost"
+                size="icon"
+                className="lg:hidden"
+                onClick={() => setIsMobileMenuOpen(true)}
+                aria-label="Open menu"
+                aria-expanded={isMobileMenuOpen}
+              >
+                <Menu className="h-6 w-6" />
+              </Button>
+            </div>
+          </div>
+        </nav>
+      </header>
+
+      {/* Mobile Menu */}
+      <AnimatePresence>
+        {isMobileMenuOpen && (
+          <>
+            <motion.div
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              exit={{ opacity: 0 }}
+              className="fixed inset-0 bg-foreground/20 backdrop-blur-sm z-50 lg:hidden"
+              onClick={() => setIsMobileMenuOpen(false)}
+            />
+            <motion.div
+              initial={{ x: '100%' }}
+              animate={{ x: 0 }}
+              exit={{ x: '100%' }}
+              transition={{ type: 'spring', damping: 25, stiffness: 200 }}
+              className="fixed top-0 right-0 bottom-0 w-80 max-w-[85vw] bg-background border-l border-border z-50 lg:hidden"
+            >
+              <div className="flex flex-col h-full">
+                <div className="flex items-center justify-between p-4 border-b border-border">
+                  <span className="font-display font-bold text-lg">Menu</span>
+                  <Button
+                    variant="ghost"
+                    size="icon"
+                    onClick={() => setIsMobileMenuOpen(false)}
+                    aria-label="Close menu"
+                  >
+                    <X className="h-6 w-6" />
+                  </Button>
+                </div>
+                <nav className="flex-1 p-4" aria-label="Mobile navigation">
+                  <ul className="space-y-2">
+                    {navLinks.map((link) => (
+                      <li key={link.href}>
+                        <button
+                          onClick={() => scrollToSection(link.href)}
+                          className="w-full text-left px-4 py-3 text-lg font-medium text-foreground hover:bg-muted rounded-lg transition-colors"
+                        >
+                          {link.label}
+                        </button>
+                      </li>
+                    ))}
+                  </ul>
+                </nav>
+                <div className="p-4 border-t border-border">
+                  <Button
+                    className="w-full gap-2 bg-accent text-accent-foreground hover:bg-accent/90"
+                    asChild
+                  >
+                    <a href="/resume.pdf" download>
+                      <Download className="h-4 w-4" />
+                      Download Resume
+                    </a>
+                  </Button>
+                </div>
+              </div>
+            </motion.div>
+          </>
+        )}
+      </AnimatePresence>
+    </>
+  );
+};

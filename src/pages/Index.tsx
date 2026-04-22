@@ -1,1 +1,35 @@
-{"data":"aW1wb3J0IHsgSGVhZGVyIH0gZnJvbSAnQC9jb21wb25lbnRzL0hlYWRlcic7CmltcG9ydCB7IEhlcm9TZWN0aW9uIH0gZnJvbSAnQC9jb21wb25lbnRzL0hlcm9TZWN0aW9uJzsKaW1wb3J0IHsgQWJvdXRTZWN0aW9uIH0gZnJvbSAnQC9jb21wb25lbnRzL0Fib3V0U2VjdGlvbic7CmltcG9ydCB7IEZlYXR1cmVkUHJvamVjdHNTZWN0aW9uIH0gZnJvbSAnQC9jb21wb25lbnRzL0ZlYXR1cmVkUHJvamVjdHNTZWN0aW9uJzsKaW1wb3J0IHsgTW9yZVByb2plY3RzU2VjdGlvbiB9IGZyb20gJ0AvY29tcG9uZW50cy9Nb3JlUHJvamVjdHNTZWN0aW9uJzsKaW1wb3J0IHsgTWV0aG9kb2xvZ3lTZWN0aW9uIH0gZnJvbSAnQC9jb21wb25lbnRzL01ldGhvZG9sb2d5U2VjdGlvbic7CmltcG9ydCB7IENhcmVlclNlY3Rpb24gfSBmcm9tICdAL2NvbXBvbmVudHMvQ2FyZWVyU2VjdGlvbic7CmltcG9ydCB7IEVkdWNhdGlvblNlY3Rpb24gfSBmcm9tICdAL2NvbXBvbmVudHMvRWR1Y2F0aW9uU2VjdGlvbic7CmltcG9ydCB7IENvbnRhY3RTZWN0aW9uIH0gZnJvbSAnQC9jb21wb25lbnRzL0NvbnRhY3RTZWN0aW9uJzsKaW1wb3J0IHsgRm9vdGVyIH0gZnJvbSAnQC9jb21wb25lbnRzL0Zvb3Rlcic7CmltcG9ydCB7IEJhY2tUb1RvcCB9IGZyb20gJ0AvY29tcG9uZW50cy9CYWNrVG9Ub3AnOwppbXBvcnQgeyBTRU9IZWFkIH0gZnJvbSAnQC9jb21wb25lbnRzL1NFT0hlYWQnOwoKY29uc3QgSW5kZXggPSAoKSA9PiB7CiAgcmV0dXJuICgKICAgIDw+CiAgICAgIDxTRU9IZWFkIC8+CiAgICAgIDxIZWFkZXIgLz4KICAgICAgPG1haW4gaWQ9Im1haW4tY29udGVudCI+CiAgICAgICAgPEhlcm9TZWN0aW9uIC8+CiAgICAgICAgPEFib3V0U2VjdGlvbiAvPgogICAgICAgIDxGZWF0dXJlZFByb2plY3RzU2VjdGlvbiAvPgogICAgICAgIDxNb3JlUHJvamVjdHNTZWN0aW9uIC8+CiAgICAgICAgPE1ldGhvZG9sb2d5U2VjdGlvbiAvPgogICAgICAgIDxDYXJlZXJTZWN0aW9uIC8+CiAgICAgICAgPEVkdWNhdGlvblNlY3Rpb24gLz4KICAgICAgICA8Q29udGFjdFNlY3Rpb24gLz4KICAgICAgPC9tYWluPgogICAgICA8Rm9vdGVyIC8+CiAgICAgIDxCYWNrVG9Ub3AgLz4KICAgIDwvPgogICk7Cn07CgpleHBvcnQgZGVmYXVsdCBJbmRleDsK"}
+import { Header } from '@/components/Header';
+import { HeroSection } from '@/components/HeroSection';
+import { AboutSection } from '@/components/AboutSection';
+import { FeaturedProjectsSection } from '@/components/FeaturedProjectsSection';
+import { MoreProjectsSection } from '@/components/MoreProjectsSection';
+import { MethodologySection } from '@/components/MethodologySection';
+import { CareerSection } from '@/components/CareerSection';
+import { EducationSection } from '@/components/EducationSection';
+import { ContactSection } from '@/components/ContactSection';
+import { Footer } from '@/components/Footer';
+import { BackToTop } from '@/components/BackToTop';
+import { SEOHead } from '@/components/SEOHead';
+
+const Index = () => {
+  return (
+    <>
+      <SEOHead />
+      <Header />
+      <main id="main-content">
+        <HeroSection />
+        <AboutSection />
+        <FeaturedProjectsSection />
+        <MoreProjectsSection />
+        <MethodologySection />
+        <CareerSection />
+        <EducationSection />
+        <ContactSection />
+      </main>
+      <Footer />
+      <BackToTop />
+    </>
+  );
+};
+
+export default Index;

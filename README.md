@@ -1,1 +1,73 @@
-{"data":"IyBXZWxjb21lIHRvIHlvdXIgTG92YWJsZSBwcm9qZWN0CgojIyBQcm9qZWN0IGluZm8KCioqVVJMKio6IGh0dHBzOi8vbG92YWJsZS5kZXYvcHJvamVjdHMvUkVQTEFDRV9XSVRIX1BST0pFQ1RfSUQKCiMjIEhvdyBjYW4gSSBlZGl0IHRoaXMgY29kZT8KClRoZXJlIGFyZSBzZXZlcmFsIHdheXMgb2YgZWRpdGluZyB5b3VyIGFwcGxpY2F0aW9uLgoKKipVc2UgTG92YWJsZSoqCgpTaW1wbHkgdmlzaXQgdGhlIFtMb3ZhYmxlIFByb2plY3RdKGh0dHBzOi8vbG92YWJsZS5kZXYvcHJvamVjdHMvUkVQTEFDRV9XSVRIX1BST0pFQ1RfSUQpIGFuZCBzdGFydCBwcm9tcHRpbmcuCgpDaGFuZ2VzIG1hZGUgdmlhIExvdmFibGUgd2lsbCBiZSBjb21taXR0ZWQgYXV0b21hdGljYWxseSB0byB0aGlzIHJlcG8uCgoqKlVzZSB5b3VyIHByZWZlcnJlZCBJREUqKgoKSWYgeW91IHdhbnQgdG8gd29yayBsb2NhbGx5IHVzaW5nIHlvdXIgb3duIElERSwgeW91IGNhbiBjbG9uZSB0aGlzIHJlcG8gYW5kIHB1c2ggY2hhbmdlcy4gUHVzaGVkIGNoYW5nZXMgd2lsbCBhbHNvIGJlIHJlZmxlY3RlZCBpbiBMb3ZhYmxlLgoKVGhlIG9ubHkgcmVxdWlyZW1lbnQgaXMgaGF2aW5nIE5vZGUuanMgJiBucG0gaW5zdGFsbGVkIC0gW2luc3RhbGwgd2l0aCBudm1dKGh0dHBzOi8vZ2l0aHViLmNvbS9udm0tc2gvbnZtI2luc3RhbGxpbmctYW5kLXVwZGF0aW5nKQoKRm9sbG93IHRoZXNlIHN0ZXBzOgoKYGBgc2gKIyBTdGVwIDE6IENsb25lIHRoZSByZXBvc2l0b3J5IHVzaW5nIHRoZSBwcm9qZWN0J3MgR2l0IFVSTC4KZ2l0IGNsb25lIDxZT1VSX0dJVF9VUkw+CgojIFN0ZXAgMjogTmF2aWdhdGUgdG8gdGhlIHByb2plY3QgZGlyZWN0b3J5LgpjZCA8WU9VUl9QUk9KRUNUX05BTUU+CgojIFN0ZXAgMzogSW5zdGFsbCB0aGUgbmVjZXNzYXJ5IGRlcGVuZGVuY2llcy4KbnBtIGkKCiMgU3RlcCA0OiBTdGFydCB0aGUgZGV2ZWxvcG1lbnQgc2VydmVyIHdpdGggYXV0by1yZWxvYWRpbmcgYW5kIGFuIGluc3RhbnQgcHJldmlldy4KbnBtIHJ1biBkZXYKYGBgCgoqKkVkaXQgYSBmaWxlIGRpcmVjdGx5IGluIEdpdEh1YioqCgotIE5hdmlnYXRlIHRvIHRoZSBkZXNpcmVkIGZpbGUocykuCi0gQ2xpY2sgdGhlICJFZGl0IiBidXR0b24gKHBlbmNpbCBpY29uKSBhdCB0aGUgdG9wIHJpZ2h0IG9mIHRoZSBmaWxlIHZpZXcuCi0gTWFrZSB5b3VyIGNoYW5nZXMgYW5kIGNvbW1pdCB0aGUgY2hhbmdlcy4KCioqVXNlIEdpdEh1YiBDb2Rlc3BhY2VzKioKCi0gTmF2aWdhdGUgdG8gdGhlIG1haW4gcGFnZSBvZiB5b3VyIHJlcG9zaXRvcnkuCi0gQ2xpY2sgb24gdGhlICJDb2RlIiBidXR0b24gKGdyZWVuIGJ1dHRvbikgbmVhciB0aGUgdG9wIHJpZ2h0LgotIFNlbGVjdCB0aGUgIkNvZGVzcGFjZXMiIHRhYi4KLSBDbGljayBvbiAiTmV3IGNvZGVzcGFjZSIgdG8gbGF1bmNoIGEgbmV3IENvZGVzcGFjZSBlbnZpcm9ubWVudC4KLSBFZGl0IGZpbGVzIGRpcmVjdGx5IHdpdGhpbiB0aGUgQ29kZXNwYWNlIGFuZCBjb21taXQgYW5kIHB1c2ggeW91ciBjaGFuZ2VzIG9uY2UgeW91J3JlIGRvbmUuCgojIyBXaGF0IHRlY2hub2xvZ2llcyBhcmUgdXNlZCBmb3IgdGhpcyBwcm9qZWN0PwoKVGhpcyBwcm9qZWN0IGlzIGJ1aWx0IHdpdGg6CgotIFZpdGUKLSBUeXBlU2NyaXB0Ci0gUmVhY3QKLSBzaGFkY24tdWkKLSBUYWlsd2luZCBDU1MKCiMjIEhvdyBjYW4gSSBkZXBsb3kgdGhpcyBwcm9qZWN0PwoKU2ltcGx5IG9wZW4gW0xvdmFibGVdKGh0dHBzOi8vbG92YWJsZS5kZXYvcHJvamVjdHMvUkVQTEFDRV9XSVRIX1BST0pFQ1RfSUQpIGFuZCBjbGljayBvbiBTaGFyZSAtPiBQdWJsaXNoLgoKIyMgQ2FuIEkgY29ubmVjdCBhIGN1c3RvbSBkb21haW4gdG8gbXkgTG92YWJsZSBwcm9qZWN0PwoKWWVzLCB5b3UgY2FuIQoKVG8gY29ubmVjdCBhIGRvbWFpbiwgbmF2aWdhdGUgdG8gUHJvamVjdCA+IFNldHRpbmdzID4gRG9tYWlucyBhbmQgY2xpY2sgQ29ubmVjdCBEb21haW4uCgpSZWFkIG1vcmUgaGVyZTogW1NldHRpbmcgdXAgYSBjdXN0b20gZG9tYWluXShodHRwczovL2RvY3MubG92YWJsZS5kZXYvZmVhdHVyZXMvY3VzdG9tLWRvbWFpbiNjdXN0b20tZG9tYWluKQo="}
+# Welcome to your Lovable project
+
+## Project info
+
+**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+
+## How can I edit this code?
+
+There are several ways of editing your application.
+
+**Use Lovable**
+
+Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+
+Changes made via Lovable will be committed automatically to this repo.
+
+**Use your preferred IDE**
+
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+
+Follow these steps:
+
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
+
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
+
+# Step 3: Install the necessary dependencies.
+npm i
+
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
+```
+
+**Edit a file directly in GitHub**
+
+- Navigate to the desired file(s).
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Make your changes and commit the changes.
+
+**Use GitHub Codespaces**
+
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
+
+## What technologies are used for this project?
+
+This project is built with:
+
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
+
+## How can I deploy this project?
+
+Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+
+## Can I connect a custom domain to my Lovable project?
+
+Yes, you can!
+
+To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)

@@ -1,1 +1,158 @@
-{"data":"aW1wb3J0IHsgbW90aW9uIH0gZnJvbSAnZnJhbWVyLW1vdGlvbic7CmltcG9ydCB7IFNlYXJjaCwgVGFyZ2V0LCBaYXAsIFRyZW5kaW5nVXAgfSBmcm9tICdsdWNpZGUtcmVhY3QnOwoKY29uc3Qgc3RlcHMgPSBbCiAgewogICAgaWNvbjogU2VhcmNoLAogICAgdGl0bGU6ICdEaXNjb3ZlcnkgJiBSZXNlYXJjaCcsCiAgICBjb2xvcjogJ3RleHQtdGVhbCcsCiAgICBiZ0NvbG9yOiAnYmctdGVhbC8xMCcsCiAgICBib3JkZXJDb2xvcjogJ2JvcmRlci10ZWFsJywKICAgIGl0ZW1zOiBbCiAgICAgICdVc2VyIGludGVydmlld3MgJiBzdGFrZWhvbGRlciB3b3Jrc2hvcHMgdG8gdW5jb3ZlciBuZWVkcycsCiAgICAgICdNYXJrZXQgYW5hbHlzaXMgJiBjb21wZXRpdGl2ZSByZXNlYXJjaCBmb3IgcG9zaXRpb25pbmcnLAogICAgICAnRGF0YS1kcml2ZW4gcHJvYmxlbSBpZGVudGlmaWNhdGlvbiB1c2luZyBhbmFseXRpY3MnLAogICAgICAnQ3VzdG9tZXIgam91cm5leSBtYXBwaW5nIGFuZCBwYWluIHBvaW50IGFuYWx5c2lzJywKICAgIF0sCiAgfSwKICB7CiAgICBpY29uOiBUYXJnZXQsCiAgICB0aXRsZTogJ1N0cmF0ZWd5ICYgUGxhbm5pbmcnLAogICAgY29sb3I6ICd0ZXh0LW5hdnkgZGFyazp0ZXh0LWJsdWUtNDAwJywKICAgIGJnQ29sb3I6ICdiZy1uYXZ5LzEwIGRhcms6YmctYmx1ZS00MDAvMTAnLAogICAgYm9yZGVyQ29sb3I6ICdib3JkZXItbmF2eSBkYXJrOmJvcmRlci1ibHVlLTQwMCcsCiAgICBpdGVtczogWwogICAgICAnVmlzaW9uIGFuZCBwcm9kdWN0IHJvYWRtYXAgZGV2ZWxvcG1lbnQnLAogICAgICAnT0tScyBhbmQgTm9ydGggU3RhciBtZXRyaWNzIGRlZmluaXRpb24nLAogICAgICAnSlRCRCBmcmFtZXdvcmsgYW5kIHByaW9yaXRpemF0aW9uJywKICAgICAgJ0ZlYXR1cmUgcHJpb3JpdGl6YXRpb24gdXNpbmcgUklDRS9Nb1NDb1cnLAogICAgXSwKICB9LAogIHsKICAgIGljb246IFphcCwKICAgIHRpdGxlOiAnRXhlY3V0aW9uICYgRGVsaXZlcnknLAogICAgY29sb3I6ICd0ZXh0LXB1cnBsZS1haScsCiAgICBiZ0NvbG9yOiAnYmctcHVycGxlLWFpLzEwJywKICAgIGJvcmRlckNvbG9yOiAnYm9yZGVyLXB1cnBsZS1haScsCiAgICBpdGVtczogWwogICAgICAnQWdpbGUvU2NydW0gbWV0aG9kb2xvZ2llcyB3aXRoIGl0ZXJhdGl2ZSBzcHJpbnRzJywKICAgICAgJ0Nyb3NzLWZ1bmN0aW9uYWwgdGVhbSBsZWFkZXJzaGlwJywKICAgICAgJ0l0ZXJhdGl2ZSBkZXZlbG9wbWVudCAmIGNvbnRpbnVvdXMgZmVlZGJhY2sgbG9vcHMnLAogICAgICAnUmlzayBtYW5hZ2VtZW50IGFuZCBtaXRpZ2F0aW9uIHN0cmF0ZWdpZXMnLAogICAgXSwKICB9LAogIHsKICAgIGljb246IFRyZW5kaW5nVXAsCiAgICB0aXRsZTogJ01lYXN1cmVtZW50ICYgT3B0aW1pemF0aW9uJywKICAgIGNvbG9yOiAndGV4dC1lbWVyYWxkLTYwMCBkYXJrOnRleHQtZW1lcmFsZC00MDAnLAogICAgYmdDb2xvcjogJ2JnLWVtZXJhbGQtNTAwLzEwJywKICAgIGJvcmRlckNvbG9yOiAnYm9yZGVyLWVtZXJhbGQtNTAwJywKICAgIGl0ZW1zOiBbCiAgICAgICdLUEkgdHJhY2tpbmcgYW5kIGFuYWx5dGljcyBkYXNoYm9hcmRzJywKICAgICAgJ0EvQiB0ZXN0aW5nIGFuZCBleHBlcmltZW50YXRpb24gZnJhbWV3b3JrcycsCiAgICAgICdEYXRhLWRyaXZlbiBpdGVyYXRpb24gY3ljbGVzIGJhc2VkIG9uIG1ldHJpY3MnLAogICAgICAnUG9zdC1sYXVuY2ggbW9uaXRvcmluZyBhbmQgY29udGludW91cyBpbXByb3ZlbWVudCcsCiAgICBdLAogIH0sCl07Cgpjb25zdCBjb250YWluZXJWYXJpYW50cyA9IHsKICBoaWRkZW46IHsgb3BhY2l0eTogMCB9LAogIHZpc2libGU6IHsKICAgIG9wYWNpdHk6IDEsCiAgICB0cmFuc2l0aW9uOiB7CiAgICAgIHN0YWdnZXJDaGlsZHJlbjogMC4xNSwKICAgIH0sCiAgfSwKfTsKCmNvbnN0IGl0ZW1WYXJpYW50cyA9IHsKICBoaWRkZW46IHsgb3BhY2l0eTogMCwgeTogMzAgfSwKICB2aXNpYmxlOiB7CiAgICBvcGFjaXR5OiAxLAogICAgeTogMCwKICAgIHRyYW5zaXRpb246IHsgZHVyYXRpb246IDAuNSB9LAogIH0sCn07CgpleHBvcnQgY29uc3QgTWV0aG9kb2xvZ3lTZWN0aW9uID0gKCkgPT4gewogIHJldHVybiAoCiAgICA8c2VjdGlvbiBpZD0ibWV0aG9kb2xvZ3kiIGNsYXNzTmFtZT0ic2VjdGlvbi1jb250YWluZXIgYmctbXV0ZWQvMzAiPgogICAgICA8ZGl2IGNsYXNzTmFtZT0ic2VjdGlvbi1oZWFkZXIiPgogICAgICAgIDxtb3Rpb24uaDIKICAgICAgICAgIGluaXRpYWw9e3sgb3BhY2l0eTogMCwgeTogMjAgfX0KICAgICAgICAgIHdoaWxlSW5WaWV3PXt7IG9wYWNpdHk6IDEsIHk6IDAgfX0KICAgICAgICAgIHZpZXdwb3J0PXt7IG9uY2U6IHRydWUgfX0KICAgICAgICAgIGNsYXNzTmFtZT0ic2VjdGlvbi10aXRsZSIKICAgICAgICA+CiAgICAgICAgICBNeSBQcm9kdWN0IEFwcHJvYWNoCiAgICAgICAgPC9tb3Rpb24uaDI+CiAgICAgICAgPG1vdGlvbi5wCiAgICAgICAgICBpbml0aWFsPXt7IG9wYWNpdHk6IDAsIHk6IDIwIH19CiAgICAgICAgICB3aGlsZUluVmlldz17eyBvcGFjaXR5OiAxLCB5OiAwIH19CiAgICAgICAgICB2aWV3cG9ydD17eyBvbmNlOiB0cnVlIH19CiAgICAgICAgICB0cmFuc2l0aW9uPXt7IGRlbGF5OiAwLjEgfX0KICAgICAgICAgIGNsYXNzTmFtZT0ic2VjdGlvbi1zdWJ0aXRsZSIKICAgICAgICA+CiAgICAgICAgICBBIHByb3ZlbiA0LXN0ZXAgZnJhbWV3b3JrIGZvciBidWlsZGluZyBzdWNjZXNzZnVsIHByb2R1Y3RzCiAgICAgICAgPC9tb3Rpb24ucD4KICAgICAgPC9kaXY+CgogICAgICB7LyogUHJvY2VzcyBGbG93ICovfQogICAgICA8bW90aW9uLmRpdgogICAgICAgIHZhcmlhbnRzPXtjb250YWluZXJWYXJpYW50c30KICAgICAgICBpbml0aWFsPSJoaWRkZW4iCiAgICAgICAgd2hpbGVJblZpZXc9InZpc2libGUiCiAgICAgICAgdmlld3BvcnQ9e3sgb25jZTogdHJ1ZSB9fQogICAgICAgIGNsYXNzTmFtZT0icmVsYXRpdmUiCiAgICAgID4KICAgICAgICB7LyogQ29ubmVjdGlvbiBMaW5lIC0gRGVza3RvcCAqL30KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iaGlkZGVuIGxnOmJsb2NrIGFic29sdXRlIHRvcC0yNCBsZWZ0LTAgcmlnaHQtMCBoLTEgYmctZ3JhZGllbnQtdG8tciBmcm9tLXRlYWwgdmlhLXB1cnBsZS1haSB0by1lbWVyYWxkLTUwMCBvcGFjaXR5LTIwIiAvPgoKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZ3JpZCBncmlkLWNvbHMtMSBtZDpncmlkLWNvbHMtMiBsZzpncmlkLWNvbHMtNCBnYXAtNiBsZzpnYXAtOCI+CiAgICAgICAgICB7c3RlcHMubWFwKChzdGVwLCBpbmRleCkgPT4gKAogICAgICAgICAgICA8bW90aW9uLmRpdgogICAgICAgICAgICAgIGtleT17c3RlcC50aXRsZX0KICAgICAgICAgICAgICB2YXJpYW50cz17aXRlbVZhcmlhbnRzfQogICAgICAgICAgICAgIGNsYXNzTmFtZT0icmVsYXRpdmUiCiAgICAgICAgICAgID4KICAgICAgICAgICAgICB7LyogU3RlcCBOdW1iZXIgKi99CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0zIG1iLTQiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9e2B3LTEyIGgtMTIgcm91bmRlZC1mdWxsICR7c3RlcC5iZ0NvbG9yfSBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBib3JkZXItMiAke3N0ZXAuYm9yZGVyQ29sb3J9YH0+CiAgICAgICAgICAgICAgICAgIDxzdGVwLmljb24gY2xhc3NOYW1lPXtgaC02IHctNiAke3N0ZXAuY29sb3J9YH0gLz4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtgZm9udC1kaXNwbGF5IGZvbnQtYm9sZCB0ZXh0LTJ4bCAke3N0ZXAuY29sb3J9YH0+CiAgICAgICAgICAgICAgICAgIHtTdHJpbmcoaW5kZXggKyAxKS5wYWRTdGFydCgyLCAnMCcpfQogICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICB7LyogQ29udGVudCBDYXJkICovfQogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJiZy1jYXJkIHJvdW5kZWQteGwgYm9yZGVyIGJvcmRlci1ib3JkZXIgcC01IHNoYWRvdy1zb2Z0Ij4KICAgICAgICAgICAgICAgIDxoMyBjbGFzc05hbWU9ImZvbnQtZGlzcGxheSBmb250LXNlbWlib2xkIHRleHQtbGcgdGV4dC1mb3JlZ3JvdW5kIG1iLTQiPgogICAgICAgICAgICAgICAgICB7c3RlcC50aXRsZX0KICAgICAgICAgICAgICAgIDwvaDM+CiAgICAgICAgICAgICAgICA8dWwgY2xhc3NOYW1lPSJzcGFjZS15LTMiPgogICAgICAgICAgICAgICAgICB7c3RlcC5pdGVtcy5tYXAoKGl0ZW0sIGl0ZW1JbmRleCkgPT4gKAogICAgICAgICAgICAgICAgICAgIDxsaSBrZXk9e2l0ZW1JbmRleH0gY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCBmbGV4IGl0ZW1zLXN0YXJ0IGdhcC0yIj4KICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT17YCR7c3RlcC5jb2xvcn0gbXQtMS41IHctMS41IGgtMS41IHJvdW5kZWQtZnVsbCBmbGV4LXNocmluay0wYH0gc3R5bGU9e3sgYmFja2dyb3VuZENvbG9yOiAnY3VycmVudENvbG9yJyB9fSAvPgogICAgICAgICAgICAgICAgICAgICAgPHNwYW4+e2l0ZW19PC9zcGFuPgogICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICAgICkpfQogICAgICAgICAgICAgICAgPC91bD4KICAgICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgICAgey8qIEFycm93IC0gRGVza3RvcCAqL30KICAgICAgICAgICAgICB7aW5kZXggPCBzdGVwcy5sZW5ndGggLSAxICYmICgKICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJoaWRkZW4gbGc6YmxvY2sgYWJzb2x1dGUgdG9wLVs4OHB4XSAtcmlnaHQtNCB6LTEwIj4KICAgICAgICAgICAgICAgICAgPHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgY2xhc3NOYW1lPSJ0ZXh0LW11dGVkLWZvcmVncm91bmQiPgogICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik05IDZMMTUgMTJMOSAxOCIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZVdpZHRoPSIyIiBzdHJva2VMaW5lY2FwPSJyb3VuZCIgc3Ryb2tlTGluZWpvaW49InJvdW5kIiAvPgogICAgICAgICAgICAgICAgICA8L3N2Zz4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICl9CiAgICAgICAgICAgIDwvbW90aW9uLmRpdj4KICAgICAgICAgICkpfQogICAgICAgIDwvZGl2PgogICAgICA8L21vdGlvbi5kaXY+CiAgICA8L3NlY3Rpb24+CiAgKTsKfTsK"}
+import { motion } from 'framer-motion';
+import { Search, Target, Zap, TrendingUp } from 'lucide-react';
+
+const steps = [
+  {
+    icon: Search,
+    title: 'Discovery & Research',
+    color: 'text-teal',
+    bgColor: 'bg-teal/10',
+    borderColor: 'border-teal',
+    items: [
+      'User interviews & stakeholder workshops to uncover needs',
+      'Market analysis & competitive research for positioning',
+      'Data-driven problem identification using analytics',
+      'Customer journey mapping and pain point analysis',
+    ],
+  },
+  {
+    icon: Target,
+    title: 'Strategy & Planning',
+    color: 'text-navy dark:text-blue-400',
+    bgColor: 'bg-navy/10 dark:bg-blue-400/10',
+    borderColor: 'border-navy dark:border-blue-400',
+    items: [
+      'Vision and product roadmap development',
+      'OKRs and North Star metrics definition',
+      'JTBD framework and prioritization',
+      'Feature prioritization using RICE/MoSCoW',
+    ],
+  },
+  {
+    icon: Zap,
+    title: 'Execution & Delivery',
+    color: 'text-purple-ai',
+    bgColor: 'bg-purple-ai/10',
+    borderColor: 'border-purple-ai',
+    items: [
+      'Agile/Scrum methodologies with iterative sprints',
+      'Cross-functional team leadership',
+      'Iterative development & continuous feedback loops',
+      'Risk management and mitigation strategies',
+    ],
+  },
+  {
+    icon: TrendingUp,
+    title: 'Measurement & Optimization',
+    color: 'text-emerald-600 dark:text-emerald-400',
+    bgColor: 'bg-emerald-500/10',
+    borderColor: 'border-emerald-500',
+    items: [
+      'KPI tracking and analytics dashboards',
+      'A/B testing and experimentation frameworks',
+      'Data-driven iteration cycles based on metrics',
+      'Post-launch monitoring and continuous improvement',
+    ],
+  },
+];
+
+const containerVariants = {
+  hidden: { opacity: 0 },
+  visible: {
+    opacity: 1,
+    transition: {
+      staggerChildren: 0.15,
+    },
+  },
+};
+
+const itemVariants = {
+  hidden: { opacity: 0, y: 30 },
+  visible: {
+    opacity: 1,
+    y: 0,
+    transition: { duration: 0.5 },
+  },
+};
+
+export const MethodologySection = () => {
+  return (
+    <section id="methodology" className="section-container bg-muted/30">
+      <div className="section-header">
+        <motion.h2
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          className="section-title"
+        >
+          My Product Approach
+        </motion.h2>
+        <motion.p
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          transition={{ delay: 0.1 }}
+          className="section-subtitle"
+        >
+          A proven 4-step framework for building successful products
+        </motion.p>
+      </div>
+
+      {/* Process Flow */}
+      <motion.div
+        variants={containerVariants}
+        initial="hidden"
+        whileInView="visible"
+        viewport={{ once: true }}
+        className="relative"
+      >
+        {/* Connection Line - Desktop */}
+        <div className="hidden lg:block absolute top-24 left-0 right-0 h-1 bg-gradient-to-r from-teal via-purple-ai to-emerald-500 opacity-20" />
+
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 lg:gap-8">
+          {steps.map((step, index) => (
+            <motion.div
+              key={step.title}
+              variants={itemVariants}
+              className="relative"
+            >
+              {/* Step Number */}
+              <div className="flex items-center gap-3 mb-4">
+                <div className={`w-12 h-12 rounded-full ${step.bgColor} flex items-center justify-center border-2 ${step.borderColor}`}>
+                  <step.icon className={`h-6 w-6 ${step.color}`} />
+                </div>
+                <span className={`font-display font-bold text-2xl ${step.color}`}>
+                  {String(index + 1).padStart(2, '0')}
+                </span>
+              </div>
+
+              {/* Content Card */}
+              <div className="bg-card rounded-xl border border-border p-5 shadow-soft">
+                <h3 className="font-display font-semibold text-lg text-foreground mb-4">
+                  {step.title}
+                </h3>
+                <ul className="space-y-3">
+                  {step.items.map((item, itemIndex) => (
+                    <li key={itemIndex} className="text-sm text-muted-foreground flex items-start gap-2">
+                      <span className={`${step.color} mt-1.5 w-1.5 h-1.5 rounded-full flex-shrink-0`} style={{ backgroundColor: 'currentColor' }} />
+                      <span>{item}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+
+              {/* Arrow - Desktop */}
+              {index < steps.length - 1 && (
+                <div className="hidden lg:block absolute top-[88px] -right-4 z-10">
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" className="text-muted-foreground">
+                    <path d="M9 6L15 12L9 18" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
+                  </svg>
+                </div>
+              )}
+            </motion.div>
+          ))}
+        </div>
+      </motion.div>
+    </section>
+  );
+};

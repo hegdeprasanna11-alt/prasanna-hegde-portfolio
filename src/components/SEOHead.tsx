@@ -1,1 +1,73 @@
-{"data":"aW1wb3J0IHsgSGVsbWV0IH0gZnJvbSAncmVhY3QtaGVsbWV0LWFzeW5jJzsKCmludGVyZmFjZSBTRU9IZWFkUHJvcHMgewogIHRpdGxlPzogc3RyaW5nOwogIGRlc2NyaXB0aW9uPzogc3RyaW5nOwogIGtleXdvcmRzPzogc3RyaW5nOwogIG9nVGl0bGU/OiBzdHJpbmc7CiAgb2dEZXNjcmlwdGlvbj86IHN0cmluZzsKICBvZ1R5cGU/OiBzdHJpbmc7CiAgY2Fub25pY2FsVXJsPzogc3RyaW5nOwp9CgpleHBvcnQgY29uc3QgU0VPSGVhZCA9ICh7CiAgdGl0bGUgPSAiUHJhc2FubmEgSGVnZGUgLSBQcm9kdWN0IExlYWRlciAoUGxhdGZvcm0pIC0gUmVndWxhdGVkIFN5c3RlbXMsIERpZ2l0YWwgSWRlbnRpdHkgJiBUcnVzdCBJbmZyYXN0cnVjdHVyZSB8IFVJREFJIEFhZGhhYXIgU2FuZGJveCB8RXgtSW5mb3N5cyIsCiAgZGVzY3JpcHRpb24gPSAiUHJvZHVjdCBTdHJhdGVneSAmIElubm92YXRpb24gTGVhZCBhdCBVSURBSSB3aXRoIDE4KyB5ZWFycyBidWlsZGluZyBBSS1wb3dlcmVkIHByb2R1Y3RzLCBkaWdpdGFsIGlkZW50aXR5IHBsYXRmb3JtcywgYW5kIGZpbnRlY2ggc29sdXRpb25zLiAxMDArIG9yZ2FuaXphdGlvbnMgb25ib2FyZGVkLCAkMi4xTSsgcmV2ZW51ZSBnZW5lcmF0ZWQuIEV4cGVydCBpbiBBZ2VudGljIEFJLCBNYWNoaW5lIExlYXJuaW5nLCBBUEkgcGxhdGZvcm1zLCBHRFBSIGNvbXBsaWFuY2UsIGFuZCBtYXJrZXRwbGFjZSBkZXZlbG9wbWVudC4iLAogIGtleXdvcmRzID0gIlByb2R1Y3QgTWFuYWdlciwgUHJvZHVjdCBMZWFkZXIsIEFnZW50aWMgQUksIE1hY2hpbmUgTGVhcm5pbmcsIE5MUCwgQ3JlZGl0IFJpc2sgQUksIFJlc3VtZSBTY3JlZW5pbmcgQUksIERpZ2l0YWwgSWRlbnRpdHksIEFhZGhhYXIsIFVJREFJLCBGaW50ZWNoLCBBUEkgUGxhdGZvcm0sIEIyQiBTYWFTLCBNYXJrZXRwbGFjZSwgR0RQUiwgRGF0YSBHb3Zlcm5hbmNlLCBDUk0sIFRlbGVjb20sIEJhbmdhbG9yZSwgSW5kaWEsIFByb2R1Y3QgU3RyYXRlZ3ksIDAgdG8gMSBQcm9kdWN0IiwKICBvZ1RpdGxlID0gIlByYXNhbm5hIEhlZ2RlIHwgUHJvZHVjdCBMZWFkZXIgLSBBSSwgRGlnaXRhbCBJZGVudGl0eSAmIEZpbnRlY2giLAogIG9nRGVzY3JpcHRpb24gPSAiQnVpbGRpbmcgSW5kaWEncyBBYWRoYWFyIFNhbmRib3ggYXQgVUlEQUkuIDE4KyB5ZWFycyBjcmVhdGluZyBBSS1wb3dlcmVkIHByb2R1Y3RzOiBDcmVkaXQgUmlzayBBSSwgUmVzdW1lLUpEIE1hdGNoaW5nLCBNYXJrZXRwbGFjZSBQbGF0Zm9ybXMuICQyLjFNKyByZXZlbnVlIGltcGFjdC4iLAogIG9nVHlwZSA9ICJ3ZWJzaXRlIiwKICBjYW5vbmljYWxVcmwgPSAiaHR0cHM6Ly9wcmFzYW5uYWhlZ2RlLmNvbSIsCn06IFNFT0hlYWRQcm9wcykgPT4gewogIGNvbnN0IHN0cnVjdHVyZWREYXRhID0gewogICAgIkBjb250ZXh0IjogImh0dHBzOi8vc2NoZW1hLm9yZyIsCiAgICAiQHR5cGUiOiAiUGVyc29uIiwKICAgICJuYW1lIjogIlByYXNhbm5hIEhlZ2RlIiwKICAgICJqb2JUaXRsZSI6ICJQcm9kdWN0IFN0cmF0ZWd5ICYgSW5ub3ZhdGlvbiBMZWFkIiwKICAgICJkZXNjcmlwdGlvbiI6ICJQcm9kdWN0IE1hbmFnZXIgc3BlY2lhbGl6aW5nIGluIEFJL01MLCBEaWdpdGFsIElkZW50aXR5LCBhbmQgRmludGVjaCIsCiAgICAid29ya3NGb3IiOiB7CiAgICAgICJAdHlwZSI6ICJPcmdhbml6YXRpb24iLAogICAgICAibmFtZSI6ICJVSURBSSIKICAgIH0sCiAgICAiYWx1bW5pT2YiOiBbIklJTSBMdWNrbm93IiwgIkluc3RpdHV0ZSBvZiBQcm9kdWN0IExlYWRlcnNoaXAiLCAiQ292ZW50cnkgVW5pdmVyc2l0eSJdLAogICAgImtub3dzQWJvdXQiOiBbIlByb2R1Y3QgTWFuYWdlbWVudCIsICJBZ2VudGljIEFJIiwgIk1hY2hpbmUgTGVhcm5pbmciLCAiRGlnaXRhbCBJZGVudGl0eSIsICJBUEkgUGxhdGZvcm1zIiwgIkZpbnRlY2giLCAiR0RQUiJdLAogICAgInVybCI6IGNhbm9uaWNhbFVybCwKICAgICJzYW1lQXMiOiBbCiAgICAgICJodHRwczovL2xpbmtlZGluLmNvbS9pbi9wcmFzYW5uYWhlZ2RlIgogICAgXQogIH07CgogIHJldHVybiAoCiAgICA8SGVsbWV0PgogICAgICB7LyogUHJpbWFyeSBNZXRhIFRhZ3MgKi99CiAgICAgIDx0aXRsZT57dGl0bGV9PC90aXRsZT4KICAgICAgPG1ldGEgbmFtZT0idGl0bGUiIGNvbnRlbnQ9e3RpdGxlfSAvPgogICAgICA8bWV0YSBuYW1lPSJkZXNjcmlwdGlvbiIgY29udGVudD17ZGVzY3JpcHRpb259IC8+CiAgICAgIDxtZXRhIG5hbWU9ImtleXdvcmRzIiBjb250ZW50PXtrZXl3b3Jkc30gLz4KICAgICAgPG1ldGEgbmFtZT0iYXV0aG9yIiBjb250ZW50PSJQcmFzYW5uYSBIZWdkZSIgLz4KICAgICAgPG1ldGEgbmFtZT0icm9ib3RzIiBjb250ZW50PSJpbmRleCwgZm9sbG93IiAvPgogICAgICA8bGluayByZWw9ImNhbm9uaWNhbCIgaHJlZj17Y2Fub25pY2FsVXJsfSAvPgp7LyogRmF2aWNvbiAtIFRleHQtYmFzZWQgd2l0aCBpbml0aWFscyAqL30KPGxpbmsgcmVsPSJpY29uIiBocmVmPSJkYXRhOmltYWdlL3N2Zyt4bWwsPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48dGV4dCB5PScwLjllbScgZm9udC1zaXplPSc5MCcgZmlsbD0nJTIzMGQ5NDg4Jz5QSDwvdGV4dD48L3N2Zz4iIC8+CgoKICAgICAgey8qIE9wZW4gR3JhcGggLyBGYWNlYm9vayAqL30KICAgICAgPG1ldGEgcHJvcGVydHk9Im9nOnR5cGUiIGNvbnRlbnQ9e29nVHlwZX0gLz4KICAgICAgPG1ldGEgcHJvcGVydHk9Im9nOnVybCIgY29udGVudD17Y2Fub25pY2FsVXJsfSAvPgogICAgICA8bWV0YSBwcm9wZXJ0eT0ib2c6dGl0bGUiIGNvbnRlbnQ9e29nVGl0bGV9IC8+CiAgICAgIDxtZXRhIHByb3BlcnR5PSJvZzpkZXNjcmlwdGlvbiIgY29udGVudD17b2dEZXNjcmlwdGlvbn0gLz4KICAgICAgPG1ldGEgcHJvcGVydHk9Im9nOnNpdGVfbmFtZSIgY29udGVudD0iUHJhc2FubmEgSGVnZGUgUG9ydGZvbGlvIiAvPgoKICAgICAgey8qIFR3aXR0ZXIgKi99CiAgICAgIDxtZXRhIG5hbWU9InR3aXR0ZXI6Y2FyZCIgY29udGVudD0ic3VtbWFyeV9sYXJnZV9pbWFnZSIgLz4KICAgICAgPG1ldGEgbmFtZT0idHdpdHRlcjp1cmwiIGNvbnRlbnQ9e2Nhbm9uaWNhbFVybH0gLz4KICAgICAgPG1ldGEgbmFtZT0idHdpdHRlcjp0aXRsZSIgY29udGVudD17b2dUaXRsZX0gLz4KICAgICAgPG1ldGEgbmFtZT0idHdpdHRlcjpkZXNjcmlwdGlvbiIgY29udGVudD17b2dEZXNjcmlwdGlvbn0gLz4KCiAgICAgIHsvKiBTdHJ1Y3R1cmVkIERhdGEgKi99CiAgICAgIDxzY3JpcHQgdHlwZT0iYXBwbGljYXRpb24vbGQranNvbiI+CiAgICAgICAge0pTT04uc3RyaW5naWZ5KHN0cnVjdHVyZWREYXRhKX0KICAgICAgPC9zY3JpcHQ+CiAgICA8L0hlbG1ldD4KICApOwp9Owo="}
+import { Helmet } from 'react-helmet-async';
+
+interface SEOHeadProps {
+  title?: string;
+  description?: string;
+  keywords?: string;
+  ogTitle?: string;
+  ogDescription?: string;
+  ogType?: string;
+  canonicalUrl?: string;
+}
+
+export const SEOHead = ({
+  title = "Prasanna Hegde - Product Leader (Platform) - Regulated Systems, Digital Identity & Trust Infrastructure | UIDAI Aadhaar Sandbox |Ex-Infosys",
+  description = "Product Strategy & Innovation Lead at UIDAI with 18+ years building AI-powered products, digital identity platforms, and fintech solutions. 100+ organizations onboarded, $2.1M+ revenue generated. Expert in Agentic AI, Machine Learning, API platforms, GDPR compliance, and marketplace development.",
+  keywords = "Product Manager, Product Leader, Agentic AI, Machine Learning, NLP, Credit Risk AI, Resume Screening AI, Digital Identity, Aadhaar, UIDAI, Fintech, API Platform, B2B SaaS, Marketplace, GDPR, Data Governance, CRM, Telecom, Bangalore, India, Product Strategy, 0 to 1 Product",
+  ogTitle = "Prasanna Hegde | Product Leader - AI, Digital Identity & Fintech",
+  ogDescription = "Building India's Aadhaar Sandbox at UIDAI. 18+ years creating AI-powered products: Credit Risk AI, Resume-JD Matching, Marketplace Platforms. $2.1M+ revenue impact.",
+  ogType = "website",
+  canonicalUrl = "https://prasannahegde.com",
+}: SEOHeadProps) => {
+  const structuredData = {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Prasanna Hegde",
+    "jobTitle": "Product Strategy & Innovation Lead",
+    "description": "Product Manager specializing in AI/ML, Digital Identity, and Fintech",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "UIDAI"
+    },
+    "alumniOf": ["IIM Lucknow", "Institute of Product Leadership", "Coventry University"],
+    "knowsAbout": ["Product Management", "Agentic AI", "Machine Learning", "Digital Identity", "API Platforms", "Fintech", "GDPR"],
+    "url": canonicalUrl,
+    "sameAs": [
+      "https://linkedin.com/in/prasannahegde"
+    ]
+  };
+
+  return (
+    <Helmet>
+      {/* Primary Meta Tags */}
+      <title>{title}</title>
+      <meta name="title" content={title} />
+      <meta name="description" content={description} />
+      <meta name="keywords" content={keywords} />
+      <meta name="author" content="Prasanna Hegde" />
+      <meta name="robots" content="index, follow" />
+      <link rel="canonical" href={canonicalUrl} />
+{/* Favicon - Text-based with initials */}
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90' fill='%230d9488'>PH</text></svg>" />
+
+
+      {/* Open Graph / Facebook */}
+      <meta property="og:type" content={ogType} />
+      <meta property="og:url" content={canonicalUrl} />
+      <meta property="og:title" content={ogTitle} />
+      <meta property="og:description" content={ogDescription} />
+      <meta property="og:site_name" content="Prasanna Hegde Portfolio" />
+
+      {/* Twitter */}
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:url" content={canonicalUrl} />
+      <meta name="twitter:title" content={ogTitle} />
+      <meta name="twitter:description" content={ogDescription} />
+
+      {/* Structured Data */}
+      <script type="application/ld+json">
+        {JSON.stringify(structuredData)}
+      </script>
+    </Helmet>
+  );
+};

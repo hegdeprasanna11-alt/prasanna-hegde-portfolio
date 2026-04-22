@@ -1,1 +1,228 @@
-{"data":"aW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICdyZWFjdCc7CmltcG9ydCB7IG1vdGlvbiwgQW5pbWF0ZVByZXNlbmNlIH0gZnJvbSAnZnJhbWVyLW1vdGlvbic7CmltcG9ydCB7IENoZXZyb25Eb3duLCBDaGV2cm9uVXAsIEV4dGVybmFsTGluayB9IGZyb20gJ2x1Y2lkZS1yZWFjdCc7CmltcG9ydCB7IEJhZGdlIH0gZnJvbSAnQC9jb21wb25lbnRzL3VpL2JhZGdlJzsKaW1wb3J0IHsgQnV0dG9uIH0gZnJvbSAnQC9jb21wb25lbnRzL3VpL2J1dHRvbic7CmltcG9ydCB0eXBlIHsgUHJvamVjdCB9IGZyb20gJ0AvZGF0YS9wcm9qZWN0cyc7CgppbnRlcmZhY2UgUHJvamVjdENhcmRQcm9wcyB7CiAgcHJvamVjdDogUHJvamVjdDsKICBmZWF0dXJlZD86IGJvb2xlYW47Cn0KCmNvbnN0IGdldEJhZGdlQ2xhc3MgPSAodmFyaWFudDogc3RyaW5nKSA9PiB7CiAgY29uc3QgY2xhc3NlczogUmVjb3JkPHN0cmluZywgc3RyaW5nPiA9IHsKICAgIGdyZWVuOiAnYmFkZ2UtZ3JlZW4nLAogICAgYmx1ZTogJ2JhZGdlLW5hdnknLAogICAgcHVycGxlOiAnYmFkZ2UtcHVycGxlJywKICAgIG9yYW5nZTogJ2JhZGdlLW9yYW5nZScsCiAgICBnb2xkOiAnYmFkZ2UtZ29sZCcsCiAgICBncmF5OiAnYmctbXV0ZWQgdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIGJvcmRlci1ib3JkZXInLAogICAgdGVhbDogJ2JhZGdlLXRlYWwnLAogIH07CiAgcmV0dXJuIGNsYXNzZXNbdmFyaWFudF0gfHwgY2xhc3Nlcy5ncmF5Owp9OwoKY29uc3QgZ2V0Q2F0ZWdvcnlDb2xvciA9IChjYXRlZ29yeTogc3RyaW5nKSA9PiB7CiAgaWYgKGNhdGVnb3J5LnRvTG93ZXJDYXNlKCkuaW5jbHVkZXMoJ2FpJykgfHwgY2F0ZWdvcnkudG9Mb3dlckNhc2UoKS5pbmNsdWRlcygnbWwnKSkgewogICAgcmV0dXJuICdib3JkZXItbC1wdXJwbGUtYWknOwogIH0KICBpZiAoY2F0ZWdvcnkudG9Mb3dlckNhc2UoKS5pbmNsdWRlcygnbmF0aW9uYWwnKSB8fCBjYXRlZ29yeS50b0xvd2VyQ2FzZSgpLmluY2x1ZGVzKCdnb3Zlcm5tZW50JykpIHsKICAgIHJldHVybiAnYm9yZGVyLWwtdGVhbCc7CiAgfQogIGlmIChjYXRlZ29yeS50b0xvd2VyQ2FzZSgpLmluY2x1ZGVzKCdzdGFydHVwJykgfHwgY2F0ZWdvcnkudG9Mb3dlckNhc2UoKS5pbmNsdWRlcygnbWFya2V0cGxhY2UnKSkgewogICAgcmV0dXJuICdib3JkZXItbC1vcmFuZ2UtNTAwJzsKICB9CiAgaWYgKGNhdGVnb3J5LnRvTG93ZXJDYXNlKCkuaW5jbHVkZXMoJ2VudGVycHJpc2UnKSB8fCBjYXRlZ29yeS50b0xvd2VyQ2FzZSgpLmluY2x1ZGVzKCdjcm0nKSkgewogICAgcmV0dXJuICdib3JkZXItbC1uYXZ5IGRhcms6Ym9yZGVyLWwtYmx1ZS00MDAnOwogIH0KICBpZiAoY2F0ZWdvcnkudG9Mb3dlckNhc2UoKS5pbmNsdWRlcygnY29tcGxpYW5jZScpIHx8IGNhdGVnb3J5LnRvTG93ZXJDYXNlKCkuaW5jbHVkZXMoJ3JlZ3VsYXRvcnknKSkgewogICAgcmV0dXJuICdib3JkZXItbC1lbWVyYWxkLTUwMCc7CiAgfQogIHJldHVybiAnYm9yZGVyLWwtbXV0ZWQtZm9yZWdyb3VuZCc7Cn07CgpleHBvcnQgY29uc3QgUHJvamVjdENhcmQgPSAoeyBwcm9qZWN0LCBmZWF0dXJlZCA9IGZhbHNlIH06IFByb2plY3RDYXJkUHJvcHMpID0+IHsKICBjb25zdCBbaXNFeHBhbmRlZCwgc2V0SXNFeHBhbmRlZF0gPSB1c2VTdGF0ZShmYWxzZSk7CgogIHJldHVybiAoCiAgICA8bW90aW9uLmFydGljbGUKICAgICAgbGF5b3V0CiAgICAgIGluaXRpYWw9e3sgb3BhY2l0eTogMCwgeTogMjAgfX0KICAgICAgd2hpbGVJblZpZXc9e3sgb3BhY2l0eTogMSwgeTogMCB9fQogICAgICB2aWV3cG9ydD17eyBvbmNlOiB0cnVlIH19CiAgICAgIGNsYXNzTmFtZT17YGNhcmQtaG92ZXIgYmctY2FyZCByb3VuZGVkLXhsIGJvcmRlciBib3JkZXItYm9yZGVyIHNoYWRvdy1zb2Z0IG92ZXJmbG93LWhpZGRlbiBib3JkZXItbC00ICR7Z2V0Q2F0ZWdvcnlDb2xvcihwcm9qZWN0LmNhdGVnb3J5KX1gfQogICAgPgogICAgICA8ZGl2IGNsYXNzTmFtZT0icC02Ij4KICAgICAgICB7LyogSGVhZGVyICovfQogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGZsZXgtd3JhcCBnYXAtMiBtYi0zIj4KICAgICAgICAgIHtwcm9qZWN0LmJhZGdlcy5tYXAoKGJhZGdlLCBpbmRleCkgPT4gKAogICAgICAgICAgICA8QmFkZ2Uga2V5PXtpbmRleH0gdmFyaWFudD0ib3V0bGluZSIgY2xhc3NOYW1lPXtgdGV4dC14cyAke2dldEJhZGdlQ2xhc3MoYmFkZ2UudmFyaWFudCl9YH0+CiAgICAgICAgICAgICAge2JhZGdlLmxhYmVsfQogICAgICAgICAgICA8L0JhZGdlPgogICAgICAgICAgKSl9CiAgICAgICAgPC9kaXY+CgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLXN0YXJ0IGp1c3RpZnktYmV0d2VlbiBnYXAtNCBtYi0zIj4KICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LW11dGVkLWZvcmVncm91bmQgbWItMSI+e3Byb2plY3QudGltZWxpbmV9PC9wPgogICAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJmb250LWRpc3BsYXkgZm9udC1zZW1pYm9sZCB0ZXh0LXhsIHRleHQtZm9yZWdyb3VuZCI+e3Byb2plY3QudGl0bGV9PC9oMz4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgoKICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtbXV0ZWQtZm9yZWdyb3VuZCBtYi00Ij57cHJvamVjdC50YWdsaW5lfTwvcD4KCiAgICAgICAgey8qIE1ldHJpY3MgKi99CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ3JpZC1jb2xzLTIgbWQ6Z3JpZC1jb2xzLTQgZ2FwLTMgbWItNCI+CiAgICAgICAgICB7cHJvamVjdC5tZXRyaWNzLnNsaWNlKDAsIDQpLm1hcCgobWV0cmljLCBpbmRleCkgPT4gKAogICAgICAgICAgICA8ZGl2IGtleT17aW5kZXh9IGNsYXNzTmFtZT0idGV4dC1jZW50ZXIgcC0zIGJnLW11dGVkLzUwIHJvdW5kZWQtbGciPgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmb250LWRpc3BsYXkgZm9udC1ib2xkIHRleHQtbGcgdGV4dC1mb3JlZ3JvdW5kIj57bWV0cmljLnZhbHVlfTwvZGl2PgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0ZXh0LXhzIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCI+e21ldHJpYy5sYWJlbH08L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICApKX0KICAgICAgICA8L2Rpdj4KCiAgICAgICAgey8qIFRlY2ggU3RhY2sgUHJldmlldyAqL30KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBmbGV4LXdyYXAgZ2FwLTIgbWItNCI+CiAgICAgICAgICB7cHJvamVjdC50ZWNoU3RhY2suc2xpY2UoMCwgNSkubWFwKCh0ZWNoLCBpbmRleCkgPT4gKAogICAgICAgICAgICA8QmFkZ2Uga2V5PXtpbmRleH0gdmFyaWFudD0ic2Vjb25kYXJ5IiBjbGFzc05hbWU9InRleHQteHMiPgogICAgICAgICAgICAgIHt0ZWNofQogICAgICAgICAgICA8L0JhZGdlPgogICAgICAgICAgKSl9CiAgICAgICAgICB7cHJvamVjdC50ZWNoU3RhY2subGVuZ3RoID4gNSAmJiAoCiAgICAgICAgICAgIDxCYWRnZSB2YXJpYW50PSJzZWNvbmRhcnkiIGNsYXNzTmFtZT0idGV4dC14cyI+CiAgICAgICAgICAgICAgK3twcm9qZWN0LnRlY2hTdGFjay5sZW5ndGggLSA1fSBtb3JlCiAgICAgICAgICAgIDwvQmFkZ2U+CiAgICAgICAgICApfQogICAgICAgIDwvZGl2PgoKICAgICAgICB7LyogRXhwYW5kL0NvbGxhcHNlIEJ1dHRvbiAqL30KICAgICAgICB7ZmVhdHVyZWQgJiYgKHByb2plY3QuY2hhbGxlbmdlIHx8IHByb2plY3Quc29sdXRpb24gfHwgcHJvamVjdC5idXNpbmVzc0ltcGFjdCkgJiYgKAogICAgICAgICAgPEJ1dHRvbgogICAgICAgICAgICB2YXJpYW50PSJnaG9zdCIKICAgICAgICAgICAgc2l6ZT0ic20iCiAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHNldElzRXhwYW5kZWQoIWlzRXhwYW5kZWQpfQogICAgICAgICAgICBjbGFzc05hbWU9InctZnVsbCBqdXN0aWZ5LWNlbnRlciBnYXAtMiB0ZXh0LWFjY2VudCBob3Zlcjp0ZXh0LWFjY2VudCBob3ZlcjpiZy1hY2NlbnQvMTAiCiAgICAgICAgICA+CiAgICAgICAgICAgIHtpc0V4cGFuZGVkID8gKAogICAgICAgICAgICAgIDw+CiAgICAgICAgICAgICAgICBTaG93IExlc3MgPENoZXZyb25VcCBjbGFzc05hbWU9ImgtNCB3LTQiIC8+CiAgICAgICAgICAgICAgPC8+CiAgICAgICAgICAgICkgOiAoCiAgICAgICAgICAgICAgPD4KICAgICAgICAgICAgICAgIFJlYWQgTW9yZSA8Q2hldnJvbkRvd24gY2xhc3NOYW1lPSJoLTQgdy00IiAvPgogICAgICAgICAgICAgIDwvPgogICAgICAgICAgICApfQogICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgKX0KICAgICAgPC9kaXY+CgogICAgICB7LyogRXhwYW5kZWQgQ29udGVudCAqL30KICAgICAgPEFuaW1hdGVQcmVzZW5jZT4KICAgICAgICB7aXNFeHBhbmRlZCAmJiBmZWF0dXJlZCAmJiAoCiAgICAgICAgICA8bW90aW9uLmRpdgogICAgICAgICAgICBpbml0aWFsPXt7IGhlaWdodDogMCwgb3BhY2l0eTogMCB9fQogICAgICAgICAgICBhbmltYXRlPXt7IGhlaWdodDogJ2F1dG8nLCBvcGFjaXR5OiAxIH19CiAgICAgICAgICAgIGV4aXQ9e3sgaGVpZ2h0OiAwLCBvcGFjaXR5OiAwIH19CiAgICAgICAgICAgIHRyYW5zaXRpb249e3sgZHVyYXRpb246IDAuMywgZWFzZTogJ2Vhc2VJbk91dCcgfX0KICAgICAgICAgICAgY2xhc3NOYW1lPSJvdmVyZmxvdy1oaWRkZW4iCiAgICAgICAgICA+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJweC02IHBiLTYgYm9yZGVyLXQgYm9yZGVyLWJvcmRlciBwdC02IHNwYWNlLXktNiI+CiAgICAgICAgICAgICAgey8qIENoYWxsZW5nZSAqL30KICAgICAgICAgICAgICB7cHJvamVjdC5jaGFsbGVuZ2UgJiYgKAogICAgICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgICAgPGg0IGNsYXNzTmFtZT0iZm9udC1kaXNwbGF5IGZvbnQtc2VtaWJvbGQgdGV4dC1mb3JlZ3JvdW5kIG1iLTIiPkNoYWxsZW5nZTwvaDQ+CiAgICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LW11dGVkLWZvcmVncm91bmQiPntwcm9qZWN0LmNoYWxsZW5nZX08L3A+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICApfQoKICAgICAgICAgICAgICB7LyogU29sdXRpb24gKi99CiAgICAgICAgICAgICAge3Byb2plY3Quc29sdXRpb24gJiYgKAogICAgICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgICAgPGg0IGNsYXNzTmFtZT0iZm9udC1kaXNwbGF5IGZvbnQtc2VtaWJvbGQgdGV4dC1mb3JlZ3JvdW5kIG1iLTIiPlNvbHV0aW9uPC9oND4KICAgICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCI+e3Byb2plY3Quc29sdXRpb259PC9wPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgKX0KCiAgICAgICAgICAgICAgey8qIEZlYXR1cmVzICovfQogICAgICAgICAgICAgIHtwcm9qZWN0LmZlYXR1cmVzICYmIHByb2plY3QuZmVhdHVyZXMubGVuZ3RoID4gMCAmJiAoCiAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICA8aDQgY2xhc3NOYW1lPSJmb250LWRpc3BsYXkgZm9udC1zZW1pYm9sZCB0ZXh0LWZvcmVncm91bmQgbWItMyI+S2V5IEZlYXR1cmVzPC9oND4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgbWQ6Z3JpZC1jb2xzLTIgZ2FwLTQiPgogICAgICAgICAgICAgICAgICAgIHtwcm9qZWN0LmZlYXR1cmVzLm1hcCgoZmVhdHVyZSwgaW5kZXgpID0+ICgKICAgICAgICAgICAgICAgICAgICAgIDxkaXYga2V5PXtpbmRleH0gY2xhc3NOYW1lPSJiZy1tdXRlZC8zMCByb3VuZGVkLWxnIHAtNCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxoNSBjbGFzc05hbWU9ImZvbnQtbWVkaXVtIHRleHQtZm9yZWdyb3VuZCBtYi0yIj57ZmVhdHVyZS50aXRsZX08L2g1PgogICAgICAgICAgICAgICAgICAgICAgICA8dWwgY2xhc3NOYW1lPSJzcGFjZS15LTEiPgogICAgICAgICAgICAgICAgICAgICAgICAgIHtmZWF0dXJlLml0ZW1zLm1hcCgoaXRlbSwgaXRlbUluZGV4KSA9PiAoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGkga2V5PXtpdGVtSW5kZXh9IGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LW11dGVkLWZvcmVncm91bmQgZmxleCBpdGVtcy1zdGFydCBnYXAtMiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1hY2NlbnQgbXQtMSI+4oCiPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7aXRlbX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgKSl9CiAgICAgICAgICAgICAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICApfQoKICAgICAgICAgICAgICB7LyogQnVzaW5lc3MgSW1wYWN0ICovfQogICAgICAgICAgICAgIHtwcm9qZWN0LmJ1c2luZXNzSW1wYWN0ICYmIHByb2plY3QuYnVzaW5lc3NJbXBhY3QubGVuZ3RoID4gMCAmJiAoCiAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICA8aDQgY2xhc3NOYW1lPSJmb250LWRpc3BsYXkgZm9udC1zZW1pYm9sZCB0ZXh0LWZvcmVncm91bmQgbWItMiI+QnVzaW5lc3MgSW1wYWN0PC9oND4KICAgICAgICAgICAgICAgICAgPHVsIGNsYXNzTmFtZT0ic3BhY2UteS0yIj4KICAgICAgICAgICAgICAgICAgICB7cHJvamVjdC5idXNpbmVzc0ltcGFjdC5tYXAoKGltcGFjdCwgaW5kZXgpID0+ICgKICAgICAgICAgICAgICAgICAgICAgIDxsaSBrZXk9e2luZGV4fSBjbGFzc05hbWU9InRleHQtc20gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIGZsZXggaXRlbXMtc3RhcnQgZ2FwLTIiPgogICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtYWNjZW50IG10LTEiPuKckzwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAge2ltcGFjdH0KICAgICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICAgICAgKSl9CiAgICAgICAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICApfQoKICAgICAgICAgICAgICB7LyogTGVhcm5pbmdzICovfQogICAgICAgICAgICAgIHtwcm9qZWN0LmxlYXJuaW5ncyAmJiBwcm9qZWN0LmxlYXJuaW5ncy5sZW5ndGggPiAwICYmICgKICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJiZy1hY2NlbnQvNSBib3JkZXIgYm9yZGVyLWFjY2VudC8yMCByb3VuZGVkLWxnIHAtNCI+CiAgICAgICAgICAgICAgICAgIDxoNCBjbGFzc05hbWU9ImZvbnQtZGlzcGxheSBmb250LXNlbWlib2xkIHRleHQtZm9yZWdyb3VuZCBtYi0zIj5Qcm9kdWN0IExlYXJuaW5nczwvaDQ+CiAgICAgICAgICAgICAgICAgIDxvbCBjbGFzc05hbWU9InNwYWNlLXktMiI+CiAgICAgICAgICAgICAgICAgICAge3Byb2plY3QubGVhcm5pbmdzLm1hcCgobGVhcm5pbmcsIGluZGV4KSA9PiAoCiAgICAgICAgICAgICAgICAgICAgICA8bGkga2V5PXtpbmRleH0gY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCBmbGV4IGl0ZW1zLXN0YXJ0IGdhcC0zIj4KICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJmb250LWJvbGQgdGV4dC1hY2NlbnQiPntpbmRleCArIDF9Ljwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAge2xlYXJuaW5nfQogICAgICAgICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgICAgICAgPC9vbD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICl9CgogICAgICAgICAgICAgIHsvKiBGdWxsIFRlY2ggU3RhY2sgKi99CiAgICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgIDxoNCBjbGFzc05hbWU9ImZvbnQtZGlzcGxheSBmb250LXNlbWlib2xkIHRleHQtZm9yZWdyb3VuZCBtYi0yIj5UZWNoIFN0YWNrPC9oND4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGZsZXgtd3JhcCBnYXAtMiI+CiAgICAgICAgICAgICAgICAgIHtwcm9qZWN0LnRlY2hTdGFjay5tYXAoKHRlY2gsIGluZGV4KSA9PiAoCiAgICAgICAgICAgICAgICAgICAgPEJhZGdlIGtleT17aW5kZXh9IHZhcmlhbnQ9InNlY29uZGFyeSIgY2xhc3NOYW1lPSJ0ZXh0LXhzIj4KICAgICAgICAgICAgICAgICAgICAgIHt0ZWNofQogICAgICAgICAgICAgICAgICAgIDwvQmFkZ2U+CiAgICAgICAgICAgICAgICAgICkpfQogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgIHsvKiBTa2lsbHMgKi99CiAgICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgIDxoNCBjbGFzc05hbWU9ImZvbnQtZGlzcGxheSBmb250LXNlbWlib2xkIHRleHQtZm9yZWdyb3VuZCBtYi0yIj5Ta2lsbHMgRGVtb25zdHJhdGVkPC9oND4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGZsZXgtd3JhcCBnYXAtMiI+CiAgICAgICAgICAgICAgICAgIHtwcm9qZWN0LnNraWxscy5tYXAoKHNraWxsLCBpbmRleCkgPT4gKAogICAgICAgICAgICAgICAgICAgIDxCYWRnZSBrZXk9e2luZGV4fSB2YXJpYW50PSJvdXRsaW5lIiBjbGFzc05hbWU9InRleHQteHMgYmFkZ2UtdGVhbCI+CiAgICAgICAgICAgICAgICAgICAgICB7c2tpbGx9CiAgICAgICAgICAgICAgICAgICAgPC9CYWRnZT4KICAgICAgICAgICAgICAgICAgKSl9CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L21vdGlvbi5kaXY+CiAgICAgICAgKX0KICAgICAgPC9BbmltYXRlUHJlc2VuY2U+CiAgICA8L21vdGlvbi5hcnRpY2xlPgogICk7Cn07Cg=="}
+import { useState } from 'react';
+import { motion, AnimatePresence } from 'framer-motion';
+import { ChevronDown, ChevronUp, ExternalLink } from 'lucide-react';
+import { Badge } from '@/components/ui/badge';
+import { Button } from '@/components/ui/button';
+import type { Project } from '@/data/projects';
+
+interface ProjectCardProps {
+  project: Project;
+  featured?: boolean;
+}
+
+const getBadgeClass = (variant: string) => {
+  const classes: Record<string, string> = {
+    green: 'badge-green',
+    blue: 'badge-navy',
+    purple: 'badge-purple',
+    orange: 'badge-orange',
+    gold: 'badge-gold',
+    gray: 'bg-muted text-muted-foreground border-border',
+    teal: 'badge-teal',
+  };
+  return classes[variant] || classes.gray;
+};
+
+const getCategoryColor = (category: string) => {
+  if (category.toLowerCase().includes('ai') || category.toLowerCase().includes('ml')) {
+    return 'border-l-purple-ai';
+  }
+  if (category.toLowerCase().includes('national') || category.toLowerCase().includes('government')) {
+    return 'border-l-teal';
+  }
+  if (category.toLowerCase().includes('startup') || category.toLowerCase().includes('marketplace')) {
+    return 'border-l-orange-500';
+  }
+  if (category.toLowerCase().includes('enterprise') || category.toLowerCase().includes('crm')) {
+    return 'border-l-navy dark:border-l-blue-400';
+  }
+  if (category.toLowerCase().includes('compliance') || category.toLowerCase().includes('regulatory')) {
+    return 'border-l-emerald-500';
+  }
+  return 'border-l-muted-foreground';
+};
+
+export const ProjectCard = ({ project, featured = false }: ProjectCardProps) => {
+  const [isExpanded, setIsExpanded] = useState(false);
+
+  return (
+    <motion.article
+      layout
+      initial={{ opacity: 0, y: 20 }}
+      whileInView={{ opacity: 1, y: 0 }}
+      viewport={{ once: true }}
+      className={`card-hover bg-card rounded-xl border border-border shadow-soft overflow-hidden border-l-4 ${getCategoryColor(project.category)}`}
+    >
+      <div className="p-6">
+        {/* Header */}
+        <div className="flex flex-wrap gap-2 mb-3">
+          {project.badges.map((badge, index) => (
+            <Badge key={index} variant="outline" className={`text-xs ${getBadgeClass(badge.variant)}`}>
+              {badge.label}
+            </Badge>
+          ))}
+        </div>
+
+        <div className="flex items-start justify-between gap-4 mb-3">
+          <div>
+            <p className="text-sm text-muted-foreground mb-1">{project.timeline}</p>
+            <h3 className="font-display font-semibold text-xl text-foreground">{project.title}</h3>
+          </div>
+        </div>
+
+        <p className="text-muted-foreground mb-4">{project.tagline}</p>
+
+        {/* Metrics */}
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mb-4">
+          {project.metrics.slice(0, 4).map((metric, index) => (
+            <div key={index} className="text-center p-3 bg-muted/50 rounded-lg">
+              <div className="font-display font-bold text-lg text-foreground">{metric.value}</div>
+              <div className="text-xs text-muted-foreground">{metric.label}</div>
+            </div>
+          ))}
+        </div>
+
+        {/* Tech Stack Preview */}
+        <div className="flex flex-wrap gap-2 mb-4">
+          {project.techStack.slice(0, 5).map((tech, index) => (
+            <Badge key={index} variant="secondary" className="text-xs">
+              {tech}
+            </Badge>
+          ))}
+          {project.techStack.length > 5 && (
+            <Badge variant="secondary" className="text-xs">
+              +{project.techStack.length - 5} more
+            </Badge>
+          )}
+        </div>
+
+        {/* Expand/Collapse Button */}
+        {featured && (project.challenge || project.solution || project.businessImpact) && (
+          <Button
+            variant="ghost"
+            size="sm"
+            onClick={() => setIsExpanded(!isExpanded)}
+            className="w-full justify-center gap-2 text-accent hover:text-accent hover:bg-accent/10"
+          >
+            {isExpanded ? (
+              <>
+                Show Less <ChevronUp className="h-4 w-4" />
+              </>
+            ) : (
+              <>
+                Read More <ChevronDown className="h-4 w-4" />
+              </>
+            )}
+          </Button>
+        )}
+      </div>
+
+      {/* Expanded Content */}
+      <AnimatePresence>
+        {isExpanded && featured && (
+          <motion.div
+            initial={{ height: 0, opacity: 0 }}
+            animate={{ height: 'auto', opacity: 1 }}
+            exit={{ height: 0, opacity: 0 }}
+            transition={{ duration: 0.3, ease: 'easeInOut' }}
+            className="overflow-hidden"
+          >
+            <div className="px-6 pb-6 border-t border-border pt-6 space-y-6">
+              {/* Challenge */}
+              {project.challenge && (
+                <div>
+                  <h4 className="font-display font-semibold text-foreground mb-2">Challenge</h4>
+                  <p className="text-sm text-muted-foreground">{project.challenge}</p>
+                </div>
+              )}
+
+              {/* Solution */}
+              {project.solution && (
+                <div>
+                  <h4 className="font-display font-semibold text-foreground mb-2">Solution</h4>
+                  <p className="text-sm text-muted-foreground">{project.solution}</p>
+                </div>
+              )}
+
+              {/* Features */}
+              {project.features && project.features.length > 0 && (
+                <div>
+                  <h4 className="font-display font-semibold text-foreground mb-3">Key Features</h4>
+                  <div className="grid md:grid-cols-2 gap-4">
+                    {project.features.map((feature, index) => (
+                      <div key={index} className="bg-muted/30 rounded-lg p-4">
+                        <h5 className="font-medium text-foreground mb-2">{feature.title}</h5>
+                        <ul className="space-y-1">
+                          {feature.items.map((item, itemIndex) => (
+                            <li key={itemIndex} className="text-sm text-muted-foreground flex items-start gap-2">
+                              <span className="text-accent mt-1">•</span>
+                              {item}
+                            </li>
+                          ))}
+                        </ul>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              )}
+
+              {/* Business Impact */}
+              {project.businessImpact && project.businessImpact.length > 0 && (
+                <div>
+                  <h4 className="font-display font-semibold text-foreground mb-2">Business Impact</h4>
+                  <ul className="space-y-2">
+                    {project.businessImpact.map((impact, index) => (
+                      <li key={index} className="text-sm text-muted-foreground flex items-start gap-2">
+                        <span className="text-accent mt-1">✓</span>
+                        {impact}
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+
+              {/* Learnings */}
+              {project.learnings && project.learnings.length > 0 && (
+                <div className="bg-accent/5 border border-accent/20 rounded-lg p-4">
+                  <h4 className="font-display font-semibold text-foreground mb-3">Product Learnings</h4>
+                  <ol className="space-y-2">
+                    {project.learnings.map((learning, index) => (
+                      <li key={index} className="text-sm text-muted-foreground flex items-start gap-3">
+                        <span className="font-bold text-accent">{index + 1}.</span>
+                        {learning}
+                      </li>
+                    ))}
+                  </ol>
+                </div>
+              )}
+
+              {/* Full Tech Stack */}
+              <div>
+                <h4 className="font-display font-semibold text-foreground mb-2">Tech Stack</h4>
+                <div className="flex flex-wrap gap-2">
+                  {project.techStack.map((tech, index) => (
+                    <Badge key={index} variant="secondary" className="text-xs">
+                      {tech}
+                    </Badge>
+                  ))}
+                </div>
+              </div>
+
+              {/* Skills */}
+              <div>
+                <h4 className="font-display font-semibold text-foreground mb-2">Skills Demonstrated</h4>
+                <div className="flex flex-wrap gap-2">
+                  {project.skills.map((skill, index) => (
+                    <Badge key={index} variant="outline" className="text-xs badge-teal">
+                      {skill}
+                    </Badge>
+                  ))}
+                </div>
+              </div>
+            </div>
+          </motion.div>
+        )}
+      </AnimatePresence>
+    </motion.article>
+  );
+};

@@ -1,1 +1,122 @@
-{"data":"aW1wb3J0IHsgbW90aW9uIH0gZnJvbSAnZnJhbWVyLW1vdGlvbic7CmltcG9ydCB7IE1hcFBpbiwgQnJpZWZjYXNlLCBDaGVja0NpcmNsZTIgfSBmcm9tICdsdWNpZGUtcmVhY3QnOwppbXBvcnQgeyBjYXJlZXJQb3NpdGlvbnMgfSBmcm9tICdAL2RhdGEvY2FyZWVyJzsKCmNvbnN0IGNvbnRhaW5lclZhcmlhbnRzID0gewogIGhpZGRlbjogeyBvcGFjaXR5OiAwIH0sCiAgdmlzaWJsZTogewogICAgb3BhY2l0eTogMSwKICAgIHRyYW5zaXRpb246IHsKICAgICAgc3RhZ2dlckNoaWxkcmVuOiAwLjIsCiAgICB9LAogIH0sCn07Cgpjb25zdCBpdGVtVmFyaWFudHMgPSB7CiAgaGlkZGVuOiB7IG9wYWNpdHk6IDAsIHg6IC0zMCB9LAogIHZpc2libGU6IHsKICAgIG9wYWNpdHk6IDEsCiAgICB4OiAwLAogICAgdHJhbnNpdGlvbjogeyBkdXJhdGlvbjogMC41IH0sCiAgfSwKfTsKCmV4cG9ydCBjb25zdCBDYXJlZXJTZWN0aW9uID0gKCkgPT4gewogIHJldHVybiAoCiAgICA8c2VjdGlvbiBpZD0iY2FyZWVyIiBjbGFzc05hbWU9InNlY3Rpb24tY29udGFpbmVyIj4KICAgICAgPGRpdiBjbGFzc05hbWU9InNlY3Rpb24taGVhZGVyIj4KICAgICAgICA8bW90aW9uLmgyCiAgICAgICAgICBpbml0aWFsPXt7IG9wYWNpdHk6IDAsIHk6IDIwIH19CiAgICAgICAgICB3aGlsZUluVmlldz17eyBvcGFjaXR5OiAxLCB5OiAwIH19CiAgICAgICAgICB2aWV3cG9ydD17eyBvbmNlOiB0cnVlIH19CiAgICAgICAgICBjbGFzc05hbWU9InNlY3Rpb24tdGl0bGUiCiAgICAgICAgPgogICAgICAgICAgQ2FyZWVyIEpvdXJuZXkKICAgICAgICA8L21vdGlvbi5oMj4KICAgICAgICA8bW90aW9uLnAKICAgICAgICAgIGluaXRpYWw9e3sgb3BhY2l0eTogMCwgeTogMjAgfX0KICAgICAgICAgIHdoaWxlSW5WaWV3PXt7IG9wYWNpdHk6IDEsIHk6IDAgfX0KICAgICAgICAgIHZpZXdwb3J0PXt7IG9uY2U6IHRydWUgfX0KICAgICAgICAgIHRyYW5zaXRpb249e3sgZGVsYXk6IDAuMSB9fQogICAgICAgICAgY2xhc3NOYW1lPSJzZWN0aW9uLXN1YnRpdGxlIgogICAgICAgID4KICAgICAgICAgIDE4KyB5ZWFycyBidWlsZGluZyBwcm9kdWN0cyBhY3Jvc3Mgc3RhcnR1cHMsIGVudGVycHJpc2VzLCBhbmQgbmF0aW9uYWwgcGxhdGZvcm1zCiAgICAgICAgPC9tb3Rpb24ucD4KICAgICAgPC9kaXY+CgogICAgICB7LyogVGltZWxpbmUgKi99CiAgICAgIDxtb3Rpb24uZGl2CiAgICAgICAgdmFyaWFudHM9e2NvbnRhaW5lclZhcmlhbnRzfQogICAgICAgIGluaXRpYWw9ImhpZGRlbiIKICAgICAgICB3aGlsZUluVmlldz0idmlzaWJsZSIKICAgICAgICB2aWV3cG9ydD17eyBvbmNlOiB0cnVlIH19CiAgICAgICAgY2xhc3NOYW1lPSJyZWxhdGl2ZSBtYXgtdy00eGwgbXgtYXV0byIKICAgICAgPgogICAgICAgIHsvKiBWZXJ0aWNhbCBMaW5lICovfQogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSBsZWZ0LTQgbWQ6bGVmdC0xLzIgdG9wLTAgYm90dG9tLTAgdy0wLjUgYmctZ3JhZGllbnQtdG8tYiBmcm9tLXRlYWwgdmlhLXB1cnBsZS1haSB0by1uYXZ5IHRyYW5zZm9ybSBtZDotdHJhbnNsYXRlLXgtMS8yIiAvPgoKICAgICAgICB7Y2FyZWVyUG9zaXRpb25zLm1hcCgocG9zaXRpb24sIGluZGV4KSA9PiAoCiAgICAgICAgICA8bW90aW9uLmRpdgogICAgICAgICAgICBrZXk9e3Bvc2l0aW9uLmlkfQogICAgICAgICAgICB2YXJpYW50cz17aXRlbVZhcmlhbnRzfQogICAgICAgICAgICBjbGFzc05hbWU9e2ByZWxhdGl2ZSBmbGV4IGZsZXgtY29sIG1kOmZsZXgtcm93IGdhcC04IG1iLTEyIGxhc3Q6bWItMCAkewogICAgICAgICAgICAgIGluZGV4ICUgMiA9PT0gMCA/ICdtZDpmbGV4LXJvdy1yZXZlcnNlJyA6ICcnCiAgICAgICAgICAgIH1gfQogICAgICAgICAgPgogICAgICAgICAgICB7LyogVGltZWxpbmUgRG90ICovfQogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYWJzb2x1dGUgbGVmdC00IG1kOmxlZnQtMS8yIHctNCBoLTQgcm91bmRlZC1mdWxsIGJnLWFjY2VudCBib3JkZXItNCBib3JkZXItYmFja2dyb3VuZCB0cmFuc2Zvcm0gLXRyYW5zbGF0ZS14LTEvMiB6LTEwIj4KICAgICAgICAgICAgICB7cG9zaXRpb24uY3VycmVudCAmJiAoCiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImFic29sdXRlIC10b3AtMSAtcmlnaHQtMSB3LTMgaC0zIGJnLXRlYWwgcm91bmRlZC1mdWxsIGFuaW1hdGUtcGluZyIgLz4KICAgICAgICAgICAgICApfQogICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgIHsvKiBDb250ZW50ICovfQogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT17YG1sLTEyIG1kOm1sLTAgbWQ6dy0xLzIgJHtpbmRleCAlIDIgPT09IDAgPyAnbWQ6cHItMTInIDogJ21kOnBsLTEyJ31gfT4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY2FyZC1ob3ZlciBiZy1jYXJkIHJvdW5kZWQteGwgYm9yZGVyIGJvcmRlci1ib3JkZXIgcC02IHNoYWRvdy1zb2Z0Ij4KICAgICAgICAgICAgICAgIHsvKiBIZWFkZXIgKi99CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1zdGFydCBqdXN0aWZ5LWJldHdlZW4gZ2FwLTQgbWItNCI+CiAgICAgICAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgICAgICAge3Bvc2l0aW9uLmN1cnJlbnQgJiYgKAogICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJpbmxpbmUtYmxvY2sgcHgtMyBweS0xIHRleHQteHMgZm9udC1tZWRpdW0gYmctdGVhbC8xMCB0ZXh0LXRlYWwgcm91bmRlZC1mdWxsIG1iLTIiPgogICAgICAgICAgICAgICAgICAgICAgICBDdXJyZW50IFJvbGUKICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICApfQogICAgICAgICAgICAgICAgICAgIDxoMyBjbGFzc05hbWU9ImZvbnQtZGlzcGxheSBmb250LXNlbWlib2xkIHRleHQtbGcgdGV4dC1mb3JlZ3JvdW5kIj4KICAgICAgICAgICAgICAgICAgICAgIHtwb3NpdGlvbi5yb2xlfQogICAgICAgICAgICAgICAgICAgIDwvaDM+CiAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LWFjY2VudCBmb250LW1lZGl1bSI+e3Bvc2l0aW9uLmNvbXBhbnl9PC9wPgogICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICAgIHsvKiBNZXRhICovfQogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZmxleC13cmFwIGdhcC00IHRleHQtc20gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIG1iLTQiPgogICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0xIj4KICAgICAgICAgICAgICAgICAgICA8QnJpZWZjYXNlIGNsYXNzTmFtZT0iaC00IHctNCIgLz4KICAgICAgICAgICAgICAgICAgICB7cG9zaXRpb24ucGVyaW9kfQogICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTEiPgogICAgICAgICAgICAgICAgICAgIDxNYXBQaW4gY2xhc3NOYW1lPSJoLTQgdy00IiAvPgogICAgICAgICAgICAgICAgICAgIHtwb3NpdGlvbi5sb2NhdGlvbn0KICAgICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgICAgey8qIEFjaGlldmVtZW50cyAqL30KICAgICAgICAgICAgICAgIDx1bCBjbGFzc05hbWU9InNwYWNlLXktMiI+CiAgICAgICAgICAgICAgICAgIHtwb3NpdGlvbi5hY2hpZXZlbWVudHMubWFwKChhY2hpZXZlbWVudCwgYWNoSW5kZXgpID0+ICgKICAgICAgICAgICAgICAgICAgICA8bGkga2V5PXthY2hJbmRleH0gY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCBmbGV4IGl0ZW1zLXN0YXJ0IGdhcC0yIj4KICAgICAgICAgICAgICAgICAgICAgIDxDaGVja0NpcmNsZTIgY2xhc3NOYW1lPSJoLTQgdy00IHRleHQtYWNjZW50IG10LTAuNSBmbGV4LXNocmluay0wIiAvPgogICAgICAgICAgICAgICAgICAgICAgPHNwYW4+e2FjaGlldmVtZW50fTwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgey8qIEVtcHR5IHNwYWNlIGZvciBhbGlnbm1lbnQgKi99CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJoaWRkZW4gbWQ6YmxvY2sgbWQ6dy0xLzIiIC8+CiAgICAgICAgICA8L21vdGlvbi5kaXY+CiAgICAgICAgKSl9CiAgICAgIDwvbW90aW9uLmRpdj4KICAgIDwvc2VjdGlvbj4KICApOwp9Owo="}
+import { motion } from 'framer-motion';
+import { MapPin, Briefcase, CheckCircle2 } from 'lucide-react';
+import { careerPositions } from '@/data/career';
+
+const containerVariants = {
+  hidden: { opacity: 0 },
+  visible: {
+    opacity: 1,
+    transition: {
+      staggerChildren: 0.2,
+    },
+  },
+};
+
+const itemVariants = {
+  hidden: { opacity: 0, x: -30 },
+  visible: {
+    opacity: 1,
+    x: 0,
+    transition: { duration: 0.5 },
+  },
+};
+
+export const CareerSection = () => {
+  return (
+    <section id="career" className="section-container">
+      <div className="section-header">
+        <motion.h2
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          className="section-title"
+        >
+          Career Journey
+        </motion.h2>
+        <motion.p
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          transition={{ delay: 0.1 }}
+          className="section-subtitle"
+        >
+          18+ years building products across startups, enterprises, and national platforms
+        </motion.p>
+      </div>
+
+      {/* Timeline */}
+      <motion.div
+        variants={containerVariants}
+        initial="hidden"
+        whileInView="visible"
+        viewport={{ once: true }}
+        className="relative max-w-4xl mx-auto"
+      >
+        {/* Vertical Line */}
+        <div className="absolute left-4 md:left-1/2 top-0 bottom-0 w-0.5 bg-gradient-to-b from-teal via-purple-ai to-navy transform md:-translate-x-1/2" />
+
+        {careerPositions.map((position, index) => (
+          <motion.div
+            key={position.id}
+            variants={itemVariants}
+            className={`relative flex flex-col md:flex-row gap-8 mb-12 last:mb-0 ${
+              index % 2 === 0 ? 'md:flex-row-reverse' : ''
+            }`}
+          >
+            {/* Timeline Dot */}
+            <div className="absolute left-4 md:left-1/2 w-4 h-4 rounded-full bg-accent border-4 border-background transform -translate-x-1/2 z-10">
+              {position.current && (
+                <span className="absolute -top-1 -right-1 w-3 h-3 bg-teal rounded-full animate-ping" />
+              )}
+            </div>
+
+            {/* Content */}
+            <div className={`ml-12 md:ml-0 md:w-1/2 ${index % 2 === 0 ? 'md:pr-12' : 'md:pl-12'}`}>
+              <div className="card-hover bg-card rounded-xl border border-border p-6 shadow-soft">
+                {/* Header */}
+                <div className="flex items-start justify-between gap-4 mb-4">
+                  <div>
+                    {position.current && (
+                      <span className="inline-block px-3 py-1 text-xs font-medium bg-teal/10 text-teal rounded-full mb-2">
+                        Current Role
+                      </span>
+                    )}
+                    <h3 className="font-display font-semibold text-lg text-foreground">
+                      {position.role}
+                    </h3>
+                    <p className="text-accent font-medium">{position.company}</p>
+                  </div>
+                </div>
+
+                {/* Meta */}
+                <div className="flex flex-wrap gap-4 text-sm text-muted-foreground mb-4">
+                  <span className="flex items-center gap-1">
+                    <Briefcase className="h-4 w-4" />
+                    {position.period}
+                  </span>
+                  <span className="flex items-center gap-1">
+                    <MapPin className="h-4 w-4" />
+                    {position.location}
+                  </span>
+                </div>
+
+                {/* Achievements */}
+                <ul className="space-y-2">
+                  {position.achievements.map((achievement, achIndex) => (
+                    <li key={achIndex} className="text-sm text-muted-foreground flex items-start gap-2">
+                      <CheckCircle2 className="h-4 w-4 text-accent mt-0.5 flex-shrink-0" />
+                      <span>{achievement}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            </div>
+
+            {/* Empty space for alignment */}
+            <div className="hidden md:block md:w-1/2" />
+          </motion.div>
+        ))}
+      </motion.div>
+    </section>
+  );
+};

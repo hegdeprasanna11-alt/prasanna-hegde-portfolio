@@ -1,1 +1,238 @@
-{"data":"QGltcG9ydCAiQGZvbnRzb3VyY2UvaW50ZXIvNDAwLmNzcyI7CkBpbXBvcnQgIkBmb250c291cmNlL2ludGVyLzUwMC5jc3MiOwpAaW1wb3J0ICJAZm9udHNvdXJjZS9pbnRlci82MDAuY3NzIjsKQGltcG9ydCAiQGZvbnRzb3VyY2UvaW50ZXIvNzAwLmNzcyI7CkBpbXBvcnQgIkBmb250c291cmNlL3BvcHBpbnMvNDAwLmNzcyI7CkBpbXBvcnQgIkBmb250c291cmNlL3BvcHBpbnMvNTAwLmNzcyI7CkBpbXBvcnQgIkBmb250c291cmNlL3BvcHBpbnMvNjAwLmNzcyI7CkBpbXBvcnQgIkBmb250c291cmNlL3BvcHBpbnMvNzAwLmNzcyI7CkBpbXBvcnQgIkBmb250c291cmNlL3BvcHBpbnMvODAwLmNzcyI7CgpAdGFpbHdpbmQgYmFzZTsKQHRhaWx3aW5kIGNvbXBvbmVudHM7CkB0YWlsd2luZCB1dGlsaXRpZXM7CgpAbGF5ZXIgYmFzZSB7CiAgOnJvb3QgewogICAgLyogQ29yZSBCcmFuZCBDb2xvcnMgLSBOYXZ5ICYgVGVhbCAqLwogICAgLS1uYXZ5OiAyMjIgNDclIDIxJTsKICAgIC0tbmF2eS1kYXJrOiAyMjIgNTUlIDEzJTsKICAgIC0tdGVhbDogMTY5IDg1JSAzMiU7CiAgICAtLXRlYWwtbGlnaHQ6IDE2OSA4MCUgNDIlOwogICAgLS1wdXJwbGUtYWk6IDI1OCA5MCUgNjYlOwogICAgLS1wdXJwbGUtYWktbGlnaHQ6IDI1OCA4NSUgNzUlOwogICAgCiAgICAvKiBCYWNrZ3JvdW5kICYgU3VyZmFjZXMgKi8KICAgIC0tYmFja2dyb3VuZDogMjEwIDIwJSA5OCU7CiAgICAtLWZvcmVncm91bmQ6IDIyMiA0NyUgMTElOwogICAgCiAgICAtLWNhcmQ6IDAgMCUgMTAwJTsKICAgIC0tY2FyZC1mb3JlZ3JvdW5kOiAyMjIgNDclIDExJTsKICAgIAogICAgLS1wb3BvdmVyOiAwIDAlIDEwMCU7CiAgICAtLXBvcG92ZXItZm9yZWdyb3VuZDogMjIyIDQ3JSAxMSU7CiAgICAKICAgIC8qIFByaW1hcnkgLSBOYXZ5ICovCiAgICAtLXByaW1hcnk6IDIyMiA0NyUgMjElOwogICAgLS1wcmltYXJ5LWZvcmVncm91bmQ6IDAgMCUgMTAwJTsKICAgIAogICAgLyogU2Vjb25kYXJ5IC0gTGlnaHQgYmFja2dyb3VuZHMgKi8KICAgIC0tc2Vjb25kYXJ5OiAyMTAgMjAlIDk2JTsKICAgIC0tc2Vjb25kYXJ5LWZvcmVncm91bmQ6IDIyMiA0NyUgMTElOwogICAgCiAgICAvKiBNdXRlZCAqLwogICAgLS1tdXRlZDogMjEwIDIwJSA5NCU7CiAgICAtLW11dGVkLWZvcmVncm91bmQ6IDIxNSAxNiUgNDclOwogICAgCiAgICAvKiBBY2NlbnQgLSBUZWFsICovCiAgICAtLWFjY2VudDogMTY5IDg1JSAzMiU7CiAgICAtLWFjY2VudC1mb3JlZ3JvdW5kOiAwIDAlIDEwMCU7CiAgICAKICAgIC8qIERlc3RydWN0aXZlICovCiAgICAtLWRlc3RydWN0aXZlOiAwIDg0JSA2MCU7CiAgICAtLWRlc3RydWN0aXZlLWZvcmVncm91bmQ6IDAgMCUgMTAwJTsKICAgIAogICAgLyogQm9yZGVyICYgSW5wdXQgKi8KICAgIC0tYm9yZGVyOiAyMTQgMzIlIDkxJTsKICAgIC0taW5wdXQ6IDIxNCAzMiUgOTElOwogICAgLS1yaW5nOiAxNjkgODUlIDMyJTsKICAgIAogICAgLS1yYWRpdXM6IDAuNzVyZW07CiAgICAKICAgIC8qIFNpZGViYXIgKi8KICAgIC0tc2lkZWJhci1iYWNrZ3JvdW5kOiAwIDAlIDk4JTsKICAgIC0tc2lkZWJhci1mb3JlZ3JvdW5kOiAyNDAgNSUgMjYlOwogICAgLS1zaWRlYmFyLXByaW1hcnk6IDI0MCA2JSAxMCU7CiAgICAtLXNpZGViYXItcHJpbWFyeS1mb3JlZ3JvdW5kOiAwIDAlIDk4JTsKICAgIC0tc2lkZWJhci1hY2NlbnQ6IDI0MCA1JSA5NiU7CiAgICAtLXNpZGViYXItYWNjZW50LWZvcmVncm91bmQ6IDI0MCA2JSAxMCU7CiAgICAtLXNpZGViYXItYm9yZGVyOiAyMjAgMTMlIDkxJTsKICAgIC0tc2lkZWJhci1yaW5nOiAxNjkgODUlIDMyJTsKICAgIAogICAgLyogQ3VzdG9tIEdyYWRpZW50cyAqLwogICAgLS1ncmFkaWVudC1oZXJvOiBsaW5lYXItZ3JhZGllbnQoMTM1ZGVnLCBoc2woMjIyIDQ3JSAyMSUpIDAlLCBoc2woMjIyIDU1JSAxMyUpIDUwJSwgaHNsKDE2OSA4NSUgMzIlIC8gMC44KSAxMDAlKTsKICAgIC0tZ3JhZGllbnQtdGV4dDogbGluZWFyLWdyYWRpZW50KDEzNWRlZywgaHNsKDE2OSA4NSUgMzIlKSAwJSwgaHNsKDI1OCA5MCUgNjYlKSAxMDAlKTsKICAgIC0tZ3JhZGllbnQtY2FyZC1ob3ZlcjogbGluZWFyLWdyYWRpZW50KDE4MGRlZywgaHNsKDAgMCUgMTAwJSkgMCUsIGhzbCgyMTAgMjAlIDk4JSkgMTAwJSk7CiAgICAKICAgIC8qIFNoYWRvd3MgKi8KICAgIC0tc2hhZG93LXNtOiAwIDFweCAycHggMCBoc2woMjIyIDQ3JSAxMSUgLyAwLjA1KTsKICAgIC0tc2hhZG93LW1kOiAwIDRweCA2cHggLTFweCBoc2woMjIyIDQ3JSAxMSUgLyAwLjEpLCAwIDJweCA0cHggLTJweCBoc2woMjIyIDQ3JSAxMSUgLyAwLjEpOwogICAgLS1zaGFkb3ctbGc6IDAgMTBweCAxNXB4IC0zcHggaHNsKDIyMiA0NyUgMTElIC8gMC4xKSwgMCA0cHggNnB4IC00cHggaHNsKDIyMiA0NyUgMTElIC8gMC4xKTsKICAgIC0tc2hhZG93LXhsOiAwIDIwcHggMjVweCAtNXB4IGhzbCgyMjIgNDclIDExJSAvIDAuMSksIDAgOHB4IDEwcHggLTZweCBoc2woMjIyIDQ3JSAxMSUgLyAwLjEpOwogICAgLS1zaGFkb3ctaG92ZXI6IDAgMjBweCA0MHB4IC0xMnB4IGhzbCgxNjkgODUlIDMyJSAvIDAuMjUpOwogIH0KCiAgLmRhcmsgewogICAgLS1iYWNrZ3JvdW5kOiAyMjIgNTUlIDglOwogICAgLS1mb3JlZ3JvdW5kOiAyMTAgMjAlIDk4JTsKICAgIAogICAgLS1jYXJkOiAyMjIgNDclIDEyJTsKICAgIC0tY2FyZC1mb3JlZ3JvdW5kOiAyMTAgMjAlIDk4JTsKICAgIAogICAgLS1wb3BvdmVyOiAyMjIgNDclIDEyJTsKICAgIC0tcG9wb3Zlci1mb3JlZ3JvdW5kOiAyMTAgMjAlIDk4JTsKICAgIAogICAgLS1wcmltYXJ5OiAxNjkgODUlIDQyJTsKICAgIC0tcHJpbWFyeS1mb3JlZ3JvdW5kOiAyMjIgNTUlIDglOwogICAgCiAgICAtLXNlY29uZGFyeTogMjIyIDQwJSAxOCU7CiAgICAtLXNlY29uZGFyeS1mb3JlZ3JvdW5kOiAyMTAgMjAlIDk4JTsKICAgIAogICAgLS1tdXRlZDogMjIyIDQwJSAxNiU7CiAgICAtLW11dGVkLWZvcmVncm91bmQ6IDIxNSAyMCUgNjUlOwogICAgCiAgICAtLWFjY2VudDogMTY5IDg1JSA0MiU7CiAgICAtLWFjY2VudC1mb3JlZ3JvdW5kOiAyMjIgNTUlIDglOwogICAgCiAgICAtLWRlc3RydWN0aXZlOiAwIDYzJSAzMSU7CiAgICAtLWRlc3RydWN0aXZlLWZvcmVncm91bmQ6IDIxMCAyMCUgOTglOwogICAgCiAgICAtLWJvcmRlcjogMjIyIDQwJSAyMCU7CiAgICAtLWlucHV0OiAyMjIgNDAlIDIwJTsKICAgIC0tcmluZzogMTY5IDg1JSA0MiU7CiAgICAKICAgIC0tc2lkZWJhci1iYWNrZ3JvdW5kOiAyMjIgNDclIDEwJTsKICAgIC0tc2lkZWJhci1mb3JlZ3JvdW5kOiAyMTAgMjAlIDkwJTsKICAgIC0tc2lkZWJhci1wcmltYXJ5OiAxNjkgODUlIDQyJTsKICAgIC0tc2lkZWJhci1wcmltYXJ5LWZvcmVncm91bmQ6IDAgMCUgMTAwJTsKICAgIC0tc2lkZWJhci1hY2NlbnQ6IDIyMiA0MCUgMTUlOwogICAgLS1zaWRlYmFyLWFjY2VudC1mb3JlZ3JvdW5kOiAyMTAgMjAlIDk4JTsKICAgIC0tc2lkZWJhci1ib3JkZXI6IDIyMiA0MCUgMTglOwogICAgLS1zaWRlYmFyLXJpbmc6IDE2OSA4NSUgNDIlOwogICAgCiAgICAtLWdyYWRpZW50LWhlcm86IGxpbmVhci1ncmFkaWVudCgxMzVkZWcsIGhzbCgyMjIgNTUlIDglKSAwJSwgaHNsKDIyMiA1NSUgNSUpIDUwJSwgaHNsKDE2OSA4NSUgMjUlIC8gMC42KSAxMDAlKTsKICAgIC0tc2hhZG93LWhvdmVyOiAwIDIwcHggNDBweCAtMTJweCBoc2woMTY5IDg1JSA0MiUgLyAwLjIpOwogIH0KfQoKQGxheWVyIGJhc2UgewogICogewogICAgQGFwcGx5IGJvcmRlci1ib3JkZXI7CiAgfQogIAogIGh0bWwgewogICAgc2Nyb2xsLWJlaGF2aW9yOiBzbW9vdGg7CiAgfQogIAogIGJvZHkgewogICAgQGFwcGx5IGJnLWJhY2tncm91bmQgdGV4dC1mb3JlZ3JvdW5kIGZvbnQtc2FucyBhbnRpYWxpYXNlZDsKICAgIGZvbnQtZmFtaWx5OiAnSW50ZXInLCBzeXN0ZW0tdWksIHNhbnMtc2VyaWY7CiAgfQogIAogIGgxLCBoMiwgaDMsIGg0LCBoNSwgaDYgewogICAgZm9udC1mYW1pbHk6ICdQb3BwaW5zJywgc3lzdGVtLXVpLCBzYW5zLXNlcmlmOwogIH0KfQoKQGxheWVyIGNvbXBvbmVudHMgewogIC8qIEhlcm8gZ3JhZGllbnQgdGV4dCAqLwogIC5ncmFkaWVudC10ZXh0IHsKICAgIEBhcHBseSBiZy1jbGlwLXRleHQgdGV4dC10cmFuc3BhcmVudDsKICAgIGJhY2tncm91bmQtaW1hZ2U6IHZhcigtLWdyYWRpZW50LXRleHQpOwogIH0KICAKICAvKiBDYXJkIGhvdmVyIGVmZmVjdCAqLwogIC5jYXJkLWhvdmVyIHsKICAgIEBhcHBseSB0cmFuc2l0aW9uLWFsbCBkdXJhdGlvbi0zMDAgZWFzZS1vdXQ7CiAgfQogIAogIC5jYXJkLWhvdmVyOmhvdmVyIHsKICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgtNHB4KTsKICAgIGJveC1zaGFkb3c6IHZhcigtLXNoYWRvdy1ob3Zlcik7CiAgfQogIAogIC8qIEJhZGdlIHZhcmlhbnRzICovCiAgLmJhZGdlLXRlYWwgewogICAgQGFwcGx5IGJnLWFjY2VudC8xMCB0ZXh0LWFjY2VudCBib3JkZXItYWNjZW50LzIwOwogIH0KICAKICAuYmFkZ2UtcHVycGxlIHsKICAgIEBhcHBseSBiZy1wdXJwbGUtYWkvMTAgdGV4dC1wdXJwbGUtYWkgYm9yZGVyLXB1cnBsZS1haS8yMDsKICB9CiAgCiAgLmJhZGdlLW5hdnkgewogICAgQGFwcGx5IGJnLXByaW1hcnkvMTAgdGV4dC1wcmltYXJ5IGJvcmRlci1wcmltYXJ5LzIwOwogIH0KICAKICAuYmFkZ2UtZ3JlZW4gewogICAgQGFwcGx5IGJnLWVtZXJhbGQtNTAwLzEwIHRleHQtZW1lcmFsZC02MDAgYm9yZGVyLWVtZXJhbGQtNTAwLzIwIGRhcms6dGV4dC1lbWVyYWxkLTQwMDsKICB9CiAgCiAgLmJhZGdlLW9yYW5nZSB7CiAgICBAYXBwbHkgYmctb3JhbmdlLTUwMC8xMCB0ZXh0LW9yYW5nZS02MDAgYm9yZGVyLW9yYW5nZS01MDAvMjAgZGFyazp0ZXh0LW9yYW5nZS00MDA7CiAgfQogIAogIC5iYWRnZS1nb2xkIHsKICAgIEBhcHBseSBiZy1hbWJlci01MDAvMTAgdGV4dC1hbWJlci02MDAgYm9yZGVyLWFtYmVyLTUwMC8yMCBkYXJrOnRleHQtYW1iZXItNDAwOwogIH0KICAKICAvKiBTZWN0aW9uIHN0eWxpbmcgKi8KICAuc2VjdGlvbi1jb250YWluZXIgewogICAgQGFwcGx5IG1heC13LTd4bCBteC1hdXRvIHB4LTQgc206cHgtNiBsZzpweC04IHB5LTE2IG1kOnB5LTI0OwogIH0KICAKICAuc2VjdGlvbi1oZWFkZXIgewogICAgQGFwcGx5IHRleHQtY2VudGVyIG1iLTEyIG1kOm1iLTE2OwogIH0KICAKICAuc2VjdGlvbi10aXRsZSB7CiAgICBAYXBwbHkgdGV4dC0zeGwgbWQ6dGV4dC00eGwgZm9udC1ib2xkIHRleHQtZm9yZWdyb3VuZCBtYi00OwogIH0KICAKICAuc2VjdGlvbi1zdWJ0aXRsZSB7CiAgICBAYXBwbHkgdGV4dC1sZyB0ZXh0LW11dGVkLWZvcmVncm91bmQgbWF4LXctMnhsIG14LWF1dG87CiAgfQogIAogIC8qIFVuZGVybGluZSBhbmltYXRpb24gZm9yIGxpbmtzICovCiAgLmxpbmstdW5kZXJsaW5lIHsKICAgIEBhcHBseSByZWxhdGl2ZSBpbmxpbmUtYmxvY2s7CiAgfQogIAogIC5saW5rLXVuZGVybGluZTo6YWZ0ZXIgewogICAgY29udGVudDogJyc7CiAgICBAYXBwbHkgYWJzb2x1dGUgdy1mdWxsIGgtMC41IGJvdHRvbS0wIGxlZnQtMCBiZy1hY2NlbnQgb3JpZ2luLWJvdHRvbS1yaWdodCB0cmFuc2l0aW9uLXRyYW5zZm9ybSBkdXJhdGlvbi0zMDAgc2NhbGUteC0wOwogIH0KICAKICAubGluay11bmRlcmxpbmU6aG92ZXI6OmFmdGVyIHsKICAgIEBhcHBseSBzY2FsZS14LTEwMCBvcmlnaW4tYm90dG9tLWxlZnQ7CiAgfQogIAogIC8qIFNraXAgdG8gbWFpbiBjb250ZW50IC0gYWNjZXNzaWJpbGl0eSAqLwogIC5za2lwLWxpbmsgewogICAgQGFwcGx5IHNyLW9ubHkgZm9jdXM6bm90LXNyLW9ubHkgZm9jdXM6YWJzb2x1dGUgZm9jdXM6dG9wLTQgZm9jdXM6bGVmdC00IGZvY3VzOnotNTAgZm9jdXM6cHgtNCBmb2N1czpweS0yIGZvY3VzOmJnLWFjY2VudCBmb2N1czp0ZXh0LWFjY2VudC1mb3JlZ3JvdW5kIGZvY3VzOnJvdW5kZWQtbWQ7CiAgfQp9CgpAbGF5ZXIgdXRpbGl0aWVzIHsKICAudGV4dC1iYWxhbmNlIHsKICAgIHRleHQtd3JhcDogYmFsYW5jZTsKICB9CiAgCiAgLmZvbnQtZGlzcGxheSB7CiAgICBmb250LWZhbWlseTogJ1BvcHBpbnMnLCBzeXN0ZW0tdWksIHNhbnMtc2VyaWY7CiAgfQogIAogIC5mb250LWJvZHkgewogICAgZm9udC1mYW1pbHk6ICdJbnRlcicsIHN5c3RlbS11aSwgc2Fucy1zZXJpZjsKICB9Cn0K"}
+@import "@fontsource/inter/400.css";
+@import "@fontsource/inter/500.css";
+@import "@fontsource/inter/600.css";
+@import "@fontsource/inter/700.css";
+@import "@fontsource/poppins/400.css";
+@import "@fontsource/poppins/500.css";
+@import "@fontsource/poppins/600.css";
+@import "@fontsource/poppins/700.css";
+@import "@fontsource/poppins/800.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Core Brand Colors - Navy & Teal */
+    --navy: 222 47% 21%;
+    --navy-dark: 222 55% 13%;
+    --teal: 169 85% 32%;
+    --teal-light: 169 80% 42%;
+    --purple-ai: 258 90% 66%;
+    --purple-ai-light: 258 85% 75%;
+    
+    /* Background & Surfaces */
+    --background: 210 20% 98%;
+    --foreground: 222 47% 11%;
+    
+    --card: 0 0% 100%;
+    --card-foreground: 222 47% 11%;
+    
+    --popover: 0 0% 100%;
+    --popover-foreground: 222 47% 11%;
+    
+    /* Primary - Navy */
+    --primary: 222 47% 21%;
+    --primary-foreground: 0 0% 100%;
+    
+    /* Secondary - Light backgrounds */
+    --secondary: 210 20% 96%;
+    --secondary-foreground: 222 47% 11%;
+    
+    /* Muted */
+    --muted: 210 20% 94%;
+    --muted-foreground: 215 16% 47%;
+    
+    /* Accent - Teal */
+    --accent: 169 85% 32%;
+    --accent-foreground: 0 0% 100%;
+    
+    /* Destructive */
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+    
+    /* Border & Input */
+    --border: 214 32% 91%;
+    --input: 214 32% 91%;
+    --ring: 169 85% 32%;
+    
+    --radius: 0.75rem;
+    
+    /* Sidebar */
+    --sidebar-background: 0 0% 98%;
+    --sidebar-foreground: 240 5% 26%;
+    --sidebar-primary: 240 6% 10%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 240 5% 96%;
+    --sidebar-accent-foreground: 240 6% 10%;
+    --sidebar-border: 220 13% 91%;
+    --sidebar-ring: 169 85% 32%;
+    
+    /* Custom Gradients */
+    --gradient-hero: linear-gradient(135deg, hsl(222 47% 21%) 0%, hsl(222 55% 13%) 50%, hsl(169 85% 32% / 0.8) 100%);
+    --gradient-text: linear-gradient(135deg, hsl(169 85% 32%) 0%, hsl(258 90% 66%) 100%);
+    --gradient-card-hover: linear-gradient(180deg, hsl(0 0% 100%) 0%, hsl(210 20% 98%) 100%);
+    
+    /* Shadows */
+    --shadow-sm: 0 1px 2px 0 hsl(222 47% 11% / 0.05);
+    --shadow-md: 0 4px 6px -1px hsl(222 47% 11% / 0.1), 0 2px 4px -2px hsl(222 47% 11% / 0.1);
+    --shadow-lg: 0 10px 15px -3px hsl(222 47% 11% / 0.1), 0 4px 6px -4px hsl(222 47% 11% / 0.1);
+    --shadow-xl: 0 20px 25px -5px hsl(222 47% 11% / 0.1), 0 8px 10px -6px hsl(222 47% 11% / 0.1);
+    --shadow-hover: 0 20px 40px -12px hsl(169 85% 32% / 0.25);
+  }
+
+  .dark {
+    --background: 222 55% 8%;
+    --foreground: 210 20% 98%;
+    
+    --card: 222 47% 12%;
+    --card-foreground: 210 20% 98%;
+    
+    --popover: 222 47% 12%;
+    --popover-foreground: 210 20% 98%;
+    
+    --primary: 169 85% 42%;
+    --primary-foreground: 222 55% 8%;
+    
+    --secondary: 222 40% 18%;
+    --secondary-foreground: 210 20% 98%;
+    
+    --muted: 222 40% 16%;
+    --muted-foreground: 215 20% 65%;
+    
+    --accent: 169 85% 42%;
+    --accent-foreground: 222 55% 8%;
+    
+    --destructive: 0 63% 31%;
+    --destructive-foreground: 210 20% 98%;
+    
+    --border: 222 40% 20%;
+    --input: 222 40% 20%;
+    --ring: 169 85% 42%;
+    
+    --sidebar-background: 222 47% 10%;
+    --sidebar-foreground: 210 20% 90%;
+    --sidebar-primary: 169 85% 42%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 222 40% 15%;
+    --sidebar-accent-foreground: 210 20% 98%;
+    --sidebar-border: 222 40% 18%;
+    --sidebar-ring: 169 85% 42%;
+    
+    --gradient-hero: linear-gradient(135deg, hsl(222 55% 8%) 0%, hsl(222 55% 5%) 50%, hsl(169 85% 25% / 0.6) 100%);
+    --shadow-hover: 0 20px 40px -12px hsl(169 85% 42% / 0.2);
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Poppins', system-ui, sans-serif;
+  }
+}
+
+@layer components {
+  /* Hero gradient text */
+  .gradient-text {
+    @apply bg-clip-text text-transparent;
+    background-image: var(--gradient-text);
+  }
+  
+  /* Card hover effect */
+  .card-hover {
+    @apply transition-all duration-300 ease-out;
+  }
+  
+  .card-hover:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-hover);
+  }
+  
+  /* Badge variants */
+  .badge-teal {
+    @apply bg-accent/10 text-accent border-accent/20;
+  }
+  
+  .badge-purple {
+    @apply bg-purple-ai/10 text-purple-ai border-purple-ai/20;
+  }
+  
+  .badge-navy {
+    @apply bg-primary/10 text-primary border-primary/20;
+  }
+  
+  .badge-green {
+    @apply bg-emerald-500/10 text-emerald-600 border-emerald-500/20 dark:text-emerald-400;
+  }
+  
+  .badge-orange {
+    @apply bg-orange-500/10 text-orange-600 border-orange-500/20 dark:text-orange-400;
+  }
+  
+  .badge-gold {
+    @apply bg-amber-500/10 text-amber-600 border-amber-500/20 dark:text-amber-400;
+  }
+  
+  /* Section styling */
+  .section-container {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24;
+  }
+  
+  .section-header {
+    @apply text-center mb-12 md:mb-16;
+  }
+  
+  .section-title {
+    @apply text-3xl md:text-4xl font-bold text-foreground mb-4;
+  }
+  
+  .section-subtitle {
+    @apply text-lg text-muted-foreground max-w-2xl mx-auto;
+  }
+  
+  /* Underline animation for links */
+  .link-underline {
+    @apply relative inline-block;
+  }
+  
+  .link-underline::after {
+    content: '';
+    @apply absolute w-full h-0.5 bottom-0 left-0 bg-accent origin-bottom-right transition-transform duration-300 scale-x-0;
+  }
+  
+  .link-underline:hover::after {
+    @apply scale-x-100 origin-bottom-left;
+  }
+  
+  /* Skip to main content - accessibility */
+  .skip-link {
+    @apply sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 focus:z-50 focus:px-4 focus:py-2 focus:bg-accent focus:text-accent-foreground focus:rounded-md;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  
+  .font-display {
+    font-family: 'Poppins', system-ui, sans-serif;
+  }
+  
+  .font-body {
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+}

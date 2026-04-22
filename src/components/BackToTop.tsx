@@ -1,1 +1,43 @@
-{"data":"aW1wb3J0IHsgdXNlU3RhdGUsIHVzZUVmZmVjdCB9IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHsgbW90aW9uLCBBbmltYXRlUHJlc2VuY2UgfSBmcm9tICdmcmFtZXItbW90aW9uJzsKaW1wb3J0IHsgQXJyb3dVcCB9IGZyb20gJ2x1Y2lkZS1yZWFjdCc7CmltcG9ydCB7IEJ1dHRvbiB9IGZyb20gJ0AvY29tcG9uZW50cy91aS9idXR0b24nOwoKZXhwb3J0IGNvbnN0IEJhY2tUb1RvcCA9ICgpID0+IHsKICBjb25zdCBbaXNWaXNpYmxlLCBzZXRJc1Zpc2libGVdID0gdXNlU3RhdGUoZmFsc2UpOwoKICB1c2VFZmZlY3QoKCkgPT4gewogICAgY29uc3QgdG9nZ2xlVmlzaWJpbGl0eSA9ICgpID0+IHsKICAgICAgc2V0SXNWaXNpYmxlKHdpbmRvdy5zY3JvbGxZID4gNTAwKTsKICAgIH07CgogICAgd2luZG93LmFkZEV2ZW50TGlzdGVuZXIoJ3Njcm9sbCcsIHRvZ2dsZVZpc2liaWxpdHkpOwogICAgcmV0dXJuICgpID0+IHdpbmRvdy5yZW1vdmVFdmVudExpc3RlbmVyKCdzY3JvbGwnLCB0b2dnbGVWaXNpYmlsaXR5KTsKICB9LCBbXSk7CgogIGNvbnN0IHNjcm9sbFRvVG9wID0gKCkgPT4gewogICAgd2luZG93LnNjcm9sbFRvKHsgdG9wOiAwLCBiZWhhdmlvcjogJ3Ntb290aCcgfSk7CiAgfTsKCiAgcmV0dXJuICgKICAgIDxBbmltYXRlUHJlc2VuY2U+CiAgICAgIHtpc1Zpc2libGUgJiYgKAogICAgICAgIDxtb3Rpb24uZGl2CiAgICAgICAgICBpbml0aWFsPXt7IG9wYWNpdHk6IDAsIHNjYWxlOiAwLjggfX0KICAgICAgICAgIGFuaW1hdGU9e3sgb3BhY2l0eTogMSwgc2NhbGU6IDEgfX0KICAgICAgICAgIGV4aXQ9e3sgb3BhY2l0eTogMCwgc2NhbGU6IDAuOCB9fQogICAgICAgICAgY2xhc3NOYW1lPSJmaXhlZCBib3R0b20tOCByaWdodC04IHotNDAiCiAgICAgICAgPgogICAgICAgICAgPEJ1dHRvbgogICAgICAgICAgICBvbkNsaWNrPXtzY3JvbGxUb1RvcH0KICAgICAgICAgICAgc2l6ZT0iaWNvbiIKICAgICAgICAgICAgY2xhc3NOYW1lPSJoLTEyIHctMTIgcm91bmRlZC1mdWxsIGJnLWFjY2VudCB0ZXh0LWFjY2VudC1mb3JlZ3JvdW5kIHNoYWRvdy1sZyBob3ZlcjpiZy1hY2NlbnQvOTAgaG92ZXI6c2NhbGUtMTEwIHRyYW5zaXRpb24tdHJhbnNmb3JtIgogICAgICAgICAgICBhcmlhLWxhYmVsPSJCYWNrIHRvIHRvcCIKICAgICAgICAgID4KICAgICAgICAgICAgPEFycm93VXAgY2xhc3NOYW1lPSJoLTUgdy01IiAvPgogICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgPC9tb3Rpb24uZGl2PgogICAgICApfQogICAgPC9BbmltYXRlUHJlc2VuY2U+CiAgKTsKfTsK"}
+import { useState, useEffect } from 'react';
+import { motion, AnimatePresence } from 'framer-motion';
+import { ArrowUp } from 'lucide-react';
+import { Button } from '@/components/ui/button';
+
+export const BackToTop = () => {
+  const [isVisible, setIsVisible] = useState(false);
+
+  useEffect(() => {
+    const toggleVisibility = () => {
+      setIsVisible(window.scrollY > 500);
+    };
+
+    window.addEventListener('scroll', toggleVisibility);
+    return () => window.removeEventListener('scroll', toggleVisibility);
+  }, []);
+
+  const scrollToTop = () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
+
+  return (
+    <AnimatePresence>
+      {isVisible && (
+        <motion.div
+          initial={{ opacity: 0, scale: 0.8 }}
+          animate={{ opacity: 1, scale: 1 }}
+          exit={{ opacity: 0, scale: 0.8 }}
+          className="fixed bottom-8 right-8 z-40"
+        >
+          <Button
+            onClick={scrollToTop}
+            size="icon"
+            className="h-12 w-12 rounded-full bg-accent text-accent-foreground shadow-lg hover:bg-accent/90 hover:scale-110 transition-transform"
+            aria-label="Back to top"
+          >
+            <ArrowUp className="h-5 w-5" />
+          </Button>
+        </motion.div>
+      )}
+    </AnimatePresence>
+  );
+};

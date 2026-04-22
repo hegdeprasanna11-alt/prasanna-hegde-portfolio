@@ -1,1 +1,153 @@
-{"data":"ZXhwb3J0IGludGVyZmFjZSBDYXJlZXJQb3NpdGlvbiB7CiAgaWQ6IHN0cmluZzsKICBjb21wYW55OiBzdHJpbmc7CiAgcm9sZTogc3RyaW5nOwogIGxvY2F0aW9uOiBzdHJpbmc7CiAgcGVyaW9kOiBzdHJpbmc7CiAgY3VycmVudD86IGJvb2xlYW47CiAgYWNoaWV2ZW1lbnRzOiBzdHJpbmdbXTsKfQoKZXhwb3J0IGNvbnN0IGNhcmVlclBvc2l0aW9uczogQ2FyZWVyUG9zaXRpb25bXSA9IFsKICB7CiAgICBpZDogJ3VpZGFpJywKICAgIGNvbXBhbnk6ICdVSURBSSAoVW5pcXVlIElkZW50aWZpY2F0aW9uIEF1dGhvcml0eSBvZiBJbmRpYSknLAogICAgcm9sZTogJ1Byb2R1Y3QgTGVhZCAtIFNhbmRib3gnLAogICAgbG9jYXRpb246ICdCZW5nYWx1cnUsIEluZGlhJywKICAgIHBlcmlvZDogJzIwMjUgLSBQcmVzZW50JywKICAgIGN1cnJlbnQ6IHRydWUsCiAgICBhY2hpZXZlbWVudHM6IFsKICAgICAgJzEwMCsgb3JnYW5pemF0aW9ucyBvbmJvYXJkZWQgb24gQWFkaGFhciBTYW5kYm94JywKICAgICAgJzI1MEsrIEFQSSB0cmFuc2FjdGlvbnMgcHJvY2Vzc2VkJywKICAgICAgIlBpb25lZXJlZCBJbmRpYSdzIGZpcnN0IEFhZGhhYXIgU2FuZGJveCAoMOKGkjHihpIxMDAgcHJvZHVjdCkiLAogICAgICAnUmVkdWNlZCBkZXZlbG9wZXIgb25ib2FyZGluZyBmcm9tIDYrIG1vbnRocyB0byB+MSB3ZWVrJywKICAgIF0sCiAgfSwKICB7CiAgICBpZDogJ3VyYm90YXNrJywKICAgIGNvbXBhbnk6ICdVcmJvdGFzayBUZWNobm9sb2dpZXMgUHZ0LiBMdGQnLAogICAgcm9sZTogJ0NvLWZvdW5kZXIgJiBQcm9kdWN0IERpcmVjdG9yJywKICAgIGxvY2F0aW9uOiAnQmVuZ2FsdXJ1LCBJbmRpYScsCiAgICBwZXJpb2Q6ICcyMDIwIC0gMjAyNCcsCiAgICBhY2hpZXZlbWVudHM6IFsKICAgICAgJ1NjYWxlZCBtYXJrZXRwbGFjZSB0byA1LDAwMCsgdXNlcnMgaW4gNiBtb250aHMnLAogICAgICAnQWNoaWV2ZWQgNDAlIE1BVSByYXRlIGFuZCA4NSUgdGFzayBjb21wbGV0aW9uJywKICAgICAgJ0thcm5hdGFrYSBTdGFydHVwIENvbXBldGl0aW9uIEZpbmFsaXN0JywKICAgICAgJ1N0YW5mb3JkIFNlZWQgU3BhcmsgMjAyNCBzZWxlY3Rpb24nLAogICAgICAnMTAlIFlvWSByZXZlbnVlIGdyb3d0aCcsCiAgICBdLAogIH0sCiAgewogICAgaWQ6ICdpbmZvc3lzJywKICAgIGNvbXBhbnk6ICdJbmZvc3lzIEx0ZCcsCiAgICByb2xlOiAnU2VuaW9yIFByb2R1Y3QgTWFuYWdlciAvIExlYWQgQ29uc3VsdGFudCcsCiAgICBsb2NhdGlvbjogJ0JlbmdhbHVydSwgSW5kaWEnLAogICAgcGVyaW9kOiAnMjAxMCAtIDIwMjAnLAogICAgYWNoaWV2ZW1lbnRzOiBbCiAgICAgICdHZW5lcmF0ZWQgJDIuMU0rIHJldmVudWUgZnJvbSBHRFBSIHNvbHV0aW9ucycsCiAgICAgICdTZWN1cmVkICQ2MDBLIGluIHByZXNhbGVzJywKICAgICAgJ1VuaWZpZWQgMjcrIGxlZ2FjeSBDUk0vQ1ggc3lzdGVtcycsCiAgICAgICdMZWQgNjAtcGVyc29uIGRhdGEgdGVhbSBmb3IgJDEuNU0rIHByb2dyYW0nLAogICAgICAnRGVsaXZlcmVkIHByb2plY3RzIGFjcm9zcyBCRlNJLCBUZWxlY29tLCBHb3Zlcm5tZW50IHNlY3RvcnMnLAogICAgXSwKICB9LAogIHsKICAgIGlkOiAnbXBoYXNpcycsCiAgICBjb21wYW55OiAnTXBoYXNpcyAoQW4gSFAgQ29tcGFueSknLAogICAgcm9sZTogJ0Fzc29jaWF0ZSBCdXNpbmVzcyBBbmFseXN0IC8gTWFuYWdlcicsCiAgICBsb2NhdGlvbjogJ0JlbmdhbHVydSwgSW5kaWEnLAogICAgcGVyaW9kOiAnMjAwOCAtIDIwMTAnLAogICAgYWNoaWV2ZW1lbnRzOiBbCiAgICAgICdMZWQgZW50ZXJwcmlzZSBDUk0gaW1wbGVtZW50YXRpb25zJywKICAgICAgJ0RlbGl2ZXJlZCBldmVudCBtYW5hZ2VtZW50IHN5c3RlbXMnLAogICAgICAnQ3Jvc3MtZnVuY3Rpb25hbCB0ZWFtIGxlYWRlcnNoaXAnLAogICAgICAnU3Rha2Vob2xkZXIgbWFuYWdlbWVudCBhbmQgcmVxdWlyZW1lbnRzIGdhdGhlcmluZycsCiAgICBdLAogIH0sCiAgewogICAgaWQ6ICd0ZWNobWFoaW5kcmEnLAogICAgY29tcGFueTogJ1RlY2ggTWFoaW5kcmEnLAogICAgcm9sZTogJ1RlY2huaWNhbCBBc3NvY2lhdGUnLAogICAgbG9jYXRpb246ICdCZW5nYWx1cnUsIEluZGlhJywKICAgIHBlcmlvZDogJzIwMDUgLSAyMDA4JywKICAgIGFjaGlldmVtZW50czogWwogICAgICAnRGVzaWduZWQgU2llYmVsLWJhc2VkIENSTSBzb2x1dGlvbnMgZm9yIHRlbGVjb20gY2xpZW50cycsCiAgICAgICdBdXRvbWF0ZWQgb3JkZXIgbWFuYWdlbWVudCB3b3JrZmxvd3MnLAogICAgICAnUmVkdWNlZCBvcGVyYXRpb25hbCBjb3N0cyB0aHJvdWdoIHByb2Nlc3Mgb3B0aW1pemF0aW9uJywKICAgICAgJ0VuaGFuY2VkIGN1c3RvbWVyIGV4cGVyaWVuY2UgdGhyb3VnaCB0ZWNobmljYWwgaW1wbGVtZW50YXRpb25zJywKICAgIF0sCiAgfSwKXTsKCmV4cG9ydCBpbnRlcmZhY2UgRWR1Y2F0aW9uIHsKICBpZDogc3RyaW5nOwogIGluc3RpdHV0aW9uOiBzdHJpbmc7CiAgZGVncmVlOiBzdHJpbmc7CiAgcGVyaW9kOiBzdHJpbmc7CiAgZm9jdXM6IHN0cmluZzsKfQoKZXhwb3J0IGNvbnN0IGVkdWNhdGlvbkxpc3Q6IEVkdWNhdGlvbltdID0gWwogIHsKICAgIGlkOiAnaWltJywKICAgIGluc3RpdHV0aW9uOiAnSUlNIEx1Y2tub3cnLAogICAgZGVncmVlOiAnRXhlY3V0aXZlIFByb2dyYW0gaW4gRGF0YSBTY2llbmNlICYgQUkgZm9yIE1hbmFnZXJzJywKICAgIHBlcmlvZDogJzIwMjUnLAogICAgZm9jdXM6ICdNYWNoaW5lIExlYXJuaW5nLCBEYXRhIEFuYWx5dGljcywgQUkgUHJvZHVjdCBNYW5hZ2VtZW50JywKICB9LAogIHsKICAgIGlkOiAnaXBsJywKICAgIGluc3RpdHV0aW9uOiAnSW5zdGl0dXRlIG9mIFByb2R1Y3QgTGVhZGVyc2hpcCcsCiAgICBkZWdyZWU6ICdQb3N0IEdyYWR1YXRlIFByb2dyYW0gaW4gUHJvZHVjdCBNYW5hZ2VtZW50JywKICAgIHBlcmlvZDogJzIwMjQnLAogICAgZm9jdXM6ICdQcm9kdWN0IFN0cmF0ZWd5LCBSb2FkbWFwcGluZywgR3Jvd3RoLCBBbmFseXRpY3MnLAogIH0sCiAgewogICAgaWQ6ICdjb3ZlbnRyeScsCiAgICBpbnN0aXR1dGlvbjogJ0NvdmVudHJ5IFVuaXZlcnNpdHksIFVuaXRlZCBLaW5nZG9tJywKICAgIGRlZ3JlZTogJ01CQSBpbiBFbmdpbmVlcmluZyBNYW5hZ2VtZW50JywKICAgIHBlcmlvZDogJzIwMTMgLSAyMDE1JywKICAgIGZvY3VzOiAnVGVjaG5vbG9neSBNYW5hZ2VtZW50LCBCdXNpbmVzcyBTdHJhdGVneSwgTGVhZGVyc2hpcCcsCiAgfSwKICB7CiAgICBpZDogJ3Z0dScsCiAgICBpbnN0aXR1dGlvbjogJ1Zpc3Zlc3ZhcmF5YSBUZWNobm9sb2dpY2FsIFVuaXZlcnNpdHkgKFZUVSknLAogICAgZGVncmVlOiAnQmFjaGVsb3Igb2YgRW5naW5lZXJpbmcgaW4gRWxlY3Ryb25pY3MgJiBDb21tdW5pY2F0aW9uJywKICAgIHBlcmlvZDogJzIwMDEgLSAyMDA1JywKICAgIGZvY3VzOiAnRWxlY3Ryb25pY3MsIENvbW11bmljYXRpb24gU3lzdGVtcywgRW5naW5lZXJpbmcgRnVuZGFtZW50YWxzJywKICB9LApdOwoKZXhwb3J0IGludGVyZmFjZSBDZXJ0aWZpY2F0aW9uIHsKICBpZDogc3RyaW5nOwogIG5hbWU6IHN0cmluZzsKICBwcm92aWRlcjogc3RyaW5nOwogIGZvY3VzOiBzdHJpbmc7Cn0KCmV4cG9ydCBjb25zdCBjZXJ0aWZpY2F0aW9uczogQ2VydGlmaWNhdGlvbltdID0gWwogIHsKICAgIGlkOiAnaWJtLWFpJywKICAgIG5hbWU6ICdJQk0gQUkgUHJvZHVjdCBNYW5hZ2VyJywKICAgIHByb3ZpZGVyOiAnSUJNJywKICAgIGZvY3VzOiAnQUkvTUwgcHJvZHVjdCBsaWZlY3ljbGUsIG1vZGVsIGRlcGxveW1lbnQsIGV0aGljcycsCiAgfSwKICB7CiAgICBpZDogJ2dvb2dsZS1wbScsCiAgICBuYW1lOiAnR29vZ2xlIFByb2plY3QgTWFuYWdlbWVudCBQcm9mZXNzaW9uYWwnLAogICAgcHJvdmlkZXI6ICdHb29nbGUnLAogICAgZm9jdXM6ICdBZ2lsZSwgU2NydW0sIHByb2plY3QgcGxhbm5pbmcsIHN0YWtlaG9sZGVyIG1hbmFnZW1lbnQnLAogIH0sCiAgewogICAgaWQ6ICdnb29nbGUtYWknLAogICAgbmFtZTogJ0dvb2dsZSBBSSBFc3NlbnRpYWxzJywKICAgIHByb3ZpZGVyOiAnR29vZ2xlJywKICAgIGZvY3VzOiAnQUkgZnVuZGFtZW50YWxzLCByZXNwb25zaWJsZSBBSSwgcHJhY3RpY2FsIGFwcGxpY2F0aW9ucycsCiAgfSwKICB7CiAgICBpZDogJ2dvcHJhY3RpY2UnLAogICAgbmFtZTogJ0dvUHJhY3RpY2UgR2VuZXJhdGl2ZSBBSSBmb3IgUHJvZHVjdCBNYW5hZ2VycycsCiAgICBwcm92aWRlcjogJ0dvUHJhY3RpY2UnLAogICAgZm9jdXM6ICdHZW5lcmF0aXZlIEFJLCBMTE1zLCBwcm9tcHQgZW5naW5lZXJpbmcsIEFJIGZlYXR1cmVzJywKICB9LApdOwo="}
+export interface CareerPosition {
+  id: string;
+  company: string;
+  role: string;
+  location: string;
+  period: string;
+  current?: boolean;
+  achievements: string[];
+}
+
+export const careerPositions: CareerPosition[] = [
+  {
+    id: 'uidai',
+    company: 'UIDAI (Unique Identification Authority of India)',
+    role: 'Product Lead - Sandbox',
+    location: 'Bengaluru, India',
+    period: '2025 - Present',
+    current: true,
+    achievements: [
+      '100+ organizations onboarded on Aadhaar Sandbox',
+      '250K+ API transactions processed',
+      "Pioneered India's first Aadhaar Sandbox (0→1→100 product)",
+      'Reduced developer onboarding from 6+ months to ~1 week',
+    ],
+  },
+  {
+    id: 'urbotask',
+    company: 'Urbotask Technologies Pvt. Ltd',
+    role: 'Co-founder & Product Director',
+    location: 'Bengaluru, India',
+    period: '2020 - 2024',
+    achievements: [
+      'Scaled marketplace to 5,000+ users in 6 months',
+      'Achieved 40% MAU rate and 85% task completion',
+      'Karnataka Startup Competition Finalist',
+      'Stanford Seed Spark 2024 selection',
+      '10% YoY revenue growth',
+    ],
+  },
+  {
+    id: 'infosys',
+    company: 'Infosys Ltd',
+    role: 'Senior Product Manager / Lead Consultant',
+    location: 'Bengaluru, India',
+    period: '2010 - 2020',
+    achievements: [
+      'Generated $2.1M+ revenue from GDPR solutions',
+      'Secured $600K in presales',
+      'Unified 27+ legacy CRM/CX systems',
+      'Led 60-person data team for $1.5M+ program',
+      'Delivered projects across BFSI, Telecom, Government sectors',
+    ],
+  },
+  {
+    id: 'mphasis',
+    company: 'Mphasis (An HP Company)',
+    role: 'Associate Business Analyst / Manager',
+    location: 'Bengaluru, India',
+    period: '2008 - 2010',
+    achievements: [
+      'Led enterprise CRM implementations',
+      'Delivered event management systems',
+      'Cross-functional team leadership',
+      'Stakeholder management and requirements gathering',
+    ],
+  },
+  {
+    id: 'techmahindra',
+    company: 'Tech Mahindra',
+    role: 'Technical Associate',
+    location: 'Bengaluru, India',
+    period: '2005 - 2008',
+    achievements: [
+      'Designed Siebel-based CRM solutions for telecom clients',
+      'Automated order management workflows',
+      'Reduced operational costs through process optimization',
+      'Enhanced customer experience through technical implementations',
+    ],
+  },
+];
+
+export interface Education {
+  id: string;
+  institution: string;
+  degree: string;
+  period: string;
+  focus: string;
+}
+
+export const educationList: Education[] = [
+  {
+    id: 'iim',
+    institution: 'IIM Lucknow',
+    degree: 'Executive Program in Data Science & AI for Managers',
+    period: '2025',
+    focus: 'Machine Learning, Data Analytics, AI Product Management',
+  },
+  {
+    id: 'ipl',
+    institution: 'Institute of Product Leadership',
+    degree: 'Post Graduate Program in Product Management',
+    period: '2024',
+    focus: 'Product Strategy, Roadmapping, Growth, Analytics',
+  },
+  {
+    id: 'coventry',
+    institution: 'Coventry University, United Kingdom',
+    degree: 'MBA in Engineering Management',
+    period: '2013 - 2015',
+    focus: 'Technology Management, Business Strategy, Leadership',
+  },
+  {
+    id: 'vtu',
+    institution: 'Visvesvaraya Technological University (VTU)',
+    degree: 'Bachelor of Engineering in Electronics & Communication',
+    period: '2001 - 2005',
+    focus: 'Electronics, Communication Systems, Engineering Fundamentals',
+  },
+];
+
+export interface Certification {
+  id: string;
+  name: string;
+  provider: string;
+  focus: string;
+}
+
+export const certifications: Certification[] = [
+  {
+    id: 'ibm-ai',
+    name: 'IBM AI Product Manager',
+    provider: 'IBM',
+    focus: 'AI/ML product lifecycle, model deployment, ethics',
+  },
+  {
+    id: 'google-pm',
+    name: 'Google Project Management Professional',
+    provider: 'Google',
+    focus: 'Agile, Scrum, project planning, stakeholder management',
+  },
+  {
+    id: 'google-ai',
+    name: 'Google AI Essentials',
+    provider: 'Google',
+    focus: 'AI fundamentals, responsible AI, practical applications',
+  },
+  {
+    id: 'gopractice',
+    name: 'GoPractice Generative AI for Product Managers',
+    provider: 'GoPractice',
+    focus: 'Generative AI, LLMs, prompt engineering, AI features',
+  },
+];

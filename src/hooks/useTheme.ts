@@ -1,1 +1,27 @@
-{"data":"aW1wb3J0IHsgdXNlU3RhdGUsIHVzZUVmZmVjdCB9IGZyb20gJ3JlYWN0JzsKCnR5cGUgVGhlbWUgPSAnbGlnaHQnIHwgJ2RhcmsnOwoKZXhwb3J0IGNvbnN0IHVzZVRoZW1lID0gKCkgPT4gewogIGNvbnN0IFt0aGVtZSwgc2V0VGhlbWVdID0gdXNlU3RhdGU8VGhlbWU+KCgpID0+IHsKICAgIGlmICh0eXBlb2Ygd2luZG93ICE9PSAndW5kZWZpbmVkJykgewogICAgICBjb25zdCBzYXZlZFRoZW1lID0gbG9jYWxTdG9yYWdlLmdldEl0ZW0oJ3RoZW1lJykgYXMgVGhlbWU7CiAgICAgIGlmIChzYXZlZFRoZW1lKSByZXR1cm4gc2F2ZWRUaGVtZTsKICAgICAgcmV0dXJuIHdpbmRvdy5tYXRjaE1lZGlhKCcocHJlZmVycy1jb2xvci1zY2hlbWU6IGRhcmspJykubWF0Y2hlcyA/ICdkYXJrJyA6ICdsaWdodCc7CiAgICB9CiAgICByZXR1cm4gJ2xpZ2h0JzsKICB9KTsKCiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIGNvbnN0IHJvb3QgPSB3aW5kb3cuZG9jdW1lbnQuZG9jdW1lbnRFbGVtZW50OwogICAgcm9vdC5jbGFzc0xpc3QucmVtb3ZlKCdsaWdodCcsICdkYXJrJyk7CiAgICByb290LmNsYXNzTGlzdC5hZGQodGhlbWUpOwogICAgbG9jYWxTdG9yYWdlLnNldEl0ZW0oJ3RoZW1lJywgdGhlbWUpOwogIH0sIFt0aGVtZV0pOwoKICBjb25zdCB0b2dnbGVUaGVtZSA9ICgpID0+IHsKICAgIHNldFRoZW1lKChwcmV2KSA9PiAocHJldiA9PT0gJ2xpZ2h0JyA/ICdkYXJrJyA6ICdsaWdodCcpKTsKICB9OwoKICByZXR1cm4geyB0aGVtZSwgc2V0VGhlbWUsIHRvZ2dsZVRoZW1lIH07Cn07Cg=="}
+import { useState, useEffect } from 'react';
+
+type Theme = 'light' | 'dark';
+
+export const useTheme = () => {
+  const [theme, setTheme] = useState<Theme>(() => {
+    if (typeof window !== 'undefined') {
+      const savedTheme = localStorage.getItem('theme') as Theme;
+      if (savedTheme) return savedTheme;
+      return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+    }
+    return 'light';
+  });
+
+  useEffect(() => {
+    const root = window.document.documentElement;
+    root.classList.remove('light', 'dark');
+    root.classList.add(theme);
+    localStorage.setItem('theme', theme);
+  }, [theme]);
+
+  const toggleTheme = () => {
+    setTheme((prev) => (prev === 'light' ? 'dark' : 'light'));
+  };
+
+  return { theme, setTheme, toggleTheme };
+};

@@ -1,1 +1,7 @@
-{"data":"aW1wb3J0IHsgZGVzY3JpYmUsIGl0LCBleHBlY3QgfSBmcm9tICJ2aXRlc3QiOwoKZGVzY3JpYmUoImV4YW1wbGUiLCAoKSA9PiB7CiAgaXQoInNob3VsZCBwYXNzIiwgKCkgPT4gewogICAgZXhwZWN0KHRydWUpLnRvQmUodHJ1ZSk7CiAgfSk7Cn0pOwo="}
+import { describe, it, expect } from "vitest";
+
+describe("example", () => {
+  it("should pass", () => {
+    expect(true).toBe(true);
+  });
+});

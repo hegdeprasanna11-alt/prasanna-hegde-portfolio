@@ -1,1 +1,121 @@
-{"data":"aW1wb3J0IHsgbW90aW9uIH0gZnJvbSAnZnJhbWVyLW1vdGlvbic7CmltcG9ydCB7IFNlYXJjaCwgWCB9IGZyb20gJ2x1Y2lkZS1yZWFjdCc7CmltcG9ydCB7IElucHV0IH0gZnJvbSAnQC9jb21wb25lbnRzL3VpL2lucHV0JzsKaW1wb3J0IHsgQnV0dG9uIH0gZnJvbSAnQC9jb21wb25lbnRzL3VpL2J1dHRvbic7CmltcG9ydCB7IFByb2plY3RDYXJkIH0gZnJvbSAnQC9jb21wb25lbnRzL1Byb2plY3RDYXJkJzsKaW1wb3J0IHsgdXNlUHJvamVjdEZpbHRlciB9IGZyb20gJ0AvaG9va3MvdXNlUHJvamVjdEZpbHRlcic7CgpleHBvcnQgY29uc3QgRmVhdHVyZWRQcm9qZWN0c1NlY3Rpb24gPSAoKSA9PiB7CiAgY29uc3QgewogICAgYWN0aXZlQ2F0ZWdvcnksCiAgICBzZXRBY3RpdmVDYXRlZ29yeSwKICAgIHNlYXJjaFF1ZXJ5LAogICAgc2V0U2VhcmNoUXVlcnksCiAgICBmZWF0dXJlZEZpbHRlcmVkLAogICAgY2xlYXJGaWx0ZXJzLAogICAgaGFzQWN0aXZlRmlsdGVycywKICAgIGNhdGVnb3JpZXMsCiAgfSA9IHVzZVByb2plY3RGaWx0ZXIoKTsKCiAgcmV0dXJuICgKICAgIDxzZWN0aW9uIGlkPSJmZWF0dXJlZC1wcm9qZWN0cyIgY2xhc3NOYW1lPSJzZWN0aW9uLWNvbnRhaW5lciBiZy1tdXRlZC8zMCI+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJzZWN0aW9uLWhlYWRlciI+CiAgICAgICAgPG1vdGlvbi5oMgogICAgICAgICAgaW5pdGlhbD17eyBvcGFjaXR5OiAwLCB5OiAyMCB9fQogICAgICAgICAgd2hpbGVJblZpZXc9e3sgb3BhY2l0eTogMSwgeTogMCB9fQogICAgICAgICAgdmlld3BvcnQ9e3sgb25jZTogdHJ1ZSB9fQogICAgICAgICAgY2xhc3NOYW1lPSJzZWN0aW9uLXRpdGxlIgogICAgICAgID4KICAgICAgICAgIEZlYXR1cmVkIFByb2plY3RzCiAgICAgICAgPC9tb3Rpb24uaDI+CiAgICAgICAgPG1vdGlvbi5wCiAgICAgICAgICBpbml0aWFsPXt7IG9wYWNpdHk6IDAsIHk6IDIwIH19CiAgICAgICAgICB3aGlsZUluVmlldz17eyBvcGFjaXR5OiAxLCB5OiAwIH19CiAgICAgICAgICB2aWV3cG9ydD17eyBvbmNlOiB0cnVlIH19CiAgICAgICAgICB0cmFuc2l0aW9uPXt7IGRlbGF5OiAwLjEgfX0KICAgICAgICAgIGNsYXNzTmFtZT0ic2VjdGlvbi1zdWJ0aXRsZSIKICAgICAgICA+CiAgICAgICAgICBGbGFnc2hpcCBwcm9kdWN0cyBhbmQgcGxhdGZvcm1zIHRoYXQgZHJvdmUgc2lnbmlmaWNhbnQgYnVzaW5lc3MgaW1wYWN0CiAgICAgICAgPC9tb3Rpb24ucD4KICAgICAgPC9kaXY+CgogICAgICB7LyogRmlsdGVycyAqL30KICAgICAgPG1vdGlvbi5kaXYKICAgICAgICBpbml0aWFsPXt7IG9wYWNpdHk6IDAsIHk6IDIwIH19CiAgICAgICAgd2hpbGVJblZpZXc9e3sgb3BhY2l0eTogMSwgeTogMCB9fQogICAgICAgIHZpZXdwb3J0PXt7IG9uY2U6IHRydWUgfX0KICAgICAgICBjbGFzc05hbWU9Im1iLTggc3BhY2UteS00IgogICAgICA+CiAgICAgICAgey8qIENhdGVnb3J5IFBpbGxzICovfQogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGZsZXgtd3JhcCBnYXAtMiBqdXN0aWZ5LWNlbnRlciI+CiAgICAgICAgICB7Y2F0ZWdvcmllcy5tYXAoKGNhdGVnb3J5KSA9PiAoCiAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICBrZXk9e2NhdGVnb3J5fQogICAgICAgICAgICAgIHZhcmlhbnQ9e2FjdGl2ZUNhdGVnb3J5ID09PSBjYXRlZ29yeSA/ICdkZWZhdWx0JyA6ICdvdXRsaW5lJ30KICAgICAgICAgICAgICBzaXplPSJzbSIKICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBzZXRBY3RpdmVDYXRlZ29yeShjYXRlZ29yeSl9CiAgICAgICAgICAgICAgY2xhc3NOYW1lPXtgcm91bmRlZC1mdWxsICR7CiAgICAgICAgICAgICAgICBhY3RpdmVDYXRlZ29yeSA9PT0gY2F0ZWdvcnkKICAgICAgICAgICAgICAgICAgPyAnYmctYWNjZW50IHRleHQtYWNjZW50LWZvcmVncm91bmQnCiAgICAgICAgICAgICAgICAgIDogJ2hvdmVyOmJnLWFjY2VudC8xMCBob3Zlcjp0ZXh0LWFjY2VudCBob3Zlcjpib3JkZXItYWNjZW50JwogICAgICAgICAgICAgIH1gfQogICAgICAgICAgICA+CiAgICAgICAgICAgICAge2NhdGVnb3J5fQogICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICkpfQogICAgICAgIDwvZGl2PgoKICAgICAgICB7LyogU2VhcmNoIEJhciAqL30KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibWF4LXctbWQgbXgtYXV0byByZWxhdGl2ZSI+CiAgICAgICAgICA8U2VhcmNoIGNsYXNzTmFtZT0iYWJzb2x1dGUgbGVmdC0zIHRvcC0xLzIgLXRyYW5zbGF0ZS15LTEvMiBoLTQgdy00IHRleHQtbXV0ZWQtZm9yZWdyb3VuZCIgLz4KICAgICAgICAgIDxJbnB1dAogICAgICAgICAgICB0eXBlPSJ0ZXh0IgogICAgICAgICAgICBwbGFjZWhvbGRlcj0iU2VhcmNoIHByb2plY3RzIGJ5IHNraWxscywgdGVjaCBzdGFjaywgb3IgZG9tYWluLi4uIgogICAgICAgICAgICB2YWx1ZT17c2VhcmNoUXVlcnl9CiAgICAgICAgICAgIG9uQ2hhbmdlPXsoZSkgPT4gc2V0U2VhcmNoUXVlcnkoZS50YXJnZXQudmFsdWUpfQogICAgICAgICAgICBjbGFzc05hbWU9InBsLTEwIHByLTEwIgogICAgICAgICAgLz4KICAgICAgICAgIHtzZWFyY2hRdWVyeSAmJiAoCiAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICB2YXJpYW50PSJnaG9zdCIKICAgICAgICAgICAgICBzaXplPSJpY29uIgogICAgICAgICAgICAgIGNsYXNzTmFtZT0iYWJzb2x1dGUgcmlnaHQtMSB0b3AtMS8yIC10cmFuc2xhdGUteS0xLzIgaC04IHctOCIKICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBzZXRTZWFyY2hRdWVyeSgnJyl9CiAgICAgICAgICAgID4KICAgICAgICAgICAgICA8WCBjbGFzc05hbWU9ImgtNCB3LTQiIC8+CiAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgKX0KICAgICAgICA8L2Rpdj4KCiAgICAgICAgey8qIENsZWFyIEZpbHRlcnMgKi99CiAgICAgICAge2hhc0FjdGl2ZUZpbHRlcnMgJiYgKAogICAgICAgICAgPGRpdiBjbGFzc05hbWU9InRleHQtY2VudGVyIj4KICAgICAgICAgICAgPEJ1dHRvbiB2YXJpYW50PSJnaG9zdCIgc2l6ZT0ic20iIG9uQ2xpY2s9e2NsZWFyRmlsdGVyc30gY2xhc3NOYW1lPSJ0ZXh0LWFjY2VudCI+CiAgICAgICAgICAgICAgQ2xlYXIgYWxsIGZpbHRlcnMKICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICApfQogICAgICA8L21vdGlvbi5kaXY+CgogICAgICB7LyogUHJvamVjdHMgR3JpZCAqL30KICAgICAge2ZlYXR1cmVkRmlsdGVyZWQubGVuZ3RoID4gMCA/ICgKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZ3JpZCBncmlkLWNvbHMtMSBsZzpncmlkLWNvbHMtMiBnYXAtNiI+CiAgICAgICAgICB7ZmVhdHVyZWRGaWx0ZXJlZC5tYXAoKHByb2plY3QpID0+ICgKICAgICAgICAgICAgPFByb2plY3RDYXJkIGtleT17cHJvamVjdC5pZH0gcHJvamVjdD17cHJvamVjdH0gZmVhdHVyZWQgLz4KICAgICAgICAgICkpfQogICAgICAgIDwvZGl2PgogICAgICApIDogKAogICAgICAgIDxtb3Rpb24uZGl2CiAgICAgICAgICBpbml0aWFsPXt7IG9wYWNpdHk6IDAgfX0KICAgICAgICAgIGFuaW1hdGU9e3sgb3BhY2l0eTogMSB9fQogICAgICAgICAgY2xhc3NOYW1lPSJ0ZXh0LWNlbnRlciBweS0xMiIKICAgICAgICA+CiAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtbXV0ZWQtZm9yZWdyb3VuZCB0ZXh0LWxnIj5ObyBwcm9qZWN0cyBmb3VuZCBtYXRjaGluZyB5b3VyIGNyaXRlcmlhLjwvcD4KICAgICAgICAgIDxCdXR0b24gdmFyaWFudD0ibGluayIgb25DbGljaz17Y2xlYXJGaWx0ZXJzfSBjbGFzc05hbWU9InRleHQtYWNjZW50IG10LTIiPgogICAgICAgICAgICBDbGVhciBmaWx0ZXJzIHRvIHNlZSBhbGwgcHJvamVjdHMKICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgIDwvbW90aW9uLmRpdj4KICAgICAgKX0KICAgIDwvc2VjdGlvbj4KICApOwp9Owo="}
+import { motion } from 'framer-motion';
+import { Search, X } from 'lucide-react';
+import { Input } from '@/components/ui/input';
+import { Button } from '@/components/ui/button';
+import { ProjectCard } from '@/components/ProjectCard';
+import { useProjectFilter } from '@/hooks/useProjectFilter';
+
+export const FeaturedProjectsSection = () => {
+  const {
+    activeCategory,
+    setActiveCategory,
+    searchQuery,
+    setSearchQuery,
+    featuredFiltered,
+    clearFilters,
+    hasActiveFilters,
+    categories,
+  } = useProjectFilter();
+
+  return (
+    <section id="featured-projects" className="section-container bg-muted/30">
+      <div className="section-header">
+        <motion.h2
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          className="section-title"
+        >
+          Featured Projects
+        </motion.h2>
+        <motion.p
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          transition={{ delay: 0.1 }}
+          className="section-subtitle"
+        >
+          Flagship products and platforms that drove significant business impact
+        </motion.p>
+      </div>
+
+      {/* Filters */}
+      <motion.div
+        initial={{ opacity: 0, y: 20 }}
+        whileInView={{ opacity: 1, y: 0 }}
+        viewport={{ once: true }}
+        className="mb-8 space-y-4"
+      >
+        {/* Category Pills */}
+        <div className="flex flex-wrap gap-2 justify-center">
+          {categories.map((category) => (
+            <Button
+              key={category}
+              variant={activeCategory === category ? 'default' : 'outline'}
+              size="sm"
+              onClick={() => setActiveCategory(category)}
+              className={`rounded-full ${
+                activeCategory === category
+                  ? 'bg-accent text-accent-foreground'
+                  : 'hover:bg-accent/10 hover:text-accent hover:border-accent'
+              }`}
+            >
+              {category}
+            </Button>
+          ))}
+        </div>
+
+        {/* Search Bar */}
+        <div className="max-w-md mx-auto relative">
+          <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-muted-foreground" />
+          <Input
+            type="text"
+            placeholder="Search projects by skills, tech stack, or domain..."
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+            className="pl-10 pr-10"
+          />
+          {searchQuery && (
+            <Button
+              variant="ghost"
+              size="icon"
+              className="absolute right-1 top-1/2 -translate-y-1/2 h-8 w-8"
+              onClick={() => setSearchQuery('')}
+            >
+              <X className="h-4 w-4" />
+            </Button>
+          )}
+        </div>
+
+        {/* Clear Filters */}
+        {hasActiveFilters && (
+          <div className="text-center">
+            <Button variant="ghost" size="sm" onClick={clearFilters} className="text-accent">
+              Clear all filters
+            </Button>
+          </div>
+        )}
+      </motion.div>
+
+      {/* Projects Grid */}
+      {featuredFiltered.length > 0 ? (
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+          {featuredFiltered.map((project) => (
+            <ProjectCard key={project.id} project={project} featured />
+          ))}
+        </div>
+      ) : (
+        <motion.div
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          className="text-center py-12"
+        >
+          <p className="text-muted-foreground text-lg">No projects found matching your criteria.</p>
+          <Button variant="link" onClick={clearFilters} className="text-accent mt-2">
+            Clear filters to see all projects
+          </Button>
+        </motion.div>
+      )}
+    </section>
+  );
+};

@@ -1,1 +1,154 @@
-{"data":"aW1wb3J0IHsgbW90aW9uIH0gZnJvbSAnZnJhbWVyLW1vdGlvbic7CmltcG9ydCB7IFJvY2tldCwgQnJhaW4sIENvZGUsIFNoaWVsZCwgVXNlcnMgfSBmcm9tICdsdWNpZGUtcmVhY3QnOwoKY29uc3QgZXhwZXJ0aXNlQXJlYXMgPSBbCiAgewogICAgaWNvbjogUm9ja2V0LAogICAgdGl0bGU6ICdQcm9kdWN0IFN0cmF0ZWd5ICYgSW5ub3ZhdGlvbicsCiAgICBjb2xvcjogJ3RleHQtdGVhbCcsCiAgICBiZ0NvbG9yOiAnYmctdGVhbC8xMCcsCiAgICBpdGVtczogWwogICAgICAnRW5kLXRvLWVuZCBwcm9kdWN0IGxpZmVjeWNsZSAoMOKGkjHihpIxMDApJywKICAgICAgJ0FnaWxlL1NjcnVtLCBPS1JzLCBKVEJELCBBQVJSUiBmcmFtZXdvcmtzJywKICAgICAgJ1Byb2R1Y3Qgcm9hZG1hcHBpbmcgJiBzdHJhdGVnaWMgcGxhbm5pbmcnLAogICAgICAnRGF0YS1kcml2ZW4gZGVjaXNpb24gbWFraW5nJywKICAgIF0sCiAgfSwKICB7CiAgICBpY29uOiBCcmFpbiwKICAgIHRpdGxlOiAnQUkvTUwgJiBBZ2VudGljIFN5c3RlbXMnLAogICAgY29sb3I6ICd0ZXh0LXB1cnBsZS1haScsCiAgICBiZ0NvbG9yOiAnYmctcHVycGxlLWFpLzEwJywKICAgIGl0ZW1zOiBbCiAgICAgICdBZ2VudGljIEFJIGRldmVsb3BtZW50IChhdXRvbm9tb3VzIHN5c3RlbXMpJywKICAgICAgJ01MOiBMb2dpc3RpYyBSZWdyZXNzaW9uLCBDbGFzc2lmaWNhdGlvbiwgUmlzayBNb2RlbGluZycsCiAgICAgICdOTFAgJiBUcmFuc2Zvcm1lcnM6IEJFUlQsIFNCRVJULCBTZW1hbnRpYyBTZWFyY2gnLAogICAgICAnUHl0aG9uOiBzY2lraXQtbGVhcm4sIHBhbmRhcywgU3RyZWFtbGl0LCBDcmV3QUknLAogICAgICAnTUxPcHM6IE1vZGVsIHRyYWluaW5nLCBhdXRvbWF0ZWQgcmV0cmFpbmluZycsCiAgICAgICdFeHBsYWluYWJsZSBBSTogTW9kZWwgaW50ZXJwcmV0YWJpbGl0eScsCiAgICBdLAogIH0sCiAgewogICAgaWNvbjogQ29kZSwKICAgIHRpdGxlOiAnQVBJICYgUGxhdGZvcm0gTWFuYWdlbWVudCcsCiAgICBjb2xvcjogJ3RleHQtbmF2eSBkYXJrOnRleHQtYmx1ZS00MDAnLAogICAgYmdDb2xvcjogJ2JnLW5hdnkvMTAgZGFyazpiZy1ibHVlLTQwMC8xMCcsCiAgICBpdGVtczogWwogICAgICAnUkVTVGZ1bCBBUEkgZGVzaWduICYgQjJCIFNhYVMgcGxhdGZvcm1zJywKICAgICAgJ0RldmVsb3BlciBleHBlcmllbmNlICYgZWNvc3lzdGVtIGdyb3d0aCcsCiAgICAgICdBUEkgZG9jdW1lbnRhdGlvbiAmIHNhbmRib3ggZW52aXJvbm1lbnRzJywKICAgICAgJ0VudGVycHJpc2UgaW50ZWdyYXRpb24gJiBtb2JpbGUtZmlyc3Qgc29sdXRpb25zJywKICAgICAgJ1BsYXRmb3JtIHNjYWxhYmlsaXR5ICYgcGVyZm9ybWFuY2Ugb3B0aW1pemF0aW9uJywKICAgIF0sCiAgfSwKICB7CiAgICBpY29uOiBTaGllbGQsCiAgICB0aXRsZTogJ1JlZ3VsYXRvcnkgJiBDb21wbGlhbmNlJywKICAgIGNvbG9yOiAndGV4dC1lbWVyYWxkLTYwMCBkYXJrOnRleHQtZW1lcmFsZC00MDAnLAogICAgYmdDb2xvcjogJ2JnLWVtZXJhbGQtNTAwLzEwJywKICAgIGl0ZW1zOiBbCiAgICAgICdHRFBSLCBDQ1BBLCBBYWRoYWFyL1VJREFJIHJlZ3VsYXRpb25zJywKICAgICAgJ0RhdGEgcHJpdmFjeSwgc2VjdXJpdHkgJiBhdWRpdCByZWFkaW5lc3MnLAogICAgICAnQkZTSSBjb21wbGlhbmNlIGZyYW1ld29ya3MnLAogICAgICAnRGF0YSBnb3Zlcm5hbmNlICYgcXVhbGl0eSBtYW5hZ2VtZW50JywKICAgICAgJ1JlZ3VsYXRvcnkgcmVwb3J0aW5nIGF1dG9tYXRpb24nLAogICAgXSwKICB9LAogIHsKICAgIGljb246IFVzZXJzLAogICAgdGl0bGU6ICdMZWFkZXJzaGlwICYgRXhlY3V0aW9uJywKICAgIGNvbG9yOiAndGV4dC1vcmFuZ2UtNjAwIGRhcms6dGV4dC1vcmFuZ2UtNDAwJywKICAgIGJnQ29sb3I6ICdiZy1vcmFuZ2UtNTAwLzEwJywKICAgIGl0ZW1zOiBbCiAgICAgICdDcm9zcy1mdW5jdGlvbmFsIHRlYW0gbGVhZGVyc2hpcCcsCiAgICAgICdTdGFrZWhvbGRlciBtYW5hZ2VtZW50ICYgZXhlY3V0aXZlIGFsaWdubWVudCcsCiAgICAgICdQJkwgb3ZlcnNpZ2h0ICYgYnVkZ2V0IG1hbmFnZW1lbnQnLAogICAgICAnR28tdG8tbWFya2V0IHN0cmF0ZWd5ICYgZ3Jvd3RoIGhhY2tpbmcnLAogICAgICAnQ2hhbmdlIG1hbmFnZW1lbnQgJiB0cmFuc2Zvcm1hdGlvbicsCiAgICBdLAogIH0sCl07Cgpjb25zdCBjb250YWluZXJWYXJpYW50cyA9IHsKICBoaWRkZW46IHsgb3BhY2l0eTogMCB9LAogIHZpc2libGU6IHsKICAgIG9wYWNpdHk6IDEsCiAgICB0cmFuc2l0aW9uOiB7CiAgICAgIHN0YWdnZXJDaGlsZHJlbjogMC4xLAogICAgfSwKICB9LAp9OwoKY29uc3QgaXRlbVZhcmlhbnRzID0gewogIGhpZGRlbjogeyBvcGFjaXR5OiAwLCB5OiAyMCB9LAogIHZpc2libGU6IHsKICAgIG9wYWNpdHk6IDEsCiAgICB5OiAwLAogICAgdHJhbnNpdGlvbjogeyBkdXJhdGlvbjogMC41IH0sCiAgfSwKfTsKCmV4cG9ydCBjb25zdCBBYm91dFNlY3Rpb24gPSAoKSA9PiB7CiAgcmV0dXJuICgKICAgIDxzZWN0aW9uIGlkPSJhYm91dCIgY2xhc3NOYW1lPSJzZWN0aW9uLWNvbnRhaW5lciI+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJzZWN0aW9uLWhlYWRlciI+CiAgICAgICAgPG1vdGlvbi5oMgogICAgICAgICAgaW5pdGlhbD17eyBvcGFjaXR5OiAwLCB5OiAyMCB9fQogICAgICAgICAgd2hpbGVJblZpZXc9e3sgb3BhY2l0eTogMSwgeTogMCB9fQogICAgICAgICAgdmlld3BvcnQ9e3sgb25jZTogdHJ1ZSB9fQogICAgICAgICAgY2xhc3NOYW1lPSJzZWN0aW9uLXRpdGxlIgogICAgICAgID4KICAgICAgICAgIEFib3V0IE1lCiAgICAgICAgPC9tb3Rpb24uaDI+CiAgICAgIDwvZGl2PgoKICAgICAgey8qIFByb2Zlc3Npb25hbCBTdW1tYXJ5ICovfQogICAgICA8bW90aW9uLmRpdgogICAgICAgIGluaXRpYWw9e3sgb3BhY2l0eTogMCwgeTogMjAgfX0KICAgICAgICB3aGlsZUluVmlldz17eyBvcGFjaXR5OiAxLCB5OiAwIH19CiAgICAgICAgdmlld3BvcnQ9e3sgb25jZTogdHJ1ZSB9fQogICAgICAgIGNsYXNzTmFtZT0ibWF4LXctNHhsIG14LWF1dG8gbWItMTYgc3BhY2UteS02IgogICAgICA+CiAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LWxnIGxlYWRpbmctcmVsYXhlZCB0ZXh0LW11dGVkLWZvcmVncm91bmQiPgogICAgICAgICAgU3RyYXRlZ2ljIHByb2R1Y3QgbGVhZGVyIHdpdGggPHN0cm9uZyBjbGFzc05hbWU9InRleHQtZm9yZWdyb3VuZCI+MTgrIHllYXJzPC9zdHJvbmc+IHNwYW5uaW5nIDDihpIxIHN0YXJ0dXBzIGFuZCBuYXRpb25hbC1zY2FsZSBwbGF0Zm9ybXMuIEN1cnJlbnRseSBwaW9uZWVyaW5nIEluZGlhJ3MgZmlyc3QgQWFkaGFhciBTYW5kYm94IGF0IFVJREFJLCBlbmFibGluZyBzZWN1cmUgZGlnaXRhbCBpZGVudGl0eSBpbnRlZ3JhdGlvbiBmb3IgZmludGVjaHMsIGdvdmVybm1lbnQgYWdlbmNpZXMsIGFuZCBlbnRlcnByaXNlcy4KICAgICAgICA8L3A+CiAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LWxnIGxlYWRpbmctcmVsYXhlZCB0ZXh0LW11dGVkLWZvcmVncm91bmQiPgogICAgICAgICAgQnJpbmdzIGVuZC10by1lbmQgcHJvZHVjdCBleHBlcnRpc2XigJRmcm9tIHZpc2lvbiBhbmQgZ28tdG8tbWFya2V0IHRvIHNjYWxlIGFuZCB0cmFuc2l0aW9u4oCUYWxvbmdzaWRlIGRlZXAgc2tpbGxzIGluIDxzdHJvbmcgY2xhc3NOYW1lPSJ0ZXh0LWZvcmVncm91bmQiPkFQSSBlY29zeXN0ZW1zLCBBSS9NTCBpbnRlZ3JhdGlvbiwgZW50ZXJwcmlzZSBhcHBsaWNhdGlvbnMsIGFuZCByZWd1bGF0b3J5IHBsYXRmb3Jtczwvc3Ryb25nPi4KICAgICAgICA8L3A+CiAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LWxnIGxlYWRpbmctcmVsYXhlZCB0ZXh0LW11dGVkLWZvcmVncm91bmQiPgogICAgICAgICAgUHJvdmVuIHRyYWNrIHJlY29yZCBvZiBsYXVuY2hpbmcgcHJvZHVjdHMgdGhhdCBnZW5lcmF0ZSA8c3Ryb25nIGNsYXNzTmFtZT0idGV4dC1mb3JlZ3JvdW5kIj5taWxsaW9ucyBpbiByZXZlbnVlPC9zdHJvbmc+LCBidWlsZGluZyBoaWdoLXBlcmZvcm1pbmcgdGVhbXMsIGFuZCBkZWxpdmVyaW5nIG1hcmtldC1kaXNydXB0aW5nIHNvbHV0aW9ucyBhY3Jvc3MgQkZTSSwgcHVibGljIHNlY3RvciwgYW5kIFNhYVMgZG9tYWlucy4KICAgICAgICA8L3A+CiAgICAgIDwvbW90aW9uLmRpdj4KCiAgICAgIHsvKiBDb3JlIEV4cGVydGlzZSBHcmlkICovfQogICAgICA8bW90aW9uLmRpdgogICAgICAgIHZhcmlhbnRzPXtjb250YWluZXJWYXJpYW50c30KICAgICAgICBpbml0aWFsPSJoaWRkZW4iCiAgICAgICAgd2hpbGVJblZpZXc9InZpc2libGUiCiAgICAgICAgdmlld3BvcnQ9e3sgb25jZTogdHJ1ZSB9fQogICAgICAgIGNsYXNzTmFtZT0iZ3JpZCBncmlkLWNvbHMtMSBtZDpncmlkLWNvbHMtMiBsZzpncmlkLWNvbHMtMyB4bDpncmlkLWNvbHMtNSBnYXAtNiIKICAgICAgPgogICAgICAgIHtleHBlcnRpc2VBcmVhcy5tYXAoKGFyZWEsIGluZGV4KSA9PiAoCiAgICAgICAgICA8bW90aW9uLmRpdgogICAgICAgICAgICBrZXk9e2FyZWEudGl0bGV9CiAgICAgICAgICAgIHZhcmlhbnRzPXtpdGVtVmFyaWFudHN9CiAgICAgICAgICAgIGNsYXNzTmFtZT0iY2FyZC1ob3ZlciBiZy1jYXJkIHJvdW5kZWQteGwgcC02IGJvcmRlciBib3JkZXItYm9yZGVyIHNoYWRvdy1zb2Z0IgogICAgICAgICAgPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT17YHctMTIgaC0xMiByb3VuZGVkLWxnICR7YXJlYS5iZ0NvbG9yfSBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBtYi00YH0+CiAgICAgICAgICAgICAgPGFyZWEuaWNvbiBjbGFzc05hbWU9e2BoLTYgdy02ICR7YXJlYS5jb2xvcn1gfSAvPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGgzIGNsYXNzTmFtZT0iZm9udC1kaXNwbGF5IGZvbnQtc2VtaWJvbGQgdGV4dC1sZyB0ZXh0LWZvcmVncm91bmQgbWItNCI+e2FyZWEudGl0bGV9PC9oMz4KICAgICAgICAgICAgPHVsIGNsYXNzTmFtZT0ic3BhY2UteS0yIj4KICAgICAgICAgICAgICB7YXJlYS5pdGVtcy5tYXAoKGl0ZW0sIGl0ZW1JbmRleCkgPT4gKAogICAgICAgICAgICAgICAgPGxpIGtleT17aXRlbUluZGV4fSBjbGFzc05hbWU9InRleHQtc20gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIGZsZXggaXRlbXMtc3RhcnQgZ2FwLTIiPgogICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9e2Ake2FyZWEuY29sb3J9IG10LTEuNSB3LTEuNSBoLTEuNSByb3VuZGVkLWZ1bGwgZmxleC1zaHJpbmstMGB9IHN0eWxlPXt7IGJhY2tncm91bmRDb2xvcjogJ2N1cnJlbnRDb2xvcicgfX0gLz4KICAgICAgICAgICAgICAgICAgPHNwYW4+e2l0ZW19PC9zcGFuPgogICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgPC91bD4KICAgICAgICAgIDwvbW90aW9uLmRpdj4KICAgICAgICApKX0KICAgICAgPC9tb3Rpb24uZGl2PgogICAgPC9zZWN0aW9uPgogICk7Cn07Cg=="}
+import { motion } from 'framer-motion';
+import { Rocket, Brain, Code, Shield, Users } from 'lucide-react';
+
+const expertiseAreas = [
+  {
+    icon: Rocket,
+    title: 'Product Strategy & Innovation',
+    color: 'text-teal',
+    bgColor: 'bg-teal/10',
+    items: [
+      'End-to-end product lifecycle (0→1→100)',
+      'Agile/Scrum, OKRs, JTBD, AARRR frameworks',
+      'Product roadmapping & strategic planning',
+      'Data-driven decision making',
+    ],
+  },
+  {
+    icon: Brain,
+    title: 'AI/ML & Agentic Systems',
+    color: 'text-purple-ai',
+    bgColor: 'bg-purple-ai/10',
+    items: [
+      'Agentic AI development (autonomous systems)',
+      'ML: Logistic Regression, Classification, Risk Modeling',
+      'NLP & Transformers: BERT, SBERT, Semantic Search',
+      'Python: scikit-learn, pandas, Streamlit, CrewAI',
+      'MLOps: Model training, automated retraining',
+      'Explainable AI: Model interpretability',
+    ],
+  },
+  {
+    icon: Code,
+    title: 'API & Platform Management',
+    color: 'text-navy dark:text-blue-400',
+    bgColor: 'bg-navy/10 dark:bg-blue-400/10',
+    items: [
+      'RESTful API design & B2B SaaS platforms',
+      'Developer experience & ecosystem growth',
+      'API documentation & sandbox environments',
+      'Enterprise integration & mobile-first solutions',
+      'Platform scalability & performance optimization',
+    ],
+  },
+  {
+    icon: Shield,
+    title: 'Regulatory & Compliance',
+    color: 'text-emerald-600 dark:text-emerald-400',
+    bgColor: 'bg-emerald-500/10',
+    items: [
+      'GDPR, CCPA, Aadhaar/UIDAI regulations',
+      'Data privacy, security & audit readiness',
+      'BFSI compliance frameworks',
+      'Data governance & quality management',
+      'Regulatory reporting automation',
+    ],
+  },
+  {
+    icon: Users,
+    title: 'Leadership & Execution',
+    color: 'text-orange-600 dark:text-orange-400',
+    bgColor: 'bg-orange-500/10',
+    items: [
+      'Cross-functional team leadership',
+      'Stakeholder management & executive alignment',
+      'P&L oversight & budget management',
+      'Go-to-market strategy & growth hacking',
+      'Change management & transformation',
+    ],
+  },
+];
+
+const containerVariants = {
+  hidden: { opacity: 0 },
+  visible: {
+    opacity: 1,
+    transition: {
+      staggerChildren: 0.1,
+    },
+  },
+};
+
+const itemVariants = {
+  hidden: { opacity: 0, y: 20 },
+  visible: {
+    opacity: 1,
+    y: 0,
+    transition: { duration: 0.5 },
+  },
+};
+
+export const AboutSection = () => {
+  return (
+    <section id="about" className="section-container">
+      <div className="section-header">
+        <motion.h2
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          className="section-title"
+        >
+          About Me
+        </motion.h2>
+      </div>
+
+      {/* Professional Summary */}
+      <motion.div
+        initial={{ opacity: 0, y: 20 }}
+        whileInView={{ opacity: 1, y: 0 }}
+        viewport={{ once: true }}
+        className="max-w-4xl mx-auto mb-16 space-y-6"
+      >
+        <p className="text-lg leading-relaxed text-muted-foreground">
+          Strategic product leader with <strong className="text-foreground">18+ years</strong> spanning 0→1 startups and national-scale platforms. Currently pioneering India's first Aadhaar Sandbox at UIDAI, enabling secure digital identity integration for fintechs, government agencies, and enterprises.
+        </p>
+        <p className="text-lg leading-relaxed text-muted-foreground">
+          Brings end-to-end product expertise—from vision and go-to-market to scale and transition—alongside deep skills in <strong className="text-foreground">API ecosystems, AI/ML integration, enterprise applications, and regulatory platforms</strong>.
+        </p>
+        <p className="text-lg leading-relaxed text-muted-foreground">
+          Proven track record of launching products that generate <strong className="text-foreground">millions in revenue</strong>, building high-performing teams, and delivering market-disrupting solutions across BFSI, public sector, and SaaS domains.
+        </p>
+      </motion.div>
+
+      {/* Core Expertise Grid */}
+      <motion.div
+        variants={containerVariants}
+        initial="hidden"
+        whileInView="visible"
+        viewport={{ once: true }}
+        className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-6"
+      >
+        {expertiseAreas.map((area, index) => (
+          <motion.div
+            key={area.title}
+            variants={itemVariants}
+            className="card-hover bg-card rounded-xl p-6 border border-border shadow-soft"
+          >
+            <div className={`w-12 h-12 rounded-lg ${area.bgColor} flex items-center justify-center mb-4`}>
+              <area.icon className={`h-6 w-6 ${area.color}`} />
+            </div>
+            <h3 className="font-display font-semibold text-lg text-foreground mb-4">{area.title}</h3>
+            <ul className="space-y-2">
+              {area.items.map((item, itemIndex) => (
+                <li key={itemIndex} className="text-sm text-muted-foreground flex items-start gap-2">
+                  <span className={`${area.color} mt-1.5 w-1.5 h-1.5 rounded-full flex-shrink-0`} style={{ backgroundColor: 'currentColor' }} />
+                  <span>{item}</span>
+                </li>
+              ))}
+            </ul>
+          </motion.div>
+        ))}
+      </motion.div>
+    </section>
+  );
+};
