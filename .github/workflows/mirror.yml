@@ -1,0 +1,24 @@
+name: Mirror to hegdeprasanna11-alt
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Push to mirror repo
+        env:
+          MIRROR_TOKEN: ${{ secrets.MIRROR_TOKEN }}
+        run: |
+          git remote add mirror https://x-access-token:${MIRROR_TOKEN}@github.com/hegdeprasanna11-alt/prasanna-hegde-portfolio.git
+          git push mirror main --force
+          echo "Mirror push complete!"
