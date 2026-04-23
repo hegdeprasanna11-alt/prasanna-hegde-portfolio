@@ -104,6 +104,62 @@ export const featuredProjects: Project[] = [
     githubUrl: 'https://github.com/PrasannaHegde11/credit-risk-ai',
   },
   {
+    id: 'ai-launch-warroom',
+    title: 'AI Launch Readiness War Room',
+    tagline: 'Multi-agent stakeholder simulation tool that stress-tests AI products before launch using LLM-powered personas and quantitative risk scoring',
+    timeline: 'AI Product Management Tool',
+    category: 'Artificial Intelligence & Machine Learning',
+    badges: [
+      { label: 'AI/ML', variant: 'purple' },
+      { label: 'Multi-Agent', variant: 'purple' },
+      { label: '⭐ Featured', variant: 'gold' },
+    ],
+    challenge: "AI product leaders waste weeks in cross-functional alignment meetings discovering critical compliance gaps, market risks, and technical blockers only after significant investment. Traditional pre-mortems are slow, subjective, and fail to surface brutal honest feedback from all stakeholder perspectives simultaneously.",
+    solution: "Built a strategic decision-support tool that automates the pre-mortem phase by simulating a high-stakes critique from four distinct AI-powered stakeholder personas — Skeptical User, GDPR Regulator, Competitor Analyst, and VC Investor. The system converts qualitative LLM feedback into quantitative readiness scores and auto-generates a board-ready strategy memo, enabling Go/No-Go decisions in minutes rather than weeks.",
+    metrics: [
+      { value: '4', label: 'Stakeholder personas simulated' },
+      { value: '100%', label: 'Demo reliability (circuit breaker)' },
+      { value: 'Minutes', label: 'vs. weeks for cross-functional alignment' },
+      { value: 'Go/No-Go', label: 'Objective launch decisions' },
+    ],
+    features: [
+      {
+        title: 'Simulation Engine',
+        items: [
+          'Skeptical User — challenges UX and real-world usability',
+          'GDPR Regulator — stress-tests data privacy and compliance',
+          'Competitor Analyst — evaluates market moat and differentiation',
+          'VC Investor — scrutinises ROI, scalability, and viability',
+        ],
+      },
+      {
+        title: 'Engineering Decisions',
+        items: [
+          'Scoring engine parses LLM responses into structured JSON for objective dashboards',
+          'Request throttling handles API rate limits (429 errors) gracefully',
+          'Mock Mode circuit breaker ensures 100% demo reliability',
+          'Plotly radar charts for multi-dimensional risk visualisation',
+        ],
+      },
+    ],
+    businessImpact: [
+      'Identifies critical compliance and market risks before production code is written',
+      'Reduces cross-functional alignment time from weeks to minutes',
+      'Converts messy stakeholder feedback into a professional board-ready strategy memo',
+      'Demonstrates graceful degradation — product works even when third-party APIs fail',
+    ],
+    learnings: [
+      'Persona grounding via engineered system prompts minimises AI-washing and forces honest critique',
+      'Quantitative scoring from qualitative LLM output enables objective Go/No-Go decisions',
+      'Operational resilience (throttling + mock mode) is a product feature, not just an engineering concern',
+      'The last mile of PM communication — the exec memo — is where alignment actually happens',
+    ],
+    techStack: ['Python', 'Anthropic Claude API', 'Streamlit', 'Plotly', 'Multi-Agent LLM', 'JSON Parsing', 'Request Throttling', 'Mock Mode Architecture'],
+    skills: ['Agentic AI', 'Product Strategy', 'Risk Assessment', 'LLM Orchestration', 'Streamlit Development', 'API Resilience', 'Executive Communication'],
+    featured: true,
+    githubUrl: 'https://github.com/PrasannaHegde11/ai-launch-warroom',
+  },
+  {
     id: 'resume-jd-ai',
     title: 'AI-Powered Resume-JD Alignment System',
     tagline: 'NLP-powered recruitment system using BERT/SBERT transformers for semantic candidate-job matching and skill gap analysis',
